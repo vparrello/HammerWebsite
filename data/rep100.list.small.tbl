@@ -1,0 +1,34 @@
+genome_id	genome_name	domain	genus	species	rep_id	score	distance
+1360.89	Lactococcus lactis subsp. lactis JCM 5805	Bacteria	1357	1358	272623.7	9999	0.00
+1396.1796	Bacillus cereus strain AFS039482	Bacteria	1386	1396	226900.8	325	0.07
+1404.255	Bacillus megaterium strain A	Bacteria	2800373	1404	226900.8	117	0.79
+1496.2130	Clostridioides difficile strain 5479-NonSp/ST229	Bacteria	1870884	1496	272563.8	9999	0.00
+1590.1401	Lactobacillus plantarum strain SRCM103300	Bacteria	2767842	1590	220668.9	333	0.05
+1679.197	Bifidobacterium longum subsp. longum strain MCC10128	Bacteria	1678	216816	206672.9	336	0.05
+1685.41	Bifidobacterium breve strain BR-14	Bacteria	1678	1685	206672.9	267	0.37
+1719.1358	Corynebacterium pseudotuberculosis strain 32	Bacteria	1716	1719	1224164.3	143	0.74
+1733.4452	Mycobacterium tuberculosis 16.0617363	Bacteria	1763	1773	83332.12	9999	0.00
+1733.700	Mycobacterium tuberculosis 14-002178	Bacteria	1763	1773	83332.12	9999	0.00
+197.17024	Campylobacter jejuni strain PHL84	Bacteria	194	197	192222.6	315	0.05
+210.1949	Helicobacter pylori strain UM096	Bacteria	209	210	85962.8	264	0.30
+244204.78	uncultured Wolbachia sp. strain WOLB0091	Bacteria	953	244204	570417.4	144	0.73
+2745937.3	Ochrobactrum sp. CNPMS2088	Bacteria	528	2745937	520461.7	233	0.53
+2758695.3	Pseudomonas sp. LMG 31766 strain 536	Bacteria	286	2758695	208964.12	149	0.71
+2804425.3	Staphylococcus sp. GDY8P72P	Bacteria	1279	2804425	176280.10	157	0.71
+287.14466	Pseudomonas aeruginosa strain SP2748	Bacteria	286	287	208964.12	323	0.05
+287.7612	Pseudomonas aeruginosa strain PA-W30	Bacteria	286	287	208964.12	315	0.09
+381.23	Mesorhizobium sp. LNJC380A00	Bacteria	68287	1287264	1320556.3	171	0.68
+40324.117	Stenotrophomonas maltophilia strain 860_SMAL	Bacteria	40323	40324	190485.4	153	0.69
+470.1880	Acinetobacter baumannii strain M	Bacteria	469	470	871585.3	279	0.22
+485.7616	Neisseria gonorrhoeae strain AUSMDU00006834	Bacteria	482	485	242231.10	322	0.06
+485.7733	Neisseria gonorrhoeae strain AUSMDU00006943	Bacteria	482	485	242231.10	322	0.06
+485.7751	Neisseria gonorrhoeae strain AUSMDU00006961	Bacteria	482	485	242231.10	306	0.15
+485.7852	Neisseria gonorrhoeae strain AUSMDU00007060	Bacteria	482	485	242231.10	322	0.06
+485.7863	Neisseria gonorrhoeae strain AUSMDU00007071	Bacteria	482	485	242231.10	322	0.06
+487.1035	Neisseria meningitidis strain 2842STDY5881455	Bacteria	482	487	242231.10	330	0.08
+487.1882	Neisseria meningitidis	Bacteria	482	487	242231.10	320	0.13
+487.688	Neisseria meningitidis strain 2842STDY5881590	Bacteria	482	487	242231.10	330	0.08
+573.12489	Klebsiella pneumoniae strain 402	Bacteria	570	573	511145.12	254	0.34
+820.529	Bacteroides uniformis strain OF04-14	Bacteria	816	820	295405.11	173	0.65
+210.1949	Other Fake Genome Name	Bacteria	123	123	210.1949	123	0.51
+1891280.3	Super Fake Genome Name	Bacteria	123	123	1891280.3	132	0.53

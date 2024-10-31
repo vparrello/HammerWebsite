@@ -1,0 +1,2884 @@
+rep_id	rep_name	rating	members
+511145.12	Escherichia coli str. K-12 substr. MG1655	NCBI_REF	102358
+83332.12	Mycobacterium tuberculosis H37Rv	NCBI_REF	29274
+764298.7	Streptococcus macacae NCTC 11558	NORMAL	26805
+176280.10	Staphylococcus epidermidis ATCC 12228	NCBI_REF	24082
+242231.10	Neisseria gonorrhoeae FA 1090	NCBI_REF	15493
+208964.12	Pseudomonas aeruginosa PAO1	NCBI_REF	13733
+871585.3	Acinetobacter calcoaceticus PHEA-2	NCBI_REF	12282
+160490.10	Streptococcus pyogenes M1 GAS	NCBI_REF	8039
+192222.6	Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	NCBI_REF	7224
+169963.11	Listeria monocytogenes EGD-e	NCBI_REF	5804
+312309.11	Vibrio fischeri ES114	NCBI_REF	5578
+243160.12	Burkholderia mallei ATCC 23344	NCBI_REF	5428
+1352.14276	Enterococcus faecium Sample_1	NORMAL	5279
+226900.8	Bacillus cereus ATCC 14579	NCBI_REF	4036
+226185.9	Enterococcus faecalis V583	NCBI_REF	3776
+190485.4	Xanthomonas campestris pv. campestris str. ATCC 33913	NCBI_REF	3654
+176299.10	Agrobacterium fabrum str. C58	NCBI_REF	3202
+295405.11	Bacteroides fragilis YCH46	NCBI_REF	2779
+100226.15	Streptomyces coelicolor A3(2)	NCBI_REF	2748
+85962.8	Helicobacter pylori 26695	NCBI_REF	2544
+272563.8	Clostridium difficile 630	NCBI_REF	2499
+71421.8	Haemophilus influenzae Rd KW20	NCBI_REF	2270
+224308.43	Bacillus subtilis subsp. subtilis str. 168	NCBI_REF	2123
+36809.5	Mycobacterium abscessus strain ATCC 19977	NCBI_REF	2067
+568707.3	Bordetella bronchiseptica 253	NCBI_REF	1776
+206672.9	Bifidobacterium longum NCC2705	NCBI_REF	1529
+520461.7	Brucella pinnipedialis B2/94	NCBI_REP	1293
+2029683.3	Photorhabdus sp. S9-53	NORMAL	1252
+218936.3	Aeromonas simiae CIP 107798	NCBI_REP	1144
+1320556.3	Mesorhizobium sp. NBIMC_P2-C3	NCBI_REP	1137
+272624.6	Legionella pneumophila subsp. pneumophila str. Philadelphia 1	NCBI_REF	1077
+402612.5	Flavobacterium psychrophilum JIP02/86	NCBI_REF	1058
+177416.18	Francisella tularensis subsp. tularensis SCHU S4	NCBI_REF	972
+220668.9	Lactobacillus plantarum WCFS1	NCBI_REF	929
+224911.5	Bradyrhizobium japonicum USDA 110	NCBI_REF	875
+693978.3	Riemerella anatipestifer ATCC 11845 = DSM 15868	NCBI_REP	859
+267608.8	Ralstonia solanacearum GMI1000	NCBI_REP	856
+1224164.3	Corynebacterium vitaeruminis DSM 20294	NCBI_REP	853
+570417.4	Wolbachia endosymbiont of Culex quinquefasciatus Pel strain wPip	NCBI_REP	838
+272621.13	Lactobacillus acidophilus NCFM	NCBI_REF	776
+1448389.3	Tomitella biformata AHU 1821	NCBI_REP	743
+575594.3	Lactobacillus coleohominis 101-4-CHN	NCBI_REP	692
+290055.14	Faecalicatena fissicatena strain An773	NORMAL	649
+441771.6	Clostridium botulinum A str. Hall	NCBI_REF	643
+189518.3	Leptospira interrogans serovar Lai str. 56601	NCBI_REF	605
+203120.7	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293	NCBI_REP	580
+246196.19	Mycobacterium smegmatis str. MC2 155	NCBI_REF	554
+321967.11	Lactobacillus casei ATCC 334	NCBI_REF	553
+535289.3	Acidovorax ebreus TPSY	NCBI_REP	523
+267747.3	Propionibacterium acnes KPA171202	NCBI_REP	513
+272623.7	Lactococcus lactis subsp. lactis Il1403	NCBI_REF	513
+867900.3	Cellulophaga lytica DSM 7489	NCBI_REP	498
+1167632.5	Staphylococcus vitulinus F1028	NCBI_REP	484
+1549858.3	Sphingomonas taxi ATCC 55669	NCBI_REP	473
+2796132.3	Pseudoalteromonas sp. BDTF-M6	NORMAL	465
+211586.12	Shewanella oneidensis MR-1	NCBI_REF	455
+361575.7	Arthrobacter phenanthrenivorans SWC37	NCBI_REP	454
+1391995.3	Mycobacterium avium subsp. paratuberculosis 10-5975	NORMAL	452
+979556.3	Microbacterium testaceum StLB037	NCBI_REP	442
+196627.13	Corynebacterium glutamicum ATCC 13032 (Prj:307)	NCBI_REF	439
+862514.3	Pediococcus acidilactici DSM 20284	NCBI_REP	437
+204773.6	Herminiimonas arsenicoxydans	NCBI_REP	428
+290398.11	Chromohalobacter salexigens DSM 3043	NCBI_REP	403
+272943.9	Rhodobacter sphaeroides 2.4.1	NCBI_REF	385
+420998.4	Jannaschia donghaensis strain CECT 7802	NCBI_REP	380
+391037.6	Salinispora arenicola CNS-205	NCBI_REP	358
+362948.14	Lactobacillus salivarius UCC118	NCBI_REF	347
+426355.14	Methylobacterium radiotolerans JCM 2831	NCBI_REP	342
+367737.6	Arcobacter butzleri RM4018	NCBI_REP	311
+279238.18	Novosphingobium aromaticivorans DSM 12444	NCBI_REP	307
+357809.8	Clostridium phytofermentans ISDg	NCBI_REP	299
+485917.6	Pedobacter heparinus DSM 2366	NCBI_REP	299
+2023143.3	Rhodococcus sp. 15-1189-1-1a	NORMAL	297
+314270.3	Rhodobacteraceae bacterium HTCC2083	NCBI_REP	296
+360105.8	Campylobacter curvus 525.92	NCBI_REP	295
+1238674.3	Weissella ceti NC36	NCBI_REP	292
+313594.4	Polaribacter irgensii 23-P	NCBI_REP	292
+349741.6	Akkermansia muciniphila ATCC BAA-835	NCBI_REP	292
+1978337.3	Petrimonas sp. IBARAKI	NORMAL	271
+195103.10	Clostridium perfringens ATCC 13124	NCBI_REP	268
+2047749.3	Oceaniglobus indicus strain 1-19b	NORMAL	262
+1736291.3	Curtobacterium sp. Leaf183	NCBI_REP	260
+2743.3	Marinobacter hydrocarbonoclasticus ATCC 49840	NCBI_REP	258
+290402.41	Clostridium beijerinckii NCIMB 8052	NCBI_REP	258
+471472.4	Chlamydia trachomatis 434/Bu	NCBI_REF	257
+759362.5	Ketogulonicigenium vulgare WSH-001	NCBI_REF	255
+167546.4	Prochlorococcus marinus str. MIT 9301	NCBI_REP	248
+2702.101	Gardnerella vaginalis strain CMW7778B	NORMAL	246
+1499681.3	Collinsella sp. MS5	NCBI_REP	239
+1244528.3	Campylobacter sp. 03-427	NCBI_REP	238
+390333.7	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842	NCBI_REP	238
+445974.6	Clostridium ramosum DSM 1402	NCBI_REP	228
+411483.3	Faecalibacterium prausnitzii A2-165	NCBI_REP	207
+749219.3	Moraxella catarrhalis RH4	NCBI_REP	205
+335284.6	Psychrobacter cryohalolentis K5	NCBI_REP	204
+1293911.3	Bartonella bacilliformis Ver097	NCBI_REP	195
+203123.7	Oenococcus oeni PSU-1	NCBI_REP	195
+420246.7	Geobacillus thermodenitrificans NG80-2	NCBI_REP	194
+245018.3	butyrate-producing bacterium SSC/2	NCBI_REP	187
+387344.15	Lactobacillus brevis ATCC 367	NCBI_REP	186
+449447.4	Microcystis aeruginosa NIES-843	NCBI_REP	186
+1526927.3	Planococcus sp. PAMC 21323	NCBI_REP	185
+2715756.3	Planktotalea sp. 26A2M	NORMAL	184
+1270.256	Micrococcus luteus strain MT1691313	NORMAL	182
+272947.5	Rickettsia prowazekii str. Madrid E	NCBI_REF	182
+272634.6	Mycoplasma pneumoniae M129	NCBI_REF	181
+411461.4	Dorea formicigenerans ATCC 27755	NCBI_REP	179
+145458.9	Rathayibacter toxicus strain WAC3373	NCBI_REP	174
+1002809.3	Solibacillus silvestris StLB046	NCBI_REP	173
+1208314.3	Gordonia namibiensis NBRC 108229	NCBI_REP	168
+1403243.5	Bacillus canaveralius strain M8-28	NORMAL	166
+479432.6	Streptosporangium roseum DSM 43021	NCBI_REP	162
+243365.4	Chromobacterium violaceum ATCC 12472	NCBI_REP	158
+1736406.3	Rhodanobacter sp. Soil772	NCBI_REP	155
+252305.5	Oceanicola batsensis HTCC2597	NCBI_REP	154
+349520.5	Paenibacillus polymyxa E681	NCBI_REP	152
+1163671.3	Clostridium sp. 12(A)	NORMAL	150
+1380392.3	Nocardioides sp. URHA0020	NCBI_REP	150
+178901.10	Acetobacter malorum strain DmCS_005	NCBI_REP	150
+1121354.3	Corynebacterium capitovis DSM 44611	NCBI_REP	149
+2729140.3	Salinimonas sp. HHU 13199	NORMAL	147
+1500960.3	Campylobacter sp. RM16704	NORMAL	146
+314315.12	Lactobacillus sakei subsp. sakei 23K	NCBI_REP	145
+331636.3	Chlamydophila psittaci 6BC	NCBI_REP	145
+290633.11	Gluconobacter oxydans 621H	NCBI_REP	144
+312153.5	Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1	NCBI_REP	138
+552398.3	Ruminococcaceae bacterium D16	NCBI_REP	138
+657308.3	Gordonibacter pamelaeae 7-10-1-b	NCBI_REP	135
+2762323.3	Variovorax sp. PAMC28562	NORMAL	134
+358681.3	Brevibacillus brevis NBRC 100599	NCBI_REP	134
+300852.9	Thermus thermophilus HB8	NCBI_REF	132
+1871053.137	Phenylobacterium sp. strain M41BS1SP3A60MG	NORMAL	130
+1522308.4	Bacillus niameyensis strain SIT3	NCBI_REP	128
+1451.18	Paenibacillus amylolyticus strain Heshi-A3	NCBI_REP	126
+565034.3	Brachyspira hyodysenteriae WA1	NCBI_REP	126
+749927.5	Amycolatopsis mediterranei U32	NCBI_REF	126
+458233.11	Macrococcus caseolyticus JCSC5402	NCBI_REP	125
+1478.19	Bacillus simplex strain RUG2-6	NORMAL	123
+552396.3	Erysipelotrichaceae bacterium 5_2_54FAA	NCBI_REP	121
+388413.5	Algoriphagus sp. PR1	NCBI_REP	120
+317655.17	Sphingopyxis alaskensis RB2256	NCBI_REP	118
+533240.4	Cylindrospermopsis raciborskii CS-505	NCBI_REP	117
+991905.3	Polymorphum gilvum SL003B-26A1	NCBI_REP	117
+190304.8	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	NCBI_REF	116
+590998.5	Cellulomonas fimi ATCC 484	NCBI_REP	116
+525327.3	Lactobacillus hilgardii ATCC 8290	NCBI_REP	114
+243230.17	Deinococcus radiodurans R1	NCBI_REF	113
+360911.3	Exiguobacterium sp. AT1b	NCBI_REP	113
+1033731.3	Alistipes sp. JC136	NCBI_REP	112
+443906.13	Clavibacter michiganensis subsp. michiganensis NCPPB 382	NCBI_REP	112
+309807.25	Salinibacter ruber DSM 13855	NCBI_REF	111
+321955.4	Brevibacterium linens BL2	NCBI_REP	108
+863239.6	Corynebacterium nuruki S6-4	NCBI_REP	108
+2509361.3	Erythrobacter sp. CFH 74456	NORMAL	107
+2836866.3	Mameliella sp. DP3N28-2	NORMAL	107
+479436.6	Veillonella parvula DSM 2008	NCBI_REP	104
+1442599.3	Luteimonas huabeiensis HB2	NCBI_REP	103
+1221996.3	Bacillus thermotolerans SGZ-8	NCBI_REP	100
+1536775.3	Paenibacillus sp. FSL H7-0737	NCBI_REP	100
+585502.3	Prevotella bergensis DSM 17361	NCBI_REP	100
+1267021.3	Frischella perrara PEB0191	NCBI_REP	98
+521097.5	Capnocytophaga ochracea DSM 7271	NCBI_REP	97
+167879.5	Colwellia psychrerythraea 34H	NCBI_REP	96
+216432.7	Croceibacter atlanticus HTCC2559	NCBI_REP	96
+431947.7	Porphyromonas gingivalis ATCC 33277	NCBI_REP	96
+633149.4	Brevundimonas subvibrioides ATCC 15264	NCBI_REP	96
+634177.7	Gluconacetobacter xylinus NBRC 3288	NCBI_REP	96
+192952.21	Methanosarcina mazei Go1	NCBI_REP	95
+1437874.4	Corynebacterium sphenisci DSM 44792	NORMAL	93
+255435.5	uncultured Formosa sp. strain AG-337-K17	NORMAL	93
+709991.3	Odoribacter splanchnicus DSM 220712	NCBI_REP	93
+134676.3	Actinoplanes sp. SE50/110	NCBI_REP	92
+680646.3	Rothia mucilaginosa DY-18	NCBI_REP	90
+1071085.3	haloarchaeon 3A1_DGR	NCBI_REP	89
+1385664.3	Hymenobacter sp. DG25B	NCBI_REP	89
+1507512.3	Romboutsia sp. Frifi strain FRIFI	NORMAL	89
+405948.11	Saccharopolyspora erythraea NRRL 2338	NCBI_REP	89
+1170562.3	Calothrix sp. PCC 6303	NCBI_REP	88
+1230341.3	Salimicrobium sp. MJ3	NCBI_REP	88
+1736408.3	Nocardioides sp. Soil774	NCBI_REP	87
+1129547.3	Sphingobium sufflavum HL-25	NORMAL	86
+1238.86	Piscirickettsia salmonis A1-15972	NCBI_REP	86
+1529066.4	Arthrobacter echini strain P9	NORMAL	86
+227377.7	Coxiella burnetii RSA 493	NCBI_REF	86
+179408.3	Oscillatoria nigro-viridis PCC 7112	NCBI_REP	85
+283942.6	Idiomarina loihiensis L2TR	NCBI_REP	84
+287752.3	Aurantimonas manganoxydans SI85-9A1	NCBI_REP	84
+380394.4	Acidithiobacillus ferrooxidans ATCC 53993	NCBI_REP	84
+640081.3	Dechlorosoma suillum PS	NCBI_REP	84
+525246.3	Actinomyces urogenitalis DSM 15434	NCBI_REP	83
+301302.4	Roseburia faecis strain M72	NCBI_REP	82
+1227481.4	Halorubrum hochstenium ATCC 700873	NCBI_REP	81
+526225.7	Geodermatophilus obscurus DSM 43160	NCBI_REP	81
+411466.7	Actinomyces odontolyticus ATCC 17982	NCBI_REP	80
+443610.3	Devosia geojensis strain BD-c194	NCBI_REP	80
+639283.3	Starkeya novella DSM 506	NCBI_REP	80
+68260.3	Streptomyces pyridomyceticus strain NRRL ISP-5024	NCBI_REP	80
+1077144.3	Dietzia alimentaria 72	NCBI_REP	77
+378753.5	Kocuria rhizophila DC2201	NCBI_REP	76
+1087479.3	Carnobacterium maltaromaticum ATCC 35586	NCBI_REP	75
+347257.7	Mycoplasma agalactiae PG2	NCBI_REP	75
+1203578.3	Pseudomonas sp. HPB0071	NCBI_REP	74
+1227490.4	Halovivax asiaticus JCM 14624	NCBI_REP	74
+1238186.3	Leucobacter salsicius M1-8	NCBI_REP	74
+59561.3	Trueperella bernardiae strain LCDC 89-0504	NCBI_REP	74
+62928.8	Azoarcus sp. BH72	NCBI_REP	74
+1423720.3	Lactobacillus alimentarius DSM 20249	NCBI_REP	73
+907.4	Megasphaera elsdenii DSM 20460	NCBI_REP	73
+1120960.3	Agromyces subbeticus DSM 16689	NCBI_REP	72
+1376.123	Aerococcus urinae strain CCUG36881	NCBI_REP	72
+1001240.4	Cryobacterium roopkundense RuG17	NCBI_REP	71
+1158146.3	Thioalkalivibrio sp. ALJT	NCBI_REP	71
+862719.3	Azospirillum lipoferum 4B	NCBI_REP	70
+1122228.3	Metascardovia criceti DSM 17774	NCBI_REP	69
+1449353.3	Streptacidiphilus oryzae TH49	NCBI_REP	69
+2663870.3	Bosea sp. OAE506	NORMAL	69
+262543.8	Exiguobacterium sibiricum 255-15	NCBI_REP	68
+272632.4	Mycoplasma mycoides subsp. mycoides SC str. PG1	NCBI_REF	68
+324057.4	Paenibacillus sp. JDR-2	NCBI_REP	68
+1192034.3	Chondromyces apiculatus DSM 436	NCBI_REP	67
+148814.8	Lactobacillus kunkeei strain LAko	NCBI_REP	67
+1788.10	Mycolicibacter terrae strain F12-74	NORMAL	67
+1042377.3	Alteromonas sp. S89	NCBI_REP	66
+1397.4	Bacillus circulans strain RIT379	NCBI_REP	66
+66712.6	Propionibacterium freudenreichii subsp. freudenreichii strain 20271T	NCBI_REP	66
+1173021.3	cyanobacterium PCC 7702	NCBI_REP	65
+471854.5	Dyadobacter fermentans DSM 18053	NCBI_REP	65
+96563.4	Pseudomonas stutzeri ATCC 17588 = LMG 11199	NCBI_REP	65
+167539.5	Prochlorococcus marinus subsp. marinus str. CCMP1375	NCBI_REF	64
+1476025.3	Bacillus vini strain JCM 19841	NORMAL	63
+557598.3	Laribacter hongkongensis HLHK9	NCBI_REP	63
+1096930.3	Novosphingobium lindaniclasticum LE124	NCBI_REP	61
+480520.3	Myroides profundi D25	NCBI_REP	61
+675635.11	Pseudonocardia dioxanivorans CB1190	NCBI_REP	61
+1969167.3	Blautia sp. LMAG:30	NORMAL	60
+1237500.3	Nocardiopsis ganjiahuensis DSM 45031	NCBI_REP	59
+945021.8	Tetragenococcus halophilus NBRC 12172	NCBI_REP	59
+1208321.3	Marinomonas sp. D104	NCBI_REP	58
+1385521.3	Knoellia subterranea KCTC 19937	NCBI_REP	58
+271065.3	Methylomicrobium alcaliphilum strain 20Z	NCBI_REP	58
+556325.3	Neomicrococcus aestuarii strain B18	NORMAL	58
+583345.3	Methylotenera mobilis JLW8	NCBI_REP	57
+698758.3	Amphibacillus xylanus NBRC 15112	NCBI_REP	57
+190650.5	Caulobacter crescentus CB15	NCBI_REF	56
+237727.5	Erythrobacter sp. NAP1	NCBI_REP	55
+1122152.3	Lactobacillus psittaci DSM 15354	NCBI_REP	54
+1808508.3	Altererythrobacter endophyticus strain LMG 29518	NORMAL	54
+2864039.3	Actinomadura sp. PM05-2	NORMAL	54
+553217.3	Enhydrobacter aerosaccus SK60	NCBI_REP	54
+1528106.3	Thalassospira australica NP3b2	NCBI_REP	53
+485918.6	Chitinophaga pinensis DSM 2588	NCBI_REP	53
+297352.8	Lactococcus piscium MKFS47	NCBI_REP	52
+387093.6	Sulfurovum sp. NBC37-1	NCBI_REP	52
+1285583.3	Corynebacterium casei LMG S-19264	NCBI_REP	51
+1604334.3	Luteimonas tolerans strain UM1	NORMAL	51
+614083.3	Comamonadaceae bacterium ED16	NCBI_REP	51
+882446.3	Nocardia goodfellowii strain DSM 45516	NORMAL	51
+1150399.3	Leifsonia sp. 109	NCBI_REP	50
+228405.9	Hyphomonas neptunium ATCC 15444	NCBI_REP	50
+1122967.3	Pontibacter roseus DSM 17521	NCBI_REP	48
+1298593.3	Thalassolituus oleivorans MIL-1	NCBI_REP	48
+1869190.115	Roseomonas sp. strain M076S1SP10A20BQC	NORMAL	48
+469615.3	Fusobacterium gonidiaformans ATCC 25563	NCBI_REP	48
+743718.4	Isoptericola variabilis 225	NCBI_REP	48
+944564.4	Veillonella sp. oral taxon 780 str. F0422	NCBI_REP	48
+1123268.4	Sphingomonas jaspsi DSM 18422	NCBI_REP	47
+1123313.3	Streptococcus pleomorphus DSM 20574	NCBI_REP	47
+521095.6	Atopobium parvulum DSM 20469	NCBI_REP	47
+59823.1524	Prevotella sp. UW_TS_PREV1_1	NORMAL	47
+312284.4	marine actinobacterium PHSC20C1	NCBI_REP	46
+420247.28	Methanobrevibacter smithii ATCC 35061	NCBI_REP	46
+1384484.3	Adlercreutzia equolifaciens DSM 19450	NCBI_REP	45
+264251.5	Cellulosimicrobium funkei strain U11	NCBI_REP	45
+1736282.3	Frigoribacterium sp. Leaf164	NCBI_REP	44
+1892894.3	Salinivibrio sp. DV	NORMAL	44
+36841.16	Terrisporobacter glycolicus strain FS03	NORMAL	44
+436308.17	Nitrosopumilus maritimus SCM1	NCBI_REP	44
+1096856.3	Pseudonocardia sp. EC080619-01	NCBI_REP	43
+180281.4	Cyanobium sp. PCC 7001	NCBI_REP	43
+1036673.3	Paenibacillus mucilaginosus KNP414	NCBI_REP	42
+1591054.3	Thermococcus sp. EP1	NCBI_REP	42
+521096.6	Tsukamurella paurometabola DSM 20162	NCBI_REP	42
+1235795.3	Paenibacillus barengoltzii G22	NCBI_REP	41
+216389.10	Dehalococcoides sp. BAV1	NCBI_REP	41
+404380.4	Geobacter bemidjiensis Bem	NCBI_REP	41
+427317.9	Sulfolobus islandicus M.14.25	NCBI_REP	41
+515620.4	Eubacterium eligens ATCC 27750	NCBI_REP	41
+59374.5	Fibrobacter succinogenes subsp. succinogenes S85	NCBI_REP	41
+696747.3	Arthrospira platensis NIES-39	NCBI_REP	41
+1324766.3	Rothia endophytica 56QC2O2	NORMAL	40
+2588535.4	Candidatus Methylopumilus rimovensis strain MMS-RI-1	NORMAL	40
+363870.8	Bacillus ginsengihumi strain Gsoil 114	NORMAL	40
+264731.4	Prevotella ruminicola 23	NCBI_REP	39
+334413.6	Finegoldia magna ATCC 29328	NCBI_REP	39
+548479.6	Mobiluncus curtisii ATCC 43063	NCBI_REP	39
+591001.3	Acidaminococcus fermentans DSM 20731	NCBI_REP	39
+865938.3	Weeksella virosa DSM 16922	NCBI_REP	39
+1049972.3	Leptospira licerasiae serovar Varillal str. VAR 010	NCBI_REP	38
+1255619.3	Vagococcus fluvialis bH819 strain bH819	NORMAL	38
+1354277.3	Virgibacillus sp. CM-4	NCBI_REP	38
+2486026.3	Cryobacterium sp. NEAU-85	NORMAL	38
+47994.5	Leptothrix mobilis strain DSM 10617	NORMAL	38
+1042375.3	Marinobacterium stanieri S30	NCBI_REP	37
+1203606.4	Butyricicoccus pullicaecorum 1.2	NCBI_REP	37
+1229203.3	actinobacterium LLX17	NCBI_REP	37
+2283596.4	Candidatus Actinomarina sp. HD9-500m-PIT-SAG01	SINGLE_SSU	37
+2780077.3	Moraxella sp. K1664	NORMAL	37
+517722.3	Citromicrobium sp. JLT1363	NCBI_REP	37
+521460.8	Caldicellulosiruptor bescii DSM 6725	NCBI_REP	37
+71999.5	Kocuria palustris strain MU14/1	NCBI_REP	37
+1122138.3	Kribbella catacumbae DSM 19601	NCBI_REP	36
+1196323.3	Paenibacillus sp. OSY-SE	NCBI_REP	36
+1736333.3	Plantibacter sp. Leaf314	NCBI_REP	36
+264203.5	Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821	NCBI_REP	36
+37923.8	Kocuria kristinae strain RSA28	NCBI_REP	36
+515619.6	Eubacterium rectale ATCC 33656	NCBI_REP	36
+550540.3	Ferrimonas balearica DSM 9799	NCBI_REP	36
+655811.4	Anaerococcus vaginalis ATCC 51170	NCBI_REP	36
+658172.5	Candidatus Liberibacter solanacearum CLso-ZC1	NCBI_REP	36
+66692.6	Bacillus clausii KSM-K16	NCBI_REP	36
+79883.5	Bacillus horikoshii strain FJAT-14233	NCBI_REP	36
+858.4	Fusobacterium necrogenes strain NCTC10723	NORMAL	36
+1095025.3	Demequina flava strain NBRC 105854	NCBI_REP	35
+1196324.3	Bacillus macauensis ZFHKF-1	NCBI_REP	35
+1397108.4	Celeribacter marinus strain IMCC12053	NCBI_REP	35
+388401.3	Rhodobacteraceae bacterium HTCC2150	NCBI_REP	35
+456481.4	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)'	NCBI_REP	35
+665956.3	Subdoligranulum sp. 4_3_54A2FAA	NCBI_REP	35
+925409.4	Sediminibacterium sp. OR53	NCBI_REP	35
+1736381.3	Aureimonas sp. Leaf454	NCBI_REP	34
+393595.15	Alcanivorax borkumensis SK2	NCBI_REP	34
+59920.5	Prochlorococcus marinus str. NATL2A	NCBI_REP	34
+742816.3	Megamonas funiformis YIT 11815	NCBI_REP	34
+1203568.3	Dermabacter sp. HFH0086	NCBI_REP	33
+1566358.3	Paenibacillus sp. IHBB 10380	NCBI_REP	33
+326298.7	Sulfurimonas denitrificans DSM 1251	NCBI_REP	33
+396588.4	Thioalkalivibrio sulfidophilus HL-EbGr7	NCBI_REP	33
+710393.3	Helicobacter suis HS1	NCBI_REP	33
+1118060.3	Coriobacteriaceae bacterium phI	NCBI_REP	32
+2745947.3	Spirosoma sp. KUDC1026	NORMAL	32
+28258.4	Cobetia marina strain KMM 296	NCBI_REP	32
+883103.3	Dolosigranulum pigrum ATCC 51524	NCBI_REP	32
+979226.3	Cohnella panacarvi Gsoil 349	NCBI_REP	32
+1148.35	Synechocystis sp. PCC 6803	NCBI_REP	31
+2017437.32	Thiolapillus sp. Ifr-SOX-66	NORMAL	31
+2049039.65	Phascolarctobacterium sp. strain L2_037_000M1_dasL2_037_000M1_concoct_88	NORMAL	31
+214.52	Helicobacter felis strain cn23e	NORMAL	31
+398511.4	Bacillus pseudofirmus OF4	NCBI_REP	31
+40545.1270	Sutterella wadsworthensis strain FDAARGOS_1159 strain Not applicable	NORMAL	31
+505682.4	Ureaplasma parvum serovar 3 str. ATCC 27815	NCBI_REP	31
+525328.4	Lactobacillus iners DSM 13335	NCBI_REP	31
+572479.3	Halanaerobium praevalens DSM 2228	NCBI_REP	31
+639030.3	Acidobacteria bacterium KBS 146	NCBI_REP	31
+999415.3	Eggerthia catenaformis OT 569 = DSM 20559	NCBI_REP	31
+136993.3	Methylosinus sp. LW4	NCBI_REP	30
+347256.5	Mycoplasma hominis strain PG21	NCBI_REP	30
+519441.6	Streptobacillus moniliformis DSM 12112	NCBI_REP	30
+931099.3	Rickettsia endosymbiont of Oedothorax gibbosus Oegibbosus-W744x776	NORMAL	30
+1168034.5	Draconibacterium orientale strain FH5	NCBI_REP	29
+1274.3	Dermacoccus nishinomiyaensis strain M25	NCBI_REP	29
+1379910.4	Rufibacter sp. DG31D	NCBI_REP	29
+2682541.3	Bacillus sp. N1-1	NORMAL	29
+537970.14	Helicobacter canadensis MIT 98-5491 (Prj:30719)	NCBI_REP	29
+768710.3	Desulfosporosinus youngiae DSM 17734	NCBI_REP	29
+91822.3	Legionella beliardensis strain NCTC13315	NORMAL	29
+1123227.4	Saccharibacter floricola DSM 15669	NCBI_REP	28
+1720200.29	Anaerotruncus rubiinfantis strain MGYG-HGUT-00131	NORMAL	28
+2172121.3	Pararhodobacter sp. AM505	SINGLE_SSU	28
+272844.11	Pyrococcus abyssi GE5	NCBI_REP	28
+365046.3	Ramlibacter tataouinensis TTB310	NCBI_REP	28
+439292.5	Bacillus selenitireducens MLS10	NCBI_REP	28
+523794.5	Leptotrichia buccalis DSM 1135	NCBI_REP	28
+572477.4	Allochromatium vinosum DSM 180	NCBI_REP	28
+911045.3	Pseudovibrio sp. FO-BEG1	NCBI_REP	28
+937774.3	Taylorella equigenitalis MCE9	NCBI_REP	28
+1122613.3	Oceanicaulis alexandrii DSM 11625	NCBI_REP	27
+1261130.3	Wohlfahrtiimonas chitiniclastica SH04	NCBI_REP	27
+1817793.3	Alcanivorax sp. KX64203	NORMAL	27
+1864939.4	Parapedobacter lycopersici KACC 18788	NORMAL	27
+243274.5	Thermotoga maritima MSB8	NCBI_REF	27
+2557994.3	Sphingobacterium sp. CZ-2	NORMAL	27
+262723.5	Mycoplasma synoviae 53	NCBI_REP	27
+2756.40	Brochothrix thermosphacta strain TMW 2.2101	NORMAL	27
+2902423.3	Candidatus Nanosynbacter sp. HMT352 strain KC1	SINGLE_SSU	27
+577679.3	Prauserella flava DSM 45265	NORMAL	27
+983917.3	Rubrivivax gelatinosus IL144	NCBI_REP	27
+1265846.4	Listeria rocourtiae FSL F6-920	NORMAL	26
+1538529.7	uncultured Planktomarina sp. strain FRAM18_bin046	NORMAL	26
+1827502.3	Lentibacillus populi strain CGMCC 1.15454	NORMAL	26
+2040624.3	Gemella sp. ND 6198	NORMAL	26
+264732.11	Moorella thermoacetica ATCC 39073	NCBI_REF	26
+2729175.3	Cellulomonas sp. 40-2	NORMAL	26
+469618.3	Fusobacterium varium ATCC 27725	NCBI_REP	26
+667015.3	Bacteroides salanitronis DSM 18170 strain DSM 18179	NCBI_REP	26
+1034808.3	Mycoplasma anatis 1340	NCBI_REP	25
+1121122.3	Brevibacterium album DSM 18261	NCBI_REP	25
+1201293.3	Moritella dasanensis ArB 0140	NCBI_REP	25
+1727.3	Corynebacterium variabile strain NRRL B-4201	NCBI_REP	25
+254945.26	Ehrlichia ruminantium str. Welgevonden (Prj:9614)	NCBI_REP	25
+2897774.3	Ruania sp. LR1S40	NORMAL	25
+106370.16	Frankia sp. CcI3	NCBI_REP	24
+1395513.3	Sporolactobacillus laevolacticus DSM 442	NCBI_REP	24
+154288.6	Turicibacter sanguinis	NCBI_REP	24
+1915431.3	Methanobacterium sp. UBA299	NORMAL	24
+212042.8	Anaplasma phagocytophilum HZ	NCBI_REP	24
+234826.6	Anaplasma marginale str. St. Maries	NCBI_REP	24
+259564.15	Methanococcoides burtonii DSM 6242	NCBI_REP	24
+2605429.3	Mycobacterium sp. LNNU 331112	NORMAL	24
+2905648.5	Paenibacillus sp. JJ-42 CIP111891	NORMAL	24
+331635.3	Chlamydophila pecorum E58	NCBI_REP	24
+368407.15	Methanoculleus marisnigri JR1	NCBI_REP	24
+406327.12	Methanococcus vannielii SB	NCBI_REP	24
+428125.8	Clostridium leptum DSM 753	NCBI_REP	24
+471852.6	Thermomonospora curvata DSM 43183	NCBI_REP	24
+1121013.3	Arenimonas composti DSM 18010	NCBI_REP	23
+1185325.3	Lactobacillus coryniformis subsp. coryniformis CECT 5711	NCBI_REP	23
+1349786.3	Zimmermannella alba NBRC 15616	NORMAL	23
+1449976.3	Kutzneria albida DSM 43870	NCBI_REP	23
+1679467.3	Apibacter sp. wkB309	NORMAL	23
+1889770.3	Thioclava sp. SK-1	NORMAL	23
+279360.4	Roseivirga ehrenbergii strain SW-152	NCBI_REP	23
+317018.4	Nesterenkonia jeotgali strain CD08_7	NCBI_REP	23
+336810.80	Candidatus Sulcia muelleri strain SMPLAKAE	SINGLE_SSU	23
+570509.6	Spiroplasma melliferum KC3	NCBI_REP	23
+638301.3	Granulicatella adiacens ATCC 49175	NCBI_REP	23
+645127.4	Corynebacterium kroppenstedtii DSM 44385	NCBI_REP	23
+929506.3	Clostridium botulinum BKT015925	NCBI_REP	23
+1089549.3	Haloglycomyces albus DSM 45210	NCBI_REP	22
+1122239.3	Microbacterium luticocti DSM 19459	NCBI_REP	22
+1168065.3	gamma proteobacterium BDW918	NCBI_REP	22
+1193534.5	uncultured Flavonifractor sp. strain 2789STDY5834933	NORMAL	22
+135735.6	Bacillus endophyticus strain Hbe603	NCBI_REP	22
+1564516.4	Phaeodactylibacter luteus strain KCTC 42180	NORMAL	22
+1898207.3496	Clostridiales bacterium strain MGYG-HGUT-02340	NORMAL	22
+2041.4	Aeromicrobium erythreum strain AR18	NORMAL	22
+2056433.5	Subtercola vilae strain DB165	NORMAL	22
+2058390.17	Silicimonas sp. jk18x22bins.35	SINGLE_SSU	22
+2728853.3	Bacillus sp. L13 (2020) strain L13 (2020) strain L13 (2020) strain L13 (2020)	NORMAL	22
+2862498.3	Sphingomonas sp. RHCKR47	NORMAL	22
+335992.9	Candidatus Pelagibacter ubique HTCC1062	NCBI_REP	22
+498211.5	Cellvibrio japonicus Ueda107	NCBI_REP	22
+64091.14	Halobacterium sp. NRC-1	NCBI_REP	22
+662476.7	Haloarcula sinaiiensis ATCC 33800	NCBI_REP	22
+887700.7	Acetobacter aceti NBRC 14818	NCBI_REP	22
+1260251.3	Spiribacter salinus M19-40	NCBI_REP	21
+1908524.4	Novosphingobium sp. FSY-9	NORMAL	21
+213810.4	Ruminococcus champanellensis 18P13	NCBI_REP	21
+233150.7	Mycoplasma gallisepticum str. R	NCBI_REP	21
+349124.8	Halorhodospira halophila SL1	NCBI_REP	21
+455361.4	Roseococcus suduntuyensis strain SHET	NORMAL	21
+643562.6	Desulfovibrio aespoeensis Aspo-2	NCBI_REP	21
+1121123.3	Brevundimonas aveniformis DSM 17977	NCBI_REP	20
+1217720.3	Roseomonas sp. B5	NCBI_REP	20
+1349421.3	Flavihumibacter solisilvae 3-3	NCBI_REP	20
+1522311.4	Tessaracoccus sp. SIT6	NCBI_REP	20
+187303.17	Methylocystis sp. SC2	NCBI_REP	20
+203267.6	Tropheryma whipplei str. Twist	NCBI_REP	20
+2033505.3	Bacillus sp. AFS053548	NORMAL	20
+2202734.101	Saprospiraceae bacterium strain Fred_18-Q3-R57-64_BATAC.80	NORMAL	20
+243090.15	Rhodopirellula baltica SH 1	NCBI_REF	20
+317025.9	Thiomicrospira crunogena XCL-2	NCBI_REP	20
+348151.3	Lactobacillus siliginis strain DSM 22696	NCBI_REP	20
+36807.7	Microbacterium laevaniformans strain NM46_B2-13	NORMAL	20
+592029.3	Nonlabens dokdonensis DSW-6	NCBI_REP	20
+1074488.3	Brachybacterium squillarum M-6-3	NCBI_REP	19
+1176165.3	Brevibacterium massiliense 5401308	NCBI_REP	19
+1231.11	Nitrosospira multiformis strain Nsp16	NORMAL	19
+1714373.3	Microbacterium sp. No. 7	NCBI_REP	19
+1736511.3	Rhizobacter sp. Root29	NCBI_REP	19
+2030806.424	Burkholderiaceae bacterium HK-STAS-PROT-88	NORMAL	19
+221109.4	Oceanobacillus iheyensis HTE831	NCBI_REP	19
+235279.5	Helicobacter hepaticus ATCC 51449	NCBI_REP	19
+243231.5	Geobacter sulfurreducens PCA	NCBI_REF	19
+2530374.3	Jiangella sp. KC603	NORMAL	19
+269484.6	Ehrlichia canis str. Jake	NCBI_REP	19
+372484.4	Sanguibacter antarcticus strain DSM 18966	NORMAL	19
+414750.3	Thermoactinomyces sp. CDF	NCBI_REP	19
+500635.8	Mitsuokella multacida DSM 20544	NCBI_REP	19
+523791.5	Kangiella koreensis DSM 16069	NCBI_REP	19
+700598.3	Niastella koreensis GR20-10	NCBI_REP	19
+940190.3	Melissococcus plutonius ATCC 35311	NCBI_REP	19
+1122963.3	Pleomorphomonas oryzae DSM 16300	NCBI_REP	18
+1408226.3	Vagococcus lutrae LBD1	NCBI_REP	18
+1776382.82	Neglecta timonensis strain MGYG-HGUT-01539	NORMAL	18
+1825523.3	Novimethylophilus kurashikiensis strain La2-4	SINGLE_SSU	18
+228410.6	Nitrosomonas europaea ATCC 19718	NCBI_REP	18
+2583808.3	Aggregicoccus sp. 17bor-14	SINGLE_SSU	18
+2838613.4	Candidatus Gemmiger stercoravium BRZ_EF__bin17	NORMAL	18
+2934161.3	Ornithinimicrobium sp. JY.X270	NORMAL	18
+357244.4	Orientia tsutsugamushi str. Boryong	NCBI_REP	18
+512410.3	Paenibacillus camelliae TA 29	NORMAL	18
+592028.3	Dialister invisus DSM 15470	NCBI_REP	18
+882.5	Desulfovibrio vulgaris str. Hildenborough	NCBI_REF	18
+1175486.3	Nocardioides albertanoniae strain DSM 25218	NORMAL	17
+1229780.4	Candidatus Microthrix parvicella RN1	NCBI_REP	17
+1449343.3	Carnobacterium pleistocenium FTR1	NCBI_REP	17
+1625.54	Lactobacillus sanfranciscensis strain LS451	NORMAL	17
+1650.7	Kurthia zopfii strain NCTC10597	NORMAL	17
+184065.3	Salinicola halophilus strain CECT 5903	SINGLE_SSU	17
+379066.3	Gemmatimonas aurantiaca T-27	NCBI_REP	17
+398767.5	Geobacter lovleyi SZ	NCBI_REP	17
+412965.8	Candidatus Vesicomyosocius okutanii HA	NCBI_REP	17
+414684.5	Rhodospirillum centenum SW	NCBI_REP	17
+484019.4	Thermosipho africanus TCF52B	NCBI_REP	17
+521003.7	Collinsella intestinalis DSM 13280	NCBI_REP	17
+525898.7	Sulfurospirillum deleyianum DSM 6946	NCBI_REP	17
+650150.7	Erysipelothrix rhusiopathiae str. Fujisawa	NCBI_REP	17
+767029.3	Propionibacterium propionicum F0230a	NCBI_REP	17
+1029756.8	Hyphomicrobium nitrativorans NL23	NCBI_REP	16
+1123251.3	Serinicoccus marinus DSM 15273	NCBI_REP	16
+1235755.3	Salinicoccus carnicancri Crm	NCBI_REP	16
+1323738.4	Idiomarina planktonica strain TS-T11	NORMAL	16
+138072.46	Candidatus Hamiltonella defensa strain china	NORMAL	16
+1587527.3	Domibacillus tundrae strain PAMC 80007	NCBI_REP	16
+1796646.5	Muribaculum intestinale strain YL27	NORMAL	16
+189.8	Novispirillum itersonii strain DSM 11590	SINGLE_SSU	16
+203119.11	Clostridium thermocellum ATCC 27405	NCBI_REP	16
+2602574.15	Candidatus Aquarickettsia rohweri strain Acer BE 8867	SINGLE_SSU	16
+264462.9	Bdellovibrio bacteriovorus HD100	NCBI_REP	16
+269800.6	Thermobifida fusca YX	NCBI_REP	16
+2729623.4	Lacticaseibacillus absianus strain YH-lac21	NORMAL	16
+35841.11	Bacillus thermoamylovorans strain SSBM	NORMAL	16
+403833.7	Petrotoga mobilis SJ95	NCBI_REP	16
+44577.3	Nitrosomonas ureae strain Nm10	NCBI_REP	16
+504728.6	Meiothermus ruber DSM 1279	NCBI_REP	16
+522306.3	Candidatus Accumulibacter phosphatis clade IIA str. UW-1	NCBI_REP	16
+637389.3	Acidithiobacillus caldus ATCC 51756	NCBI_REP	16
+715226.3	Asticcacaulis biprosthecum C19	NCBI_REP	16
+857087.3	Methylomonas methanica MC09	NCBI_REP	16
+867902.3	Ornithobacterium rhinotracheale DSM 15997	NCBI_REP	16
+108080.4	Candidatus Blochmannia herculeanus C-056	SINGLE_SSU	15
+1081631.12	Candidatus Schneideria nysicola strain NB	SINGLE_SSU	15
+1088868.3	Commensalibacter intestini A911	NCBI_REP	15
+110935.6	Agreia bicolorata strain VKM Ac-1804	NCBI_REP	15
+1123231.3	Salinicoccus alkaliphilus DSM 16010	NORMAL	15
+1125712.3	Olsenella profusa F0195	NCBI_REP	15
+1172185.3	Nocardia sp. 348MFTsu5.1	NCBI_REP	15
+119206.116	Aerococcus sanguinicola strain As-29b-U14	NORMAL	15
+1261545.10	Halarchaeum acidiphilum MH1-52-1	NCBI_REP	15
+1341157.4	Ruminococcus flavefaciens 007c	NCBI_REP	15
+1401065.3	Oligella urethralis DNF00040	NCBI_REP	15
+1633631.8	Candidatus Kryptonium thompsoni strain JGI-4	SINGLE_SSU	15
+1737446.3	Chitinibacter fontanus strain STM-7	NORMAL	15
+1985113.160	uncultured Candidatus Actinomarina sp. strain AG-916-D18	SINGLE_SSU	15
+240015.3	Acidobacterium capsulatum ATCC 51196	NCBI_REP	15
+2516559.3	Cytophagaceae bacterium 30S-ANTBAC	NORMAL	15
+2704116.3	Agarivorans sp. YJW194	NORMAL	15
+2758038.4	Pontibrevibacter nitratireducens ALG8	NORMAL	15
+2864219.3	Hymenobacter sp. KCTC 23674	NORMAL	15
+2866313.15	Candidatus Megaira endosymbiont of Carteria cerasiformis MegCarteria	SINGLE_SSU	15
+313612.5	Lyngbya sp. PCC 8106	NORMAL	15
+33876.3	Catenuloplanes japonicus strain NRRL B-16061	NCBI_REP	15
+340099.6	Thermoanaerobacter pseudethanolicus ATCC 33223	NCBI_REP	15
+349271.6	uncultured Johnsonella sp. strain DRR214960_bin.42_metaWRAP_v1.1_MAG	NORMAL	15
+384602.5	Micrococcus flavus strain DSM 19079	NORMAL	15
+441768.5	Acholeplasma laidlawii PG-8A	NCBI_REP	15
+52694.7	Acetobacterium wieringae strain JM	NORMAL	15
+1034347.3	Bacillus massiliosenegalensis JC6	NCBI_REP	14
+103729.3	Actinokineospora globicatena DSM 44256	NORMAL	14
+1050202.3	Actinopolyspora mortivallis DSM 44261 strain HS-1	NCBI_REP	14
+1056817.3	Teredinibacter turnerae T8602	NORMAL	14
+1079.14	Blastochloris viridis strain 1	NORMAL	14
+1120961.3	Ahrensia kielensis DSM 5890	NCBI_REP	14
+115713.3	Chlamydophila pneumoniae CWL029	NCBI_REF	14
+1229520.3	Alkalibacterium sp. AK22	NCBI_REP	14
+1285192.3	Janibacter cremeus strain DSM 26154	NORMAL	14
+1347087.3	Paucisalibacillus sp. EB02	NCBI_REP	14
+1450761.3	Aneurinibacillus sp. XH2	NCBI_REP	14
+1552121.3	Leptolyngbya sp. NIES-2104	NCBI_REP	14
+1578720.9	Helicobacter ailurogastricus strain ASB7	NCBI_REP	14
+1702242.3	Thermoanaerobacterium butyriciformans strain DSM 101588	NORMAL	14
+1749.18	Acidipropionibacterium jensenii HY506	NORMAL	14
+1816678.39	Christensenella timonensis strain MGYG-HGUT-01550	NORMAL	14
+2203219.4	Chitinophaga sp. T22	NORMAL	14
+224325.10	Archaeoglobus fulgidus DSM 4304	NCBI_REP	14
+2527970.3	Planctomycetes bacterium Enr8	NORMAL	14
+2835872.4	Curvibacter sp. CHRR-16	NORMAL	14
+289377.5	Thermodesulfobacterium commune DSM 2178	NCBI_REP	14
+313589.5	Janibacter sp. HTCC2649	NCBI_REP	14
+33033.4	Parvimonas micra KCOM 1535; ChDC B708	NCBI_REP	14
+425941.89	Prevotella nanceiensis strain SCHI0011.S.12	NORMAL	14
+446465.5	Brachybacterium faecium DSM 4810	NCBI_REF	14
+46353.3	Agrococcus jenensis strain DSM 9580	NORMAL	14
+481448.7	Methylacidiphilum infernorum V4	NCBI_REP	14
+600809.5	Blattabacterium sp. (Periplaneta americana) str. BPLAN	NCBI_REP	14
+626939.3	Phascolarctobacterium succinatutens YIT 12067	NCBI_REP	14
+697284.3	Paenibacillus larvae subsp. larvae DSM 25430	NCBI_REP	14
+706433.3	Solobacterium moorei F0204	NCBI_REP	14
+754477.3	Methylophaga sp. JAM7	NCBI_REP	14
+929713.3	Niabella soli DSM 19437	NCBI_REP	14
+1075399.3	Blattabacterium sp. (Cryptocercus punctulatus) str. Cpu	NCBI_REP	13
+1121930.3	Gracilimonas tropica DSM 19535	NCBI_REP	13
+1122237.3	Microbacterium gubbeenense DSM 15944	NCBI_REP	13
+1245525.3	Compostibacillus humi strain CGMCC 1.12360	SINGLE_SSU	13
+1380389.4	Sphingomonas sp. URHD0057	NCBI_REP	13
+1468449.8	Holdemania massiliensis strain MGYG-HGUT-01430	NORMAL	13
+1538295.3	Aquabacterium sp. NJ1	NCBI_REP	13
+1653831.26	Blattabacterium cuenoti strain GYNAcap	NORMAL	13
+1720297.3	Pelistega sp. MC2	NORMAL	13
+1776384.4	Emergencia timonensis strain AM07-24	NORMAL	13
+203275.8	Tannerella forsythia ATCC 43037	NCBI_REP	13
+349750.3	Sneathiella chinensis strain LMG23452	SINGLE_SSU	13
+391612.5	Cyanothece sp. CCY0110	NCBI_REP	13
+400153.4	Rheinheimera tangshanensis strain CGMCC 1.6362	NORMAL	13
+424902.4	Thiohalocapsa marina strain DSM 19078	NORMAL	13
+563192.3	Bilophila wadsworthia 3_1_6	NCBI_REP	13
+660470.3	Mesotoga prima MesG1.Ag.4.2	NCBI_REP	13
+708126.12	Jeotgalibaca dankookensis strain CL-AS1	NORMAL	13
+755732.3	Fluviicola taffensis DSM 16823	NCBI_REP	13
+86956.3	Pectinatus cerevisiiphilus strain DSM 20467	NORMAL	13
+883066.3	Actinobaculum massiliae ACS-171-V-Col2	NCBI_REP	13
+97138.3	Clostridium sp. ASF356	NCBI_REP	13
+1032069.3	Campylobacter ureolyticus RIGS 9880	NCBI_REP	12
+104205.3	Streptomonospora salina strain DSM 44593	NORMAL	12
+1052260.5	Klenkia soli strain DSM 45843	NORMAL	12
+1197129.14	Candidatus Brocadia sinica JPN1	NORMAL	12
+1266765.3	Geobacter sp. OR-1	NCBI_REP	12
+1301915.4	Methanocaldococcus sp. JH146	NCBI_REP	12
+1324957.4	Candidatus Halobonum tyrrellensis G22	NCBI_REP	12
+1401079.3	Mogibacterium timidum ATCC 33093	NCBI_REP	12
+1430440.4	Magnetospirillum gryphiswaldense MSR-1 v2	NCBI_REP	12
+1515617.3	Porphyromonas sp. COT-290_OH3588CRE	NCBI_REP	12
+1658109.4	Candidatus Stoquefichus sp. SB1	NORMAL	12
+1798.4	Mycobacterium triviale strain DSM 44153	NORMAL	12
+187420.15	Methanothermobacter thermautotrophicus str. Delta H	NCBI_REP	12
+1985113.115	uncultured Candidatus Actinomarina sp. strain AG-911-M23	SINGLE_SSU	12
+2035245.3	Microcella sp. HL-107	SINGLE_SSU	12
+2202734.106	Saprospiraceae bacterium strain EsbW_18-Q3-R4-48_MAXAC.238	NORMAL	12
+2494373.3	Flammeovirga sp. L12M1	NORMAL	12
+2512248.3	Candidatus Brocadia sp. BROELEC01	NORMAL	12
+2802396.10	Acidisoma silvae HW T2.11	NORMAL	12
+2820274.3	Marinilactibacillus sp. M4U5P12	NORMAL	12
+290318.6	Chlorobium phaeovibrioides DSM 265	NCBI_REP	12
+305900.3	Endozoicomonas elysicola strain DSM 22380	NCBI_REP	12
+32049.15	Synechococcus sp. PCC 7002	NCBI_REP	12
+323848.4	Nitrosospira multiformis ATCC 25196	NCBI_REP	12
+344747.3	Planctomyces maris DSM 8797	NCBI_REP	12
+363253.5	Lawsonia intracellularis PHE/MN1-00	NCBI_REP	12
+44574.3	Nitrosomonas communis strain Nm2	NCBI_REP	12
+518766.7	Rhodothermus marinus DSM 4252	NCBI_REP	12
+586416.3	Terribacillus aidingensis strain MP602	NCBI_REP	12
+75379.4	Thiomonas intermedia K12	NCBI_REP	12
+865861.6	Clostridium ultunense DSM 10521	NCBI_REP	12
+869213.4	Cytophaga fermentans DSM 9555	NCBI_REP	12
+875454.4	Peptoniphilus rhinitidis 1-13	NCBI_REP	12
+997346.3	Desmospora sp. 8437	NCBI_REP	12
+999423.3	Selenomonas sp. F0473	NCBI_REP	12
+1002804.6	Helicobacter bizzozeronii CIII-1	NCBI_REP	11
+1081644.3	Candidatus Aquiluna sp. IMCC13023	NCBI_REP	11
+1121272.3	Catelliglobosispora koreensis DSM 44566	NCBI_REP	11
+1121385.3	Demetria terragena DSM 11295	NCBI_REP	11
+1122125.13	Inquilinus limosus DSM 16000	NORMAL	11
+1123240.4	Sandarakinorhabdus limnophila DSM 17366	NCBI_REP	11
+1123248.3	Segetibacter koreensis DSM 18137	NCBI_REP	11
+1125778.3	Clostridiales bacterium OBRC5-5	NCBI_REP	11
+1131462.4	Dehalobacter sp. CF	NCBI_REP	11
+1218508.4	Lactobacillus mellis strain Hon2	NCBI_REP	11
+1229152.3	Oceanobacillus chungangensis strain CAU 1051	NORMAL	11
+1317121.10	Pseudaestuariivita atlantica strain 22II-S11-z3	SINGLE_SSU	11
+1453541.3	Pseudoxanthomonas helianthi strain 110414	NORMAL	11
+1458469.3	Pseudobutyrivibrio ruminis HUN009	NCBI_REP	11
+1898203.3468	Lachnospiraceae bacterium UW_TS_LCO2_1	NORMAL	11
+1898207.3492	Clostridiales bacterium strain MGYG-HGUT-01502	NORMAL	11
+2026756.37	Lentimicrobiaceae bacterium strain HK-STAS-BACT-7	NORMAL	11
+2041189.3	Caldovatus sediminis strain CGMCC 1.16330	SINGLE_SSU	11
+2448779.119	Chitinophagales bacterium strain HK-STAS-BACT-17	NORMAL	11
+2571148.3	Chitiniphilus sp. HX-2-15	SINGLE_SSU	11
+265311.5	Mesoplasma florum L1	NCBI_REF	11
+272562.8	Clostridium acetobutylicum ATCC 824	NCBI_REF	11
+2763672.3	Lachnospiraceae bacterium sunii NSJ-8	NORMAL	11
+2872312.3	Kordiimonas sp. A6E486	NORMAL	11
+2904246.7	Fulvivirga sp. W9P-11	NORMAL	11
+321961.3	Wheat blue dwarf phytoplasma	NCBI_REP	11
+349163.14	Acidiphilium cryptum JF-5	NCBI_REP	11
+412034.4	Celerinatantimonas diazotrophica strain DSM 18577	NORMAL	11
+51671.49	Microbacterium sp. strain FW.016	NORMAL	11
+521098.5	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446	NCBI_REP	11
+583355.3	Coraliomargarita akajimensis DSM 45221	NCBI_REP	11
+598659.3	Nautilia profundicola AmH	NCBI_REP	11
+706434.3	Megasphaera micronuciformis F0359	NCBI_REP	11
+1094980.5	Methanolobus psychrophilus R15	NCBI_REP	10
+1120948.3	Actinomycetospora chiangmaiensis DSM 45062	NCBI_REP	10
+1121920.7	Geothrix fermentans DSM 14018	NORMAL	10
+1123013.3	Pseudoclavibacter soli DSM 23366	NCBI_REP	10
+1123401.3	Thiothrix lacustris DSM 21227	NCBI_REP	10
+1140.7	Synechococcus elongatus PCC 7942	NCBI_REP	10
+1347392.3	Anaerosalibacter sp. ND1	NCBI_REP	10
+1562701.3	bacterium endosymbiont of Mortierella elongata FMR23-6	NCBI_REP	10
+1614.7	Lactobacillus fructivorans DmCS_002	NCBI_REP	10
+1679169.3	Bacillus sp. FJAT-27916	NCBI_REP	10
+1852021.4	Parahaliea aestuarii strain S2-26	NORMAL	10
+2068654.3	Clostridium sp. JN500901	NORMAL	10
+2171751.3	Bacillaceae bacterium T8	SINGLE_SSU	10
+247481.63	Candidatus Cardinium hertigii cByotB1	SINGLE_SSU	10
+2485926.5	Atopobiaceae bacterium strain MGYG-HGUT-02405	NORMAL	10
+2528025.3	Planctomycetes bacterium SV_7m_r	NORMAL	10
+2569862.14	Methyloversatilis sp. 46_gen_cov.2	NORMAL	10
+2714930.3	Erysipelothrix sp. HDW6C	NORMAL	10
+2795215.3	Brachybacterium sp. MASK1Z-5	NORMAL	10
+2796142.3	Acuticoccus sp. 2012	NORMAL	10
+2821536.3	Chloracidobacterium sp. D	SINGLE_SSU	10
+2831966.3	Ruminococcus sp. FMBCY1	NORMAL	10
+289376.4	Thermodesulfovibrio yellowstonii DSM 11347	NCBI_REF	10
+2908204.6	Yinghuangia sp. KLBMP8922	NORMAL	10
+29391.22	Gemella morbillorum strain FDAARGOS_741 strain Not applicable	NORMAL	10
+357804.7	Psychromonas ingrahamii 37	NCBI_REP	10
+370622.4	Aureimonas altamirensis strain DSM 21988	NCBI_REP	10
+381764.8	Fervidobacterium nodosum Rt17-B1	NCBI_REP	10
+391165.9	Granulibacter bethesdensis CGDNIH1	NCBI_REP	10
+394503.7	Clostridium cellulolyticum H10	NCBI_REP	10
+443254.7	Marinitoga piezophila KA3	NCBI_REP	10
+515326.3	Cellulomonas aerilata strain NBRC 106308	NORMAL	10
+519442.20	Halorhabdus utahensis DSM 12940	NCBI_REP	10
+525146.4	Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774	NCBI_REP	10
+573370.3	Desulfovibrio magneticus RS-1	NCBI_REP	10
+644220.5	Marinicella litoralis strain DSM 25488	SINGLE_SSU	10
+655812.3	Aerococcus viridans ATCC 11563	NCBI_REP	10
+762966.3	Parasutterella excrementihominis YIT 11859	NCBI_REP	10
+1123267.3	Sphingomonas astaxanthinifaciens DSM 22298	NCBI_REP	9
+1123354.4	Tepidiphilus margaritifer DSM 15129	NCBI_REP	9
+1131553.6	Nitrosomonas cryotolerans ATCC 49181	NCBI_REP	9
+1231336.3	Lactobacillus shenzhenensis LY-73	NCBI_REP	9
+1337093.3	Loktanella cinnabarina LL-001	NCBI_REP	9
+1354300.3	Peptoniphilus sp. ChDC B134	NCBI_REP	9
+1410617.3	Ruminococcus sp. FC2018	NCBI_REP	9
+157779.6	Kushneria marisflavi strain DSM 15357	NORMAL	9
+1660198.3	Dermacoccaceae bacterium C5-26	SINGLE_SSU	9
+174633.132	Candidatus Kuenenia stuttgartiensis LH-02apr19-177	SINGLE_SSU	9
+1852373.16	Murdochiella vaginalis strain MGYG-HGUT-01563	NORMAL	9
+2016068.3	Leptolyngbya sp. PKUAC-SCTE412	NORMAL	9
+2053306.78	Ignavibacteria bacterium strain Aved_18-Q3-R54-62_BATAC.785	NORMAL	9
+2099375.10	Chloracidobacterium sp. strain Kalu_18-Q3-R12-55_BAT3C.355	SINGLE_SSU	9
+2202653.3	Alcanivorax sp. SW127	NORMAL	9
+2202734.64	Saprospiraceae bacterium strain Ejby_18-Q3-R6-50_BATAC.272	NORMAL	9
+243233.7	Methylococcus capsulatus str. Bath	NCBI_REP	9
+2608001.3	Taibaiella sp. KVB11	NORMAL	9
+2760807.11	Lewinellaceae bacterium strain HK-STAS-BACT-42	NORMAL	9
+2919173.3	Desulfuromonas sp. KJ2020	NORMAL	9
+32024.3	Campylobacter sputorum biovar sputorum INTA08/209	NCBI_REP	9
+323261.6	Nitrosococcus oceani ATCC 19707	NCBI_REP	9
+331104.5	Blattabacterium sp. (Blattella germanica) str. Bge	NCBI_REP	9
+338963.6	Pelobacter carbinolicus DSM 2380	NCBI_REP	9
+340214.3	Lentibacillus kapialis strain JCM 12580	NORMAL	9
+395494.4	Gallionella capsiferriformans ES-2	NCBI_REP	9
+399549.15	Metallosphaera sedula DSM 5348	NCBI_REP	9
+452637.7	Opitutus terrae PB90-1	NCBI_REP	9
+484770.3	Pelosinus sp. UFO1	NCBI_REP	9
+489910.8	Nosocomiicoccus ampullae strain DSM 19163	NORMAL	9
+504936.6	Periweissella beninensis LMG 25373	SINGLE_SSU	9
+525256.4	Atopobium vaginae DSM 15829	NCBI_REP	9
+56110.3	Oscillatoria acuminata PCC 6304	NCBI_REP	9
+630514.3	Microbacterium agarici strain DSM 21798	NORMAL	9
+655438.3	Cycloclasticus pugetii PS-1	NCBI_REP	9
+761193.3	Runella slithyformis DSM 19594	NCBI_REP	9
+86177.10	Halomonas utahensis strain DSM 3051	NORMAL	9
+889453.4	Alkalitalea saponilacus strain SC/BZ-SP2	NORMAL	9
+915437.3	Saccharibacillus sacchari DSM 19268	NCBI_REP	9
+100901.6	Wolbachia endosymbiont of Onchocerca ochengi strain wOo	NCBI_REP	8
+1009858.3	Buchnera aphidicola str. G002 (Myzus persicae)	NCBI_REP	8
+1034346.3	Clostridiaceae bacterium JC13	NCBI_REP	8
+1041504.3	Candidatus Arthromitus sp. SFB-rat-Yit	NCBI_REP	8
+107806.10	Buchnera aphidicola str. APS (Acyrthosiphon pisum)	NCBI_REF	8
+1081904.3	Prevotella pleuritidis F0068	NCBI_REP	8
+1095772.3	Sanguibacter sp. JC301	NCBI_REP	8
+1120956.3	Afifella pfennigii DSM 17143	NCBI_REP	8
+1121278.3	Chitinimonas koreensis DSM 17726	NCBI_REP	8
+1121293.3	Clostridium akagii DSM 12554	SHORT_SSU	8
+1123488.3	Varibaculum cambriense DSM 15806	NCBI_REP	8
+1159213.3	Peptostreptococcus canis strain DSM 27025	NORMAL	8
+1163419.3	Hyphomicrobium sp. 99	NCBI_REP	8
+1205680.3	Reyranella massiliensis 521	NCBI_REP	8
+1214914.3	Sulfobacillus thermosulfidooxidans str. Cutipay	NCBI_REP	8
+1234595.3	alpha proteobacterium JLT2015	NCBI_REP	8
+1282737.3	Flaviflexus salsibiostraticola strain KCTC 33148	NORMAL	8
+1423735.3	Lactobacillus concavus DSM 17758	NCBI_REP	8
+1490290.4	Paenactinomyces guangxiensis strain CICC 11033=CGMCC 4.7156	SINGLE_SSU	8
+1499107.3	Smithella sp. SCADC	NCBI_REP	8
+1581128.4	Arthrobacter sp. HMSC06H05	NORMAL	8
+1630.60	Kandleria vitulina strain WCC7	SINGLE_SSU	8
+165186.17	uncultured Ruminococcus sp. strain 2789STDY5834938	NORMAL	8
+169962.4	uncultured Desulfomonile sp. strain Loc090907-8-6m_bin-644	NORMAL	8
+1736445.3	Phenylobacterium sp. Root1290	NCBI_REP	8
+1812262.3	Rothia aerolata strain CCM 8669	NORMAL	8
+1842495.3	Pelobium manganitolerans strain YS-25	NORMAL	8
+1852522.3	Paenibacillus sp. 11 strain 11	NORMAL	8
+1915467.3	Methanobacterium sp. UBA44	NORMAL	8
+1951016.4	Flavobacteriales bacterium UBA4466 strain FRAM18_bin200	NORMAL	8
+198804.5	Buchnera aphidicola str. Sg (Schizaphis graminum)	NCBI_REP	8
+2022770.4	Candidatus Nitrotoga sp. strain MC4_S2_Binsanity_014	NORMAL	8
+2024856.3	Roseibacillus sp. strain ARS40	SINGLE_SSU	8
+2293110.3	Melissococcus sp. OM08-11BH	NORMAL	8
+2319843.3	Hymenobacter sp. sh-6	NORMAL	8
+2692818.3	Limnothrix sp. FACHB-708	SINGLE_SSU	8
+2732163.3	Limnobacter sp. SAORIC-580	NORMAL	8
+2758037.3	Chryseobacterium sp. cx-624	NORMAL	8
+2760807.14	Lewinellaceae bacterium strain HK-STAS-BACT-40	NORMAL	8
+2831674.3	Virgibacillus sp. NKC19-3	NORMAL	8
+2841533.3	Kineothrix sp. MSJ-39	NORMAL	8
+2844380.3	Collinsella sp. zg1085	NORMAL	8
+2855394.3	Crassaminicella sp. 143-21	NORMAL	8
+2883571.16	Candidatus Microgenomatus sp. strain BE2012_45_76	SINGLE_SSU	8
+2927876.3	Acidithiobacillus sp. YTS05	NORMAL	8
+314344.7	Mariprofundus ferrooxydans strain JV-1	NORMAL	8
+335541.7	Syntrophomonas wolfei subsp. wolfei str. Goettingen	NCBI_REP	8
+360107.7	Campylobacter hominis ATCC BAA-381	NCBI_REP	8
+433647.12	Cryobacterium mesophilum strain CGMCC 1.10440	NORMAL	8
+444157.8	Pyrobaculum neutrophilum V24Sta	NCBI_REP	8
+45068.5	Legionella londiniensis strain ATCC 49505	NCBI_REP	8
+450851.6	Phenylobacterium zucineum HLK1	NCBI_REP	8
+476102.3	Salirhabdus salicampi Q7268	SINGLE_SSU	8
+535091.3	Campylobacter sp. MIT 99-7217	NORMAL	8
+540749.13	uncultured Succinivibrio sp. strain RUG14916	NORMAL	8
+553175.3	Porphyromonas endodontalis ATCC 35406	NCBI_REP	8
+582899.7	Hyphomicrobium denitrificans ATCC 51888	NCBI_REP	8
+679192.3	Bulleidia extructa W1219	NCBI_REP	8
+703222.3	Kibdelosporangium sp. MJ126-NF4 MJ126-NF41	NCBI_REP	8
+756883.5	halophilic archaeon DL31	NCBI_REP	8
+868864.3	Desulfurobacterium thermolithotrophum DSM 11699	NCBI_REP	8
+901.15	Desulfovibrio piger strain DESPIGER1	NORMAL	8
+1120945.3	Actinomyces neuii subsp. neuii DSM 8576	NORMAL	7
+1121290.3	Clostridium acetireducens DSM 10703	NORMAL	7
+1122158.3	Leeia oryzae DSM 17879	NCBI_REP	7
+1122213.3	Maritalea myrionectae DSM 19524	NCBI_REP	7
+1122602.4	Nesterenkonia alba DSM 19423	NCBI_REP	7
+1123288.4	Sporomusa ovata DSM 2662	NCBI_REP	7
+1185412.10	Vallitalea guaymasensis strain Ra1766G1	NORMAL	7
+1265350.3	Buchnera aphidicola (Aphis glycines) strain BAg	NCBI_REP	7
+1279009.4	Cesiribacter andamanensis AMV16	NCBI_REP	7
+1295009.4	Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1	NCBI_REP	7
+1306174.4	Kineosporia aurantiaca JCM 3230	SHORT_SSU	7
+131568.6	Kineococcus radiotolerans strain AS2.23	NORMAL	7
+1339239.3	Cetobacterium sp. ZOR0034	NCBI_REP	7
+1393034.3	Atopobium deltae strain DNF00019	NORMAL	7
+1396141.3	Haloferula sp. BvORR071	NCBI_REP	7
+1408469.3	Mycoplasma simbae ATCC 49888	NCBI_REP	7
+1423778.4	Lactobacillus oligofermentans DSM 15707 = LMG 22743	NCBI_REP	7
+1423802.4	Lactobacillus senioris DSM 24302 = JCM 17472	NCBI_REP	7
+1507.3	Clostridium sp. ATCC 29733	NCBI_REP	7
+1548207.7	Cephaloticoccus primus strain CAG34	SINGLE_SSU	7
+1565605.5	Rugosibacter aromaticivorans strain Ca6	NORMAL	7
+1582270.3	Acinetobacter populi strain PBJ7	NORMAL	7
+171865.3	Sulfuriferula plumbiphila strain NBRC 107929	NORMAL	7
+1736446.3	Leifsonia sp. Root1293	NCBI_REP	7
+1753.3	Propioniferax innocua strain DSM 8251	SINGLE_SSU	7
+1879010.6635	Firmicutes bacterium strain LMAG:71	NORMAL	7
+1881057.3	Quadrisphaera sp. DSM 44207	NORMAL	7
+1911548.3	Lysinibacillus alkalisoli strain CGMCC 1.15760	NORMAL	7
+194439.7	Chlorobium tepidum TLS	NCBI_REF	7
+1945892.3	Cytophagales bacterium TFI 002	NORMAL	7
+197221.4	Thermosynechococcus elongatus BP-1	NCBI_REF	7
+2067568.3	Microbacterium sp. YJYP303	NORMAL	7
+207949.12	Bermanella marisrubri strain RED65	NORMAL	7
+2125989.3	Neptunicella marina strain S27-2	SINGLE_SSU	7
+2249428.3	Aliidiomarina sp. F3105	SINGLE_SSU	7
+2570229.3	Phreatobacter sp. NMCR1094	NORMAL	7
+2582913.3	Emcibacter sp. MEBiC09520	NORMAL	7
+2585135.3	Georgenia sp. Z294	NORMAL	7
+2662363.3	Alistipes sp. dk3624	NORMAL	7
+2678502.3	Facklamia sp. 253	NORMAL	7
+2692873.3	Trichocoleus sp. FACHB-6	SINGLE_SSU	7
+2714937.4	Propioniciclava sp. HDW11	NORMAL	7
+2726201.3	Olsenella sp. KGMB02461	NORMAL	7
+2739063.3	Thiomicrorhabdus sp. G2	NORMAL	7
+2743001.3	Salicibibacter sp. NKC21-4	NORMAL	7
+2782161.3	Deferribacteraceae bacterium V6Fe1	NORMAL	7
+2794353.3	Vagococcus sp. BWB3-3	NORMAL	7
+2801332.3	Piscinibacter sp. Jin2	NORMAL	7
+2852100.3	Candidatus Phytoplasma sp. AldY-WA1	NORMAL	7
+2874283.10	Schnuerera sp. xch1	SINGLE_SSU	7
+2883571.10	Candidatus Microgenomatus sp. strain BE2012_3_53_27	SINGLE_SSU	7
+2904248.5	Pseudohongiella sp. O18	NORMAL	7
+292415.6	Thiobacillus denitrificans ATCC 25259	NCBI_REP	7
+314287.3	gamma proteobacterium HTCC2207	NCBI_REP	7
+314319.6	Prolixibacter bellariivorans strain JCM 13498	NORMAL	7
+336810.67	Candidatus Sulcia muelleri strain ENCA	SINGLE_SSU	7
+33953.3	Clostridium aminobutyricum strain DSM 2634	NORMAL	7
+391922.3	Roseospira goensis strain JA135	SINGLE_SSU	7
+395965.5	Methylocella silvestris BL2	NCBI_REP	7
+402881.8	Parvibaculum lavamentivorans DS-1	NCBI_REP	7
+42233.3	Spirilliplanes yamanashiensis strain NBRC 15828	SINGLE_SSU	7
+445971.6	Anaerofustis stercorihominis DSM 17244	NCBI_REP	7
+450513.3	Symplocastrum torsivum CPER-KK1	SINGLE_SSU	7
+45056.6	Legionella adelaidensis strain 1762-AUS-E	NCBI_REP	7
+454.4	Legionella israelensis strain Bercovier 4	NCBI_REP	7
+457415.3	Synergistes sp. 3_1_syn1	NCBI_REP	7
+471855.5	Slackia heliotrinireducens DSM 20476	NCBI_REP	7
+478801.5	Kytococcus sedentarius DSM 20547	NCBI_REP	7
+490899.14	Desulfurococcus kamchatkensis 1221n	NCBI_REP	7
+51173.4	Ureibacillus thermosphaericus strain A1	NORMAL	7
+562970.4	Kyrpidia tusciae DSM 2912	NCBI_REP	7
+580332.5	Sideroxydans lithotrophicus ES-1	NCBI_REP	7
+653733.4	Desulfurispirillum indicum S5	NCBI_REP	7
+693023.3	Roseomonas pecuniae strain DSM 25622	NORMAL	7
+716813.3	Psychrosphaera saromensis strain SA4-48	NORMAL	7
+760568.4	Desulfotomaculum kuznetsovii DSM 6115	NCBI_REP	7
+831.24	Butyrivibrio fibrisolvens ASCUSDY19	NORMAL	7
+929562.3	Emticicia oligotrophica DSM 17448	NCBI_REP	7
+930128.3	Alteribacillus iranensis strain DSM 23995	NORMAL	7
+931277.6	Halococcus morrhuae DSM 1307	NCBI_REP	7
+944559.3	Paenibacillus sp. HGF7	NCBI_REP	7
+1007092.3	Microlunatus terrae strain DSM 26486	NORMAL	6
+1034345.3	Coriobacteriaceae bacterium JC110	NCBI_REP	6
+1069640.6	Sneathia sp. Sn35	NCBI_REP	6
+1098.9	Prosthecochloris vibrioformis strain M55B161	NORMAL	6
+110319.3	Nocardioides sp. CF8	NCBI_REP	6
+1122131.7	Kaistia adipata DSM 17808	NORMAL	6
+1123261.3	Solimonas soli DSM 21787	NCBI_REP	6
+1125411.11	Candidatus Thioglobus singularis PS1	SINGLE_SSU	6
+1128427.4	filamentous cyanobacterium ESFC-1	NCBI_REP	6
+1162980.3	Cohaesibacter haloalkalitolerans strain JC131	NORMAL	6
+1177213.3	Candidatus Vallotia tarda strain VALLOT	NORMAL	6
+1206109.5	Candidatus Portiera aleyrodidarum BT-B-HRs	SINGLE_SSU	6
+1227546.3	Membranicola marinus strain DP5N28-2	SINGLE_SSU	6
+1236046.7	Mesotoga infera strain MESINF1	NORMAL	6
+1236179.3	Janthinobacterium sp. B9-8	NCBI_REP	6
+1316936.3	Phaeospirillum fulvum MGU-K5	NCBI_REP	6
+1328313.3	Catenovulum agarivorans DS-2	NCBI_REP	6
+1340493.3	Bryobacter aggregatus MPL3	NCBI_REP	6
+1354314.3	Cardinium endosymbiont cBtQ1 of Bemisia tabaci	SINGLE_SSU	6
+1359163.4	Candidatus Neoehrlichia lotoris str. RAC413	SINGLE_SSU	6
+1384459.3	Methyloceanibacter caenitepidi Gela4	NCBI_REP	6
+1407055.3	Thaumarchaeota archaeon N4	NCBI_REP	6
+1445552.4	Candidatus Phycosocius bacilliformis strain BOTRYCO-2	SINGLE_SSU	6
+1473112.3	Paenibacillus guangzhouensis strain KCTC 33171	NORMAL	6
+1522310.3	Mobilicoccus sp. SIT2	NCBI_REP	6
+156994.4	Reichenbachiella agariperforans strain DSM 26134	NORMAL	6
+1679721.3	Herbinix luporum strain SD1D	NORMAL	6
+1735162.9	Candidatus Peribacter riflensis strain RIFOXYD1_FULL_PER-ii_59_16	SINGLE_SSU	6
+1736379.4	Marmoricola sp. Leaf446	NORMAL	6
+174633.136	Candidatus Kuenenia stuttgartiensis LH-05nov19-145	SINGLE_SSU	6
+174633.59	Candidatus Kuenenia stuttgartiensis AMX1	SINGLE_SSU	6
+1768010.4	Actinophytocola algeriensis strain DSM 46746	NORMAL	6
+1903058.8	Candidatus Xiphinematobacter sp. strain P23	SINGLE_SSU	6
+1936025.3	Kiloniella sp. M146.1 strain M146.1	SINGLE_SSU	6
+1946379.3	Clostridium sp. UBA7791	NORMAL	6
+1962973.3	Luteolibacter sp. CoA8N_E16	NORMAL	6
+1965333.5	Prosthecobacter sp. strain Bin_70R	SINGLE_SSU	6
+1985113.20	uncultured Candidatus Actinomarina sp. strain AG-333-G23	SINGLE_SSU	6
+2020291.3	Candidatus Marithrix sp. strain BB16	SINGLE_SSU	6
+2032627.3	Aliifodinibius sp. WN023	SINGLE_SSU	6
+2053187.3	Rhodohalobacter sp. 15182	SINGLE_SSU	6
+2053594.49	Prolixibacteraceae bacterium strain DS1-an-2312	NORMAL	6
+2202734.224	Saprospiraceae bacterium strain ACE_BAC4	NORMAL	6
+2291597.3	Gallaecimonas sp. HK-28	NORMAL	6
+2291710.9	Dokdonella sp. strain ACE_PRO73	NORMAL	6
+2301224.3	Wenzhouxiangella sp. 15181	SINGLE_SSU	6
+2479848.3	Tessaracoccus sp. JDX10	NORMAL	6
+2528642.3	Rhizobiales bacterium PAMC 29148	NORMAL	6
+2570323.3	Rivibacter sp. C1-9	SINGLE_SSU	6
+2610891.3	Cysteiniphilum sp. JM-1	SINGLE_SSU	6
+269796.9	Rhodospirillum rubrum ATCC 11170	NCBI_REF	6
+2715251.19	Candidatus Paceibacter sp. strain BE2011_3_41_10	SINGLE_SSU	6
+2763056.3	Oscillibacter sp. NSJ-62	NORMAL	6
+2766776.10	Arthrobacter sp. UM1	NORMAL	6
+2817060.3	Fibrella sp. HMF5335	NORMAL	6
+2817372.3	Rubellimicrobium sp. SYSU D00286	SINGLE_SSU	6
+2821731.3	Carnobacteriaceae bacterium zg-C25	NORMAL	6
+2839016.10	Gemmatimonadetes bacterium T265	NORMAL	6
+2849650.10	Salsipaludibacter albus AS10	SINGLE_SSU	6
+2866588.11	Pseudoclavibacter sp. Marseille-Q3772	NORMAL	6
+292563.3	Cyanobacterium stanieri PCC 7202	NCBI_REP	6
+324602.8	Chloroflexus aurantiacus J-10-fl	NCBI_REF	6
+331678.5	Chlorobium phaeobacteroides BS1	NCBI_REP	6
+339860.19	Methanosphaera stadtmanae DSM 3091	NCBI_REP	6
+349521.8	Hahella chejuensis KCTC 2396	NCBI_REP	6
+356660.7	Albimonas donghaensis strain DSM 17890	SINGLE_SSU	6
+363885.3	Luteimonas panaciterrae strain Gsoil 068	NORMAL	6
+368408.14	Thermofilum pendens Hrk 5	NCBI_REP	6
+370438.4	Pelotomaculum thermopropionicum SI	NCBI_REP	6
+389348.3	Protochlamydia naegleriophila strain KNic	NCBI_REP	6
+416213.14	Ferrovum myxofaciens strain S2.4	NORMAL	6
+431489.6	Demequina lutea strain DSM 19970	NORMAL	6
+478741.3	Verrucomicrobia bacterium LP2A	NCBI_REP	6
+515635.4	Dictyoglomus turgidum DSM 6724	NCBI_REF	6
+537013.3	Clostridium methylpentosum DSM 5476	NCBI_REP	6
+563176.3	Siphonobacter aquaeclarae strain DSM 21668	SINGLE_SSU	6
+641143.3	Capnocytophaga granulosa ATCC 51502	NCBI_REP	6
+648752.3	Actinopolymorpha pittospori strain DSM 45354	NORMAL	6
+648757.4	Rhodomicrobium vannielii ATCC 17100	NCBI_REP	6
+649349.3	Leadbetterella byssophila DSM 17132	NCBI_REP	6
+689768.4	Planosporangium mesophilum strain NBRC 109066	SINGLE_SSU	6
+694427.4	Paludibacter propionicigenes WB4	NCBI_REP	6
+712711.3	Tannerella sp. oral taxon 808 strain cell108	NORMAL	6
+717773.3	Thioalkalimicrobium cyclicum ALM1	NCBI_REP	6
+744859.10	Candidatus Liberibacter europaeus strain ASUK1	NORMAL	6
+756272.5	Planctomyces brasiliensis DSM 5305	NCBI_REP	6
+81417.3	Methanofollis tationis strain DSM 2702	NORMAL	6
+82801.9	Desemzia incerta strain L243	NORMAL	6
+859059.3	Aliidiomarina haloalkalitolerans strain AK5	SINGLE_SSU	6
+862515.4	Prevotella marshii DSM 16973	NCBI_REP	6
+891968.3	Anaerobaculum mobile DSM 13181	NCBI_REP	6
+986075.3	Caldalkalibacillus thermarum TA2.A1	NCBI_REP	6
+99117.3	Microlunatus capsulatus strain DSM 12936	NORMAL	6
+1054217.5	Thermoplasmatales archaeon BRNA1	NCBI_REP	5
+1111732.3	Ignatzschineria larvae DSM 13226	NCBI_REP	5
+111780.3	Stanieria cyanosphaera PCC 7437	NCBI_REP	5
+1121328.3	"[Clostridium] paradoxum JW-YL-7 = DSM 7308"	NORMAL	5
+1121382.3	Deinococcus misasensis DSM 22328	NCBI_REP	5
+1121462.3	Desulfovibrio putealis DSM 16056	NCBI_REP	5
+1121952.3	Humibacter albus DSM 18994	NCBI_REP	5
+1122951.3	Perlucidibaca piscinae DSM 21586	SHORT_SSU	5
+1123032.3	Psychrilyobacter atlanticus DSM 19335	NCBI_REP	5
+1123499.3	Vitreoscilla stercoraria DSM 513	NCBI_REP	5
+1131455.3	Mycoplasma canis UFG4	NCBI_REP	5
+1188247.3	Rhodothalassium salexigens DSM 2132	SINGLE_SSU	5
+1214225.3	Acidocella sp. MX-AZ02	NCBI_REP	5
+123214.3	Persephonella marina EX-H1	NCBI_REP	5
+1297582.10	Candidatus Portiera aleyrodidarum TV	SINGLE_SSU	5
+1302151.4	Caloranaerobacter sp. TR13	NORMAL	5
+1321814.3	Eubacterium brachy ATCC 33089	NCBI_REP	5
+1356854.4	Alicyclobacillus acidoterrestris ATCC 49025	NCBI_REP	5
+1379154.3	Alkalibacillus almallahensis strain CECT 8373	NORMAL	5
+1379858.3	Mucispirillum schaedleri ASF457	NCBI_REP	5
+1380157.4	Terrilactibacillus laevilacticus strain SK5-6	SINGLE_SSU	5
+1380394.3	Rhodospirillales bacterium URHD0088	NCBI_REP	5
+1450694.3	Bacillus sp. TS-2	NCBI_REP	5
+1468413.3	Bacillus massilioanorexius strain MGYG-HGUT-01428	NORMAL	5
+1519439.3	Oscillibacter sp. ER4	NCBI_REP	5
+1540.4	Clostridioides mangenotii strain N8	NORMAL	5
+1566827.4	Parvularcula flava strain NH6-79	NORMAL	5
+1572656.3	Ruminococcaceae bacterium CPB6 strain CPB6	NORMAL	5
+1605891.3	Lysobacter maris strain HZ9B	NORMAL	5
+1655435.4	Serinibacter sp. K3-2	NORMAL	5
+1658671.4	Arsenicicoccus sp. oral taxon 190 strain F0371	NORMAL	5
+1737063.3	Brumimicrobium aurantiacum strain N62	SINGLE_SSU	5
+1769296.4	Candidatus Methanomethylophilus sp. 1R26	NORMAL	5
+1776392.3	Candidatus Stoquefichus sp. SN16	NORMAL	5
+1813876.3	Phenylobacterium hankyongense strain HKS-05	NORMAL	5
+1838286.3	Opitutaceae bacterium IG16b	SINGLE_SSU	5
+1898207.4100	Clostridiales bacterium strain R-7	NORMAL	5
+1926676.3	uncultured Prevotellamassilia sp. strain Prevotellamassilia canine HQ MAG	NORMAL	5
+1965550.3	Faecalibacterium sp. An121 strain An121	NORMAL	5
+2006849.56	Xanthomonadales bacterium strain Ega_18-Q3-R5-49_BAT3C.216	NORMAL	5
+2026740.37	Flammeovirgaceae bacterium strain HK-STAS-BACT-46	NORMAL	5
+2026742.403	Gemmatimonadetes bacterium strain Skiv_18-Q3-R9-52_BAT3C.167	NORMAL	5
+2030927.2515	Bacteroidales bacterium UW_MP_BACTE1_1	NORMAL	5
+2044944.49	Sphingobacteriales bacterium strain Aved_18-Q3-R54-62_MAXAC.344	NORMAL	5
+2058213.3	Marinicaulis flavus strain SY-3-19	SINGLE_SSU	5
+211114.3	Allokutzneria albata strain NRRL B-24461	NCBI_REP	5
+2162209.3	Prochlorococcus sp. AG-436-K22	NORMAL	5
+2170743.3	Auritidibacter sp. NML120636	NORMAL	5
+2212850.3	Natronomonas sp. F17-44	NORMAL	5
+2268201.25	Synergistales bacterium strain UFZ-4H10	NORMAL	5
+2294116.3	Ferruginibacter sp. BO-59	SINGLE_SSU	5
+2302665.3	Candidatus Electrothrix sp. AW5	SINGLE_SSU	5
+240016.6	Verrucomicrobium spinosum DSM 4136	NCBI_REP	5
+243273.25	Mycoplasma genitalium G37	NCBI_REP	5
+2511995.3	Xanthomonadaceae bacterium AQ6-296	NORMAL	5
+251221.4	Gloeobacter violaceus PCC 7421	NCBI_REF	5
+251540.4	Candidatus Blochmannia vicinus C-028	SINGLE_SSU	5
+2561898.4	Campylobacter sp. CGEMS strain 19S00001	NORMAL	5
+2565273.3	Candidatus Defluviicoccus seviourii	SINGLE_SSU	5
+2605789.3	Pyramidobacter sp. SM-530-WT-4B	NORMAL	5
+2653675.3	Hormoscilla sp. SP5CHS1	SINGLE_SSU	5
+2681969.3	Oceanobacillus sp. AG	NORMAL	5
+2714855.3	Nitratiruptor sp. EPR55-1	NORMAL	5
+2740807.3	Aquisalimonas sp. 2447	SINGLE_SSU	5
+278208.13	uncultured Spirosoma sp. strain maxbin_SP106_3.024	NORMAL	5
+2819258.8	Candidatus Saccharicenans sp. A05DMB19	SINGLE_SSU	5
+2839084.10	Phormidium sp. PBR-2020	NORMAL	5
+2843330.3	Elioraea sp. MS-P2	SINGLE_SSU	5
+2864218.10	Candidatus Profftia sp. (ex Adelges kitamiensis) Adelges kitamiensis 18-608	SINGLE_SSU	5
+313368.3	Maribius salinus strain DSM 26892	NORMAL	5
+321332.11	Synechococcus sp. JA-2-3B'a(2-13)	NCBI_REP	5
+323259.15	Methanospirillum hungatei JF-1	NCBI_REP	5
+361586.8	uncultured Anaerovibrio sp. strain HGM14057	SINGLE_SSU	5
+380749.5	Hydrogenobaculum sp. Y04AAS1	NCBI_REP	5
+410358.15	Methanocorpusculum labreanum Z	NCBI_REP	5
+43355.3	Crossiella cryophila strain DSM 44230	NORMAL	5
+469378.5	Cryptobacterium curtum DSM 15641	NCBI_REP	5
+471856.5	Jonesia denitrificans DSM 20603	NCBI_REP	5
+485577.3	Aquisalibacillus elongatus strain DSM 18090	SINGLE_SSU	5
+499229.3	Tepidanaerobacter acetatoxydans strain Re1	NORMAL	5
+511680.4	Butyrivibrio crossotus DSM 2876	NCBI_REP	5
+525897.5	Desulfomicrobium baculatum DSM 4028	NCBI_REP	5
+526216.3	Oceanibaculum indicum strain USBA 36	SINGLE_SSU	5
+526222.3	Desulfovibrio salexigens DSM 2638	NCBI_REP	5
+529884.3	Candidatus Rhodoluna lacicola strain MWH-Ta8	NCBI_REP	5
+572480.3	Arcobacter nitrofigilis DSM 7299	NCBI_REP	5
+592376.5	Agromyces atrinae strain DSM 23870	NORMAL	5
+613026.4	Helicobacter bilis ATCC 43879	NCBI_REP	5
+638300.3	Cardiobacterium hominis ATCC 15826	NCBI_REP	5
+641510.7	Oceanisphaera arctica strain KCTC 23013	NORMAL	5
+643867.3	Marivirga tractuosa DSM 4126	NCBI_REP	5
+669502.32	Candidatus Profftella armatura strain JRPAMB3	SINGLE_SSU	5
+743967.3	Mycoplasma yeatsii GM274B	NCBI_REP	5
+762983.3	Succinatimonas hippei YIT 12066	NCBI_REP	5
+765952.4	Parachlamydia acanthamoebae UV-7	NCBI_REP	5
+84022.6	Clostridium aceticum strain DSM 1496	NCBI_REP	5
+862908.3	Bacteriovorax marinus SJ	NCBI_REP	5
+868131.7	Methanobacterium paludis strain SWAN-1	NCBI_REP	5
+877466.33	Thermoflexus hugenholtzii JAD2 TH-11nov19-82	SINGLE_SSU	5
+877466.5	Thermoflexus hugenholtzii JAD2 strain JAD2	SINGLE_SSU	5
+879308.3	Peptoniphilus sp. oral taxon 375 str. F0436	NCBI_REP	5
+903814.3	Eubacterium limosum KIST612	NCBI_REP	5
+917.4	Nitrosomonas marina strain Nm71	NORMAL	5
+926549.3	Adhaeribacter aquaticus DSM 16391	NCBI_REP	5
+926561.3	Orenia marismortui DSM 5156	NCBI_REP	5
+927669.4	Pseudanabaena biceps strain O153	NORMAL	5
+938288.5	Clostridiales bacterium 9401234	NCBI_REP	5
+994573.3	Clostridium sp. 232.1	NCBI_REP	5
+102129.3	Leptolyngbya sp. PCC 7375	NCBI_REP	4
+1026882.3	Methylophaga aminisulfidivorans MP	NCBI_REP	4
+1118062.3	Peptostreptococcaceae bacterium ph1	NCBI_REP	4
+1121413.3	Desulfonatronovibrio hydrogenovorans DSM 9292	NCBI_REP	4
+1121457.4	Halodesulfovibrio marinisediminis DSM 17456	NORMAL	4
+1121915.3	Geoalkalibacter ferrihydriticus DSM 17813	NCBI_REP	4
+1121919.3	Geosporobacter subterraneus DSM 17957	NORMAL	4
+1122223.3	Meiothermus timidus DSM 17022	NCBI_REP	4
+1122607.5	Nisaea denitrificans DSM 18348	NORMAL	4
+1123059.3	Robiginitomaculum antarcticum DSM 21748	NCBI_REP	4
+1123070.3	Rubritalea marina DSM 17716	SHORT_SSU	4
+1123355.3	Terasakiella pusilla DSM 6293	NCBI_REP	4
+1123364.3	Thalassobaculum salexigens DSM 19539	NCBI_REP	4
+1123509.3	Zooshikella ganghwensis DSM 15267	NCBI_REP	4
+1144618.3	Allonocardiopsis opalescens strain DSM 45601	SINGLE_SSU	4
+1167006.5	Desulfocapsa sulfexigens DSM 10523	NCBI_REP	4
+1173026.3	Gloeocapsa sp. PCC 7428	NCBI_REP	4
+1177218.3	Candidatus Gillettellia cooleyia strain 19-005	SINGLE_SSU	4
+1184267.3	Bdellovibrio exovorus JSS	NCBI_REP	4
+1193620.3	Niveibacterium umoris strain DSM 106739	NORMAL	4
+1208921.3	Candidatus Kinetoplastibacterium galatii TCC219	NCBI_REP	4
+1233.3	Nitrosovibrio tenuis strain Nv1	SINGLE_SSU	4
+1264899.3	Zavarzinia compransoris strain DSM 1231	SINGLE_SSU	4
+1278308.3	Zimmermannella faecalis ATCC 13722	NCBI_REP	4
+1283283.4	Frankia sp. Iso899	NCBI_REP	4
+1303518.3	Chthonomonas calidirosea T49	NCBI_REP	4
+1304880.3	Caldicoprobacter oshimai DSM 21659	SHORT_SSU	4
+1345117.3	Candidatus Annandia pinicola strain Ad13-065	SINGLE_SSU	4
+1371.9	Marinococcus halophilus strain NBRC 102359	SINGLE_SSU	4
+1380348.5	Acidobacteriaceae bacterium URHE0068	NCBI_REP	4
+1381596.8	Marinimicrobium sp. LS-A18	NORMAL	4
+1392998.3	Candidatus Methanoperedens nitroreducens strain ANME-2d	NCBI_REP	4
+1408457.3	Mycoplasma columbinum ATCC 29257	NCBI_REP	4
+1410631.3	Lachnospiraceae bacterium P6B14	NCBI_REP	4
+1410664.3	Methanobrevibacter wolinii SH	NCBI_REP	4
+1423722.3	Lactobacillus amylotrophicus DSM 20534	NCBI_REP	4
+142842.3	Selenihalanaerobacter shriftii strain ATCC BAA-73	SINGLE_SSU	4
+1453500.3	Schleiferia thermophila str. Yellowstone	NCBI_REP	4
+1458461.3	Candidatus Phaeomarinobacter ectocarpi strain Ec32	NCBI_REP	4
+1478175.3	Neochlamydia sp. EPS4	NCBI_REP	4
+1499975.3	Nitrosotalea sp. Nd2 strain NSIN	SINGLE_SSU	4
+1509483.4	Flectobacillus sp. BAB-3569	NORMAL	4
+1522317.3	bacterium SIT7	NCBI_REP	4
+1552750.3	Zoogloea oleivorans strain Buc	NORMAL	4
+1586337.3	uncultured Arenicella sp. strain 0.2_20180502_Bin_MAXBIN_123_sub_1	SINGLE_SSU	4
+1641855.3	Beijerinckia sp. L45	NORMAL	4
+1650662.4	Desnuesiella massiliensis strain mt10	NORMAL	4
+1650663.10	Fournierella massiliensis An912	SINGLE_SSU	4
+165436.8	uncultured Flavobacteriaceae bacterium strain FRAM18_bin181	NORMAL	4
+1702221.14	Faecalibaculum rodentium strain Alo17 strain ALO17	NORMAL	4
+171282.4	Mycoplasma columborale strain NCTC10179	NORMAL	4
+1715348.4	Sandaracinobacter sp. PAMC 28131	SINGLE_SSU	4
+172901.3	Victivallis vadensis strain DSM 14823	NORMAL	4
+1780362.3	Campylobacter geochelonis strain LMG 29375	NORMAL	4
+1781255.3	Desertifilum sp. IPPAS B-1220	SINGLE_SSU	4
+178899.4	Carboxydocella thermautotrophica strain 019	NORMAL	4
+1849041.17	Harryflintia acetispora strain DSM 100433	SINGLE_SSU	4
+1872084.16	Nitratireductor sp. strain HK-STAS-PROT-47	NORMAL	4
+1872096.100	Acetofilamentum sp. SulCav_AS07-7_3_31_287	SINGLE_SSU	4
+1897632.3	Saccharospirillum sp. MSK14-1	SINGLE_SSU	4
+1898203.3470	Lachnospiraceae bacterium UW_TS_LCO3_3	NORMAL	4
+1909293.33	Acetobacteraceae bacterium strain PAMC 26569	NORMAL	4
+1909294.18	Rhizobiales bacterium strain SY3-13	NORMAL	4
+1927127.18	Candidatus Enterovibrio escacola strain CDS3E strain not applicable	NORMAL	4
+1930784.9	Aurantimicrobium sp. HJF.33	SINGLE_SSU	4
+1931216.3	Lentisphaera sp. strain SulCav_AS07-7_55_126	SINGLE_SSU	4
+1940288.25	Ferruginibacter sp. strain Gw_SlAct_bin_83	SINGLE_SSU	4
+1945879.3	Nitrosospira sp. Nsp44	NORMAL	4
+1987921.3	Candidatus Profftia lariciata strain Ad13-081	SINGLE_SSU	4
+2006849.84	Xanthomonadales bacterium strain ACE_PRO13	NORMAL	4
+2024896.106	Anaerolineaceae bacterium strain HK-STAS-CHLO-41	NORMAL	4
+2026745.21	Halobacteriovoraceae bacterium strain HK-STAS-BDEL-3	NORMAL	4
+2026885.4	Candidatus Acetothermia bacterium Ran1 strain BARAN1 MAG	SINGLE_SSU	4
+2030824.22	Phycisphaera sp. strain RI_241	SINGLE_SSU	4
+2030824.25	Phycisphaera sp. strain HK-STAS-PLAN-4	SINGLE_SSU	4
+203122.15	Saccharophagus degradans 2-40	NCBI_REP	4
+2044594.17	Candidatus Delongbacteria bacterium strain HK-STAS-DELO-1	NORMAL	4
+2058294.3	Facklamia sp. Marseille-P5643	SINGLE_SSU	4
+2073117.236	Anaerolineales bacterium strain HK-STAS-CHLO-43	NORMAL	4
+2079197.5	Telmatospirillum sp. strain M043S1SP1A48QC	SINGLE_SSU	4
+2152829.6	Hydrogenobacter sp. strain SpSt-287	NORMAL	4
+2202734.71	Saprospiraceae bacterium strain Ega_18-Q3-R5-49_BAT3C.104	NORMAL	4
+2283196.3	Motiliproteus coralliicola strain C34	SINGLE_SSU	4
+229920.8	Leptolinea tardivitalis strain YMTK-2	SINGLE_SSU	4
+2341113.3	Guyparkeria sp. SCN-R1	NORMAL	4
+2365003.3	Candidatus Syntrophoarchaeum sp. WYZ-LMO15	SINGLE_SSU	4
+244328.197	uncultured Clostridia bacterium min17_bin01	NORMAL	4
+2448052.12	Geminicoccaceae bacterium strain HK-STAS-PROT-10	NORMAL	4
+246194.6	Carboxydothermus hydrogenoformans Z-2901	NCBI_REP	4
+246195.4	Dichelobacter nodosus VCS1703A	NCBI_REP	4
+2478554.3	Nitrosopumilus sp. D6	NORMAL	4
+2488791.3	Zimmermannella sp. YIM 102482-1	NORMAL	4
+251229.3	Chroococcidiopsis thermalis PCC 7203	NCBI_REP	4
+2528023.3	Planctomycetes bacterium ETA_A1	NORMAL	4
+2561926.3	Nitratireductor sp. XY-223	NORMAL	4
+2591008.3	Cellvibrionaceae bacterium R142	SINGLE_SSU	4
+2614248.12	Ardenticatenales bacterium strain HK-STAS-CHLO-8	NORMAL	4
+2666344.11	Candidatus Poseidonia sp. strain BS301-5m-G56	SINGLE_SSU	4
+2675773.3	Enterobacteriaceae endosymbiont of Donacia cincticornis strain DcincSym	NORMAL	4
+2675774.3	Enterobacteriaceae endosymbiont of Donacia cinerea strain DcinSym	NORMAL	4
+2675795.3	Enterobacteriaceae endosymbiont of Plateumaris pusilla strain PpusSym	NORMAL	4
+2682137.7	Defluviicoccus sp. p16x60bins.37	SINGLE_SSU	4
+2687299.4	Candidatus Vondammii sp. HM_W22	NORMAL	4
+2707351.3	Wenzhouxiangella sp. C33	SINGLE_SSU	4
+2708344.3	Canibacter sp. ZJ955	NORMAL	4
+2720720.3	Candidatus Rhabdochlamydia sp. W744	NORMAL	4
+2735565.11	Candidatus Peribacter sp. strain SI072_bin1	SINGLE_SSU	4
+2737664.4	Enterococcus sp. MMGLQ5-2	NORMAL	4
+2740583.4	Flavisolibacter sp. BT320	NORMAL	4
+2742685.3	Motilimonas cestriensis MKS20	SINGLE_SSU	4
+2743976.3	Prosthecochloris sp. DSM 1685	NORMAL	4
+2758717.3	Methanomethylovorans sp. strain MAG-12	NORMAL	4
+2760807.13	Lewinellaceae bacterium strain HK-STAS-BACT-37	NORMAL	4
+2760807.17	Lewinellaceae bacterium strain HK-STAS-BACT-36	NORMAL	4
+2760807.19	Lewinellaceae bacterium strain HK-STAS-BACT-34	NORMAL	4
+2760807.26	Lewinellaceae bacterium strain HK-STAS-BACT-28	NORMAL	4
+2787727.3	Salinibacterium sp. CAN_S4	NORMAL	4
+2806558.3	Methylocaldum sp. S3v3	SINGLE_SSU	4
+2818510.4	Candidatus Synoicihabitans palmerolidicus strain Bin8	SINGLE_SSU	4
+28264.26	Arcanobacterium haemolyticum ET43	NORMAL	4
+2834460.3	Allobaculum sp. 539	NORMAL	4
+2847780.3	Atribacter sp. strain FI88_36_49	SINGLE_SSU	4
+2866161.3	Nocardioides sp. WL0053	NORMAL	4
+2875962.8	Candidatus Sulfidibacterium hydrothermale EPR1	NORMAL	4
+2878922.3	Rickettsia endosymbiont of Bryobia graminum strain moomin	NORMAL	4
+2883565.11	Candidatus Elulimicrobium sp. strain SulCav_AS07-7_35_57	SINGLE_SSU	4
+2884263.3	Aquihabitans sp. Kera 3	SINGLE_SSU	4
+2886196.3	Lentisphaerae bacterium WC36	NORMAL	4
+2899727.5	Peptoniphilus sp. Marseille-Q5883	NORMAL	4
+2905871.3	Herbiconiux sp. L3-i23	NORMAL	4
+2944139.3	Gilvimarinus sp. HB14	NORMAL	4
+29554.3	Mycoplasma canadense HAZ360_1	NCBI_REP	4
+29559.30	Mycoplasma hyosynoviae strain NPL7	NCBI_REP	4
+298654.4	Frankia sp. EuI1c	NCBI_REP	4
+301148.7	Caldibacillus debilis strain ZCTH6_d	SINGLE_SSU	4
+309798.4	Coprothermobacter proteolyticus DSM 5265	NCBI_REP	4
+309801.4	Thermomicrobium roseum DSM 5159	NCBI_REP	4
+312540.4	Acidiplasma cupricumulans strain BH2	NCBI_REP	4
+333708.3	Sphingosinicella soli strain DSM 17328	NORMAL	4
+35754.4	Dactylosporangium aurantiacum strain NRRL B-8018	NCBI_REP	4
+367336.3	Rhodobacterales bacterium HTCC2255	NCBI_REP	4
+373994.3	Rivularia sp. PCC 7116	NCBI_REP	4
+382464.3	Verrucomicrobiae bacterium DG1235	NCBI_REP	4
+387092.6	Nitratiruptor sp. SB155-2	NCBI_REP	4
+390989.3	Actinocatenispora sera strain NRRL B-24477	NCBI_REP	4
+401619.11	Candidatus Riesia pediculicola strain BR-HL	NORMAL	4
+411463.4	Eubacterium ventriosum ATCC 27560	NCBI_REP	4
+416591.5	Thermotoga lettingae TMO	NCBI_REP	4
+434131.3	Neorickettsia risticii str. Illinois	NCBI_REP	4
+456320.6	Methanococcus voltae A3	NCBI_REP	4
+469381.10	Dethiosulfovibrio peptidovorans DSM 11002	NORMAL	4
+479433.5	Catenulispora acidiphila DSM 44928	NCBI_REP	4
+510947.5	Lacibacter cauensis strain CGMCC 1.7271	NORMAL	4
+546271.3	Selenomonas sputigena ATCC 35185	NCBI_REP	4
+552811.9	Dehalogenimonas lykanthroporepellens BL-DC-9	NCBI_REP	4
+555079.3	Thermosediminibacter oceani DSM 16646	NCBI_REP	4
+555778.5	Halothiobacillus neapolitanus c2	NCBI_REP	4
+557993.3	Buchnera aphidicola (Brachycaudus cardui) strain Bca	NORMAL	4
+572478.10	Vulcanisaeta distributa DSM 14429	NCBI_REP	4
+585455.3	Thiohalobacter thiocyanaticus strain FOKN1	SINGLE_SSU	4
+596330.3	Peptoniphilus lacrimalis 315-B	NCBI_REP	4
+608538.3	Hydrogenobacter thermophilus TK-6	NCBI_REP	4
+619741.3	Longispora fulva strain DSM 45356	NORMAL	4
+633807.5	Vagococcus penaei strain LMG 24833	NORMAL	4
+634498.28	Methanobrevibacter ruminantium M1	NCBI_REP	4
+637387.12	Mycoplasma fermentans JER	NCBI_REP	4
+644966.3	Thermaerobacter marianensis DSM 12885	NCBI_REP	4
+663278.4	Ethanoligenens harbinense YUAN-3	NCBI_REP	4
+665126.5	Prosthecomicrobium hirschii strain SM57	SINGLE_SSU	4
+667014.3	Thermodesulfatator indicus DSM 15286	NCBI_REP	4
+671143.5	Candidatus Methylomirabilis oxyfera	NCBI_REP	4
+694431.3	Desulfurella acetivorans A63	NCBI_REP	4
+694440.4	Methanomicrobium mobile BP	NCBI_REP	4
+707003.274	uncultured Oscillospiraceae bacterium min17_bin27	NORMAL	4
+713887.8	Candidatus Atelocyanobacterium thalassa isolate ALOHA	NORMAL	4
+717961.3	Eubacterium siraeum V10Sc8a	NCBI_REP	4
+72409.5	Arcanobacterium sp. SUG1150	NORMAL	4
+760192.3	Haliscomenobacter hydrossis DSM 1100	NCBI_REP	4
+762982.3	Paraprevotella xylaniphila YIT 11841	NCBI_REP	4
+768679.9	Thermoproteus tenax Kra 1	NCBI_REP	4
+796939.3	Eubacteriaceae bacterium CM2	NCBI_REP	4
+84032.3	"[Clostridium] thermosuccinogenes strain DSM 5807"	NORMAL	4
+857335.7	Candidatus Dactylopiibacterium carminicum	SINGLE_SSU	4
+883069.3	Actinomyces europaeus ACS-120-V-Col10b	NCBI_REP	4
+883111.3	Facklamia hominis CCUG 36813	NCBI_REP	4
+883158.3	Prevotella micans F0438	NCBI_REP	4
+883161.3	Propionimicrobium lymphophilum ACS-093-V-SCH5	NCBI_REP	4
+885272.3	Jonquetella anthropi DSM 22815	NCBI_REP	4
+929556.3	Solitalea canadensis DSM 3403	NCBI_REP	4
+932004.13	uncultured Marinoscillum sp. strain AG-390-C07	SINGLE_SSU	4
+980254.9	Roseimaritima ulvae strain UC8	NORMAL	4
+1050370.4	Thiomonas sp. X19	NORMAL	3
+1120975.4	Alkalibacter saccharofermentans DSM 14828	NORMAL	3
+1121390.3	Desulfacinum hydrothermale DSM 13146 strain DSM 13146	NORMAL	3
+1121402.3	Desulfobulbus elongatus DSM 2908	NCBI_REP	3
+1121442.5	Desulfovibrio bizertensis DSM 18034 strain DSM 18034	NORMAL	3
+1122208.3	Marinoscillum furvescens DSM 4134	SINGLE_SSU	3
+1122212.3	Marinospirillum minutulum DSM 6287	SHORT_SSU	3
+1123501.3	Wenxinia marina DSM 24838	NCBI_REP	3
+1123507.4	Yaniella halotolerans DSM 15476	NCBI_REP	3
+1127984.3	Candidatus Scalindua arabica strain SuakinDeep_MAG55_1	SINGLE_SSU	3
+1142394.49	Phycisphaera mikurensis NBRC 102666 ME-08apr19-305	SINGLE_SSU	3
+1184607.3	Austwickia chelonae NBRC 105200	NCBI_REP	3
+1196417.3	Milkweed yellows phytoplasma str. MW1	NCBI_REP	3
+1198449.6	Aeropyrum camini SY1 = JCM 12091	NCBI_REP	3
+1208918.3	Candidatus Kinetoplastibacterium crithidii TCC036E	NCBI_REP	3
+1221537.3	Lactobacillus florum 2F	NCBI_REP	3
+1235797.3	Oscillibacter sp. 1-3	NCBI_REP	3
+1255043.3	Thioalkalivibrio nitratireducens DSM 14787	NCBI_REP	3
+1262133.3	candidate division OP9 bacterium OP9-cSCG	SINGLE_SSU	3
+1262794.3	Clostridium sp. CAG:306	NCBI_REP	3
+1262799.3	Clostridium sp. CAG:354	SHORT_SSU	3
+1266370.3	Nitrospina gracilis 3/211	NCBI_REP	3
+1276221.3	Spiroplasma diminutum CUAS-1	NCBI_REP	3
+1282876.3	alpha proteobacterium Mf 1.05b.01	NCBI_REP	3
+1284708.3	Clostridiales bacterium S7-1-4	NCBI_REP	3
+1286171.3	Eubacterium acidaminophilum DSM 3953	NCBI_REP	3
+1313265.4	Thermocrinis sp. GBS	NCBI_REP	3
+1325130.3	Helicobacter fennelliae MRY12-0050	NCBI_REP	3
+1325564.10	Nitrospira japonica FI88_42_154	SINGLE_SSU	3
+1326980.6	Sulfolobales archaeon AZ1	SINGLE_SSU	3
+1339234.3	Kocuria sp. ZOR0020	NCBI_REP	3
+1356299.4	Ferrovum sp. JA12	NCBI_REP	3
+1357399.3	Helicobacter canis NCTC 12740	NCBI_REP	3
+1380390.4	Solirubrobacterales bacterium URHD0059	NCBI_REP	3
+1382304.3	Alicyclobacillus macrosporangiidus CPP55	NCBI_REP	3
+1382306.3	Thermogemmatispora sp. PM5	NCBI_REP	3
+1392487.3	Eubacterium sp. AB3007	NCBI_REP	3
+1393122.3	Crenotalea thermophila strain DSM 14807	SINGLE_SSU	3
+1408159.3	Thermotoga caldifontis AZM44c09	NCBI_REP	3
+1408416.3	Acholeplasma hippikon ATCC 29725	NCBI_REP	3
+1408449.4	Mesoplasma syrphidae ATCC 51578	NCBI_REP	3
+1423719.4	Lactobacillus algidus DSM 15638	NCBI_REP	3
+1423727.3	Lactobacillus brantae DSM 23927	NCBI_REP	3
+1482730.5	Alkaliphilus hydrothermalis strain DSM 25890	NORMAL	3
+1490222.3	Actinoallomurus bryophytorum strain DSM 102200	NORMAL	3
+1506545.4	Candidatus Chloroploca asiatica strain B7-9	SINGLE_SSU	3
+1509237.3	Roseomonas arctica strain LMG 28251	NORMAL	3
+1510150.4	Permianibacter aggregans strain DSM 103792	NORMAL	3
+1513270.6	Marinagarivorans algicola strain JL1	NORMAL	3
+1524924.3	Pseudactinotalea suaedae strain KACC 17839	NORMAL	3
+1528099.142	Lawsonella clevelandensis strain X1036	NORMAL	3
+1536648.8	Dehalogenimonas sp. GP	NORMAL	3
+1561005.4	Acididesulfobacillus acetoxydans PacBioINE	NORMAL	3
+156457.3	Methanocalculus chunghsingensis strain K1F9705b	SINGLE_SSU	3
+1577780.3	Phaeocystidibacter marisrubri strain JCM 30614	NORMAL	3
+1577791.3	Candidatus Methanoplasma termitum MpT1	NCBI_REP	3
+1578971.3	Filomicrobium sp. Y	NCBI_REP	3
+163359.11	Acidiferrobacter thiooxydans strain ZJ	SINGLE_SSU	3
+1653831.10	Blattabacterium cuenoti strain POLYPHAGsp	NORMAL	3
+1653831.32	Blattabacterium cuenoti strain ECTOBIsp	NORMAL	3
+1708.4	Cellulomonas fimi strain SB	NORMAL	3
+1712378.5	Epulopiscium sp. SCG-C07WGA-EpuloA2 strain SCG-C07WGA-EpuloA2	NORMAL	3
+1763535.5	Hydrogenophaga sp. LPB0072	NORMAL	3
+1765683.10	Acidibacillus ferrooxidans strain ITV01	NORMAL	3
+182264.3	Sporotomaculum syntrophicum strain FB	NORMAL	3
+185243.3	Propionicimonas paludicola strain DSM 15597	NORMAL	3
+1868793.4	Jeotgalibaca porci strain CCUG 69148	NORMAL	3
+1883407.3	Tepidibacillus sp. HK-1	SINGLE_SSU	3
+1889883.3	Proteiniborus sp. DW1	SINGLE_SSU	3
+1897634.3	Tersicoccus sp. Bi-70 strain Bi-70	SINGLE_SSU	3
+1898104.647	Bacteroidetes bacterium strain Viby_18-Q3-R106-67_BATAC.407	NORMAL	3
+1898112.121	Rhodospirillaceae bacterium strain ECT2AJA-110-B	NORMAL	3
+1898207.3489	Clostridiales bacterium strain MGYG-HGUT-00220	NORMAL	3
+1899017.3	Candidatus Melainabacteria bacterium MEL.A1	NORMAL	3
+189966.3	Rhizomicrobium palustre strain DSM 19867	NORMAL	3
+190192.8	Methanopyrus kandleri AV19	NCBI_REP	3
+1902410.3	Phycicoccus sp. strain KJS.2	NORMAL	3
+191863.72	Chthoniobacter flavus TE-08apr19-170	SINGLE_SSU	3
+1925548.3	Candidatus Fonsibacter ubiquis strain LSUCC0530	SINGLE_SSU	3
+1926625.3	Vicingus serpentipes strain NCIMB 15042	NORMAL	3
+1930902.3	Mesoflavibacter sp. strain ih5	NORMAL	3
+1946230.3	Candidatus Ruthia sp. UBA3126	NORMAL	3
+1961794.3	Rubrivirga sp. SAORIC476	SINGLE_SSU	3
+197479.3	Terasakiispira papahanaumokuakeensis strain PH27A	SINGLE_SSU	3
+1986204.3	Anaerolineaceae bacterium CAMBI-1 strain CAMBI-1	SINGLE_SSU	3
+2026790.28	Saprospirales bacterium strain Aved_18-Q3-R54-62_MAXAC.386	NORMAL	3
+2034862.3	Pseudoramibacter sp. UW_TS_EUB2_1	NORMAL	3
+2052143.174	Anaerolineae bacterium strain OdNW_18-Q3-R42-56_BAT3C.33_sub	NORMAL	3
+2067990.4	Desulfobacca sp. strain Tomsk_58_1633	NORMAL	3
+208480.6	Actinomyces nasicola strain KPR-1	NORMAL	3
+2124.7	Mycoplasma salivarium ATCC 14277	NORMAL	3
+2174932.3	Nesterenkonia sp. M8	NORMAL	3
+2202734.152	Saprospiraceae bacterium strain Viby_18-Q3-R106-67_BATAC.284	NORMAL	3
+2268024.3	Hydromonas sp. F02	NORMAL	3
+2294035.3	Halomicronema excentricum str. Lakshadweep	NORMAL	3
+2309.8	Pyrodictium occultum strain PL-19	SINGLE_SSU	3
+2315802.3	Buchnera aphidicola (Aphis helianthi) strain Ahe	NORMAL	3
+244328.200	uncultured Clostridia bacterium min17_bin51	NORMAL	3
+2490858.3	Thermoactinomycetaceae bacterium SCSIO 07575	NORMAL	3
+2498845.5	Cerasibacillus sp. CC-CFT480	SINGLE_SSU	3
+2546344.3	Cumulibacter sp. G-1	NORMAL	3
+2562451.3	Vagococcus sp. CF-49	NORMAL	3
+2569539.3	Ferrimonas sp. IMCC35002	NORMAL	3
+2592383.3	Aliikangiella sp. M105	SINGLE_SSU	3
+2594003.3	Ferrovibrio sp. K5	SINGLE_SSU	3
+2607769.3	Symploca sp. SIO1C2	SINGLE_SSU	3
+2608985.3	Candidatus Desulfobacillus denitrificans strain 317325-3	NORMAL	3
+2608987.3	Rhizobiales bacterium Sp-1	NORMAL	3
+2656650.3	Auraticoccus sp. F435	NORMAL	3
+266117.10	Rubrobacter xylanophilus DSM 9941	NCBI_REP	3
+2663809.3	Nordella sp. OAE833	NORMAL	3
+2681470.3	Chlamydiifrater volucris strain 15-2067_O50	SINGLE_SSU	3
+2692869.3	Trichocoleus sp. FACHB-262	SINGLE_SSU	3
+269798.16	Cytophaga hutchinsonii ATCC 33406	NCBI_REP	3
+2708254.3	Lysinimonas yzui strain CGMCC 1.16548	SINGLE_SSU	3
+2715251.13	Candidatus Paceibacter sp. strain BE2012_5_45_13	SINGLE_SSU	3
+2715251.14	Candidatus Paceibacter sp. strain BE2012_33_23	SINGLE_SSU	3
+2715251.15	Candidatus Paceibacter sp. strain BE2012_4_43_20	SINGLE_SSU	3
+2715251.16	Candidatus Paceibacter sp. strain BE2012_2_38_13	SINGLE_SSU	3
+2719987.3	Spirochaetales bacterium BR208	NORMAL	3
+272558.8	Bacillus halodurans C-125	NCBI_REP	3
+273063.9	Sulfolobus tokodaii str. 7	NCBI_REP	3
+2732067.3	Nitrosomonadales bacterium 0125_3	NORMAL	3
+2747798.3	Elainella sp. C42_A2020_010	SINGLE_SSU	3
+2749268.3	Paenibacillus sp. DA-C8	NORMAL	3
+2789326.3	Oscillospiraceae bacterium CM	NORMAL	3
+2802963.11	Candidatus Aquidulcis sp. FI88_3_69_8	SINGLE_SSU	3
+2802963.3	Candidatus Aquidulcis sp. strain FI88_2_58_12	SINGLE_SSU	3
+2806609.3	Candidatus Gromoviella agglomerans strain Sp8-1	SINGLE_SSU	3
+2878852.3	Mesoplasma sp. JKS002658	NORMAL	3
+2898660.6	Portibacter sp. 10MBP4-2-1	SINGLE_SSU	3
+290397.18	Anaeromyxobacter dehalogenans 2CP-C	NCBI_REP	3
+29556.3	Mycoplasma gallinaceum strain B2096 8B	NCBI_REP	3
+297.17	Hydrogenophilus thermoluteolus strain TH-1	NORMAL	3
+311182.4	Denitratisoma oestradiolicum strain DSM 16959	NORMAL	3
+316274.7	Herpetosiphon aurantiacus DSM 785	NCBI_REP	3
+32062.7	Deinococcus radiophilus strain ATCC 27603	NORMAL	3
+328517.3	Dokdonella fugitiva strain A3	NORMAL	3
+333146.12	Ferroplasma acidarmanus fer1	NCBI_REP	3
+350688.5	Alkaliphilus oremlandii OhILAs	NCBI_REP	3
+35623.3	Acholeplasma oculi	NCBI_REP	3
+357808.5	Roseiflexus sp. RS-1	NCBI_REP	3
+360411.10	Bellilinea caldifistulae strain GOMI-1	SINGLE_SSU	3
+36874.9	Porphyromonas cangingivalis COT-109_OH1379	NCBI_REP	3
+392734.10	Terriglobus roseus strain AB35.6	NORMAL	3
+395961.9	Cyanothece sp. PCC 7425	NCBI_REP	3
+399736.9	Agrococcus jejuensis strain DE0131	NORMAL	3
+402147.3	Persicitalea jodogahamensis strain KCTC 12866	SINGLE_SSU	3
+439235.4	Desulfatibacillum alkenivorans AK-01	NCBI_REP	3
+467094.3	Ilumatobacter coccineum YM16-304	NCBI_REP	3
+479430.3	Actinospica robiniae DSM 44927	NCBI_REP	3
+502051.3	Bowmanella pacifica strain CGMCC 1.7086	SINGLE_SSU	3
+508461.6	Neiella marina strain CGMCC 1.10130	SINGLE_SSU	3
+521674.6	Planctomyces limnophilus DSM 3776	NCBI_REP	3
+522485.3	Campylobacter avium strain 87/06	NORMAL	3
+53443.32	Blautia hydrogenotrophica strain MGYG-HGUT-00035	NORMAL	3
+551789.3	Ponticaulis koreensis DSM 19734	NCBI_REP	3
+56780.15	Syntrophus aciditrophicus SB	NCBI_REP	3
+569860.5	Methylovirgula ligni strain BW863	SINGLE_SSU	3
+570281.3	Pseudoteredinibacter isoporae strain LMG 25246	SINGLE_SSU	3
+572547.3	Aminobacterium colombiense DSM 12261	NCBI_REP	3
+591198.3	Euzebya tangerina strain F10	NORMAL	3
+59196.3	Rickettsiella grylli	NCBI_REP	3
+593750.7	Methanoregula formicica SMSP	NCBI_REP	3
+598650.3	Motilibacter peucedani strain RP-AC37	NORMAL	3
+608534.3	Oribacterium sp. oral taxon 078 str. F0262	NCBI_REP	3
+620903.10	Negativicoccus succinicivorans strain DSM 21255	NORMAL	3
+631362.4	Thiorhodovibrio sp. 970	NCBI_REP	3
+640031.3	Streptococcus zalophi CSL10143-OR1	NORMAL	3
+645887.5	Alkalibaculum bacchi strain DSM 221123	SINGLE_SSU	3
+65093.3	Halothece sp. PCC 7418	NCBI_REP	3
+651182.5	Desulfobacula toluolica Tol2	NCBI_REP	3
+65505.3	Virgisporangium ochraceum strain NBRC 16418	SINGLE_SSU	3
+670487.3	Oceanithermus profundus DSM 14977	NCBI_REP	3
+679897.3	Helicobacter mustelae 12198	NCBI_REP	3
+680118.3	Methanothermobacter tenebrarum strain MCM B 1447	NORMAL	3
+696281.4	Desulfotomaculum ruminis DSM 2154	NCBI_REP	3
+698769.3	Virgibacillus alimentarius strain J18T	NCBI_REP	3
+699246.3	Clostridiales genomosp. BVAB3 str. UPII9-5	NCBI_REP	3
+716544.4	Waddlia chondrophila WSU 86-1044	NCBI_REP	3
+743698.3	Spiroplasma eriocheiris CCTCC M 207170 strain DSM 21848	NCBI_REP	3
+765420.9	Oscillochloris trichoides DG-6	SINGLE_SSU	3
+795359.3	Thermodesulfobacterium geofontis OPF15	NCBI_REP	3
+796943.3	Oribacterium sp. ACB1	NCBI_REP	3
+84030.30	Lacrimispora saccharolytica An861	NORMAL	3
+857293.11	Caloramator australicus RC3	NCBI_REP	3
+880526.4	Rikenella microfusus DSM 15922	NCBI_REP	3
+883109.3	Eubacterium infirmum F0142	NCBI_REP	3
+883113.3	Facklamia languida CCUG 37842	NCBI_REP	3
+887898.3	Lautropia mirabilis ATCC 51599	NCBI_REP	3
+91750.1139	uncultured Alphaproteobacteria bacterium min17_bin69	NORMAL	3
+927661.3	Cryptosporangium arvum DSM 44712	NCBI_REP	3
+927677.3	Synechocystis sp. PCC 7509	SHORT_SSU	3
+930806.9	Halioglobus pacificus strain KCTC 23430	NORMAL	3
+933949.25	Brockia lithotrophica strain AL31	NORMAL	3
+935942.4	Desulfonatronum lacustre DSM 10312	NCBI_REP	3
+947013.3	Chryseolinea serpens strain DSM 24574	NORMAL	3
+979746.3	Gulosibacter chungangensis strain KCTC 13959	NORMAL	3
+1005057.4	Buchnera aphidicola str. Ua (Uroleucon ambrosiae)	NCBI_REP	2
+1005740.3	Aminivibrio pyruvatiphilus strain DSM 25964	SINGLE_SSU	2
+1007096.3	Oscillibacter ruminantium GH1	NCBI_REP	2
+1008308.3	Fusibacter tunisiensis strain DSM 24436	NORMAL	2
+1046581.3	Chlamydiaceae bacterium 10-1398/6	NCBI_REP	2
+1048740.6	Candidatus Protistobacter heckmanni POH1	NORMAL	2
+1051632.5	Sulfobacillus acidophilus TPY	NCBI_REP	2
+1054138.3	uncultured Hellea sp. strain 0.2_20180319_Bin_203_sub_1	SINGLE_SSU	2
+1078050.4	Seleniivibrio woodruffii strain S4	NORMAL	2
+1089547.3	Rudanella lutea DSM 19387	NCBI_REP	2
+1089552.3	Rhodovibrio salinarum DSM 9154	NCBI_REP	2
+1089553.3	Thermacetogenium phaeum DSM 12270	NCBI_REP	2
+1090615.3	Nakamurella panacisegetis strain P4-7,KCTC 19426,CECT 7604	NORMAL	2
+1104780.5	Sphingosinicella sp. YJ22	NORMAL	2
+1110502.3	Tistrella mobilis KA081020-065	NCBI_REP	2
+1111134.3	Clostridiales bacterium BV3C26	NCBI_REP	2
+1111738.3	Thermocrispum agreste DSM 44070	NCBI_REP	2
+1118964.8	Mycoplasma hyorhinis SK76	NCBI_REP	2
+1121372.3	Curtobacterium ginsengisoli DSM 22003	NCBI_REP	2
+1121387.3	Dermatophilus congolensis DSM 44180 = NBRC 105199	SHORT_SSU	2
+1121439.3	Desulfovibrio alkalitolerans DSM 16529	NCBI_REP	2
+1121448.7	Desulfovibrio gigas DSM 1382 = ATCC 19364	NCBI_REP	2
+1121456.3	Desulfovibrio longus DSM 6739	SHORT_SSU	2
+1121876.3	Fangia hongkongensis DSM 21703	NCBI_REP	2
+1121877.3	Ferrimicrobium acidiphilum DSM 19497	NCBI_REP	2
+1121911.3	Garciella nitratireducens DSM 15102 strain DSM 15102	SINGLE_SSU	2
+1122179.3	Lewinella persica DSM 23188	NCBI_REP	2
+1122189.3	Malonomonas rubra DSM 5091	SINGLE_SSU	2
+1122233.4	Methermicoccus shengliensis DSM 18856	NCBI_REP	2
+1122249.3	Mycoplasma sturni DSM 22021	NCBI_REP	2
+1123023.3	Pseudonocardia acaciae DSM 45401	NCBI_REP	2
+1123229.3	Salinarimonas rosea DSM 21201	NCBI_REP	2
+1123244.5	Sciscionella marina DSM 45152	NCBI_REP	2
+1123253.3	Silanimonas lenta DSM 16282	NCBI_REP	2
+1123281.6	Sporanaerobacter acetigenes DSM 13106	SINGLE_SSU	2
+1123356.3	Terrimonas ferruginea DSM 30193	NCBI_REP	2
+1123400.3	Thiothrix flexilis DSM 14609	NCBI_REP	2
+1159327.4	Pontimonas salivibrio strain CL-TW6	SINGLE_SSU	2
+116085.255	Coprococcus catus NB2A-13-NA	NORMAL	2
+1161401.3	Maricaulis sp. JL2009	NCBI_REP	2
+1163730.6	Fervidicoccus fontis Kam940	NCBI_REP	2
+1165094.3	Richelia intracellularis HH01	NCBI_REP	2
+1169913.4	Vulcaniibacterium thermophilum strain KCTC 32020	SINGLE_SSU	2
+1175296.12	Methanomassiliicoccus luminyensis B10	NCBI_REP	2
+118168.3	Coleofasciculus chthonoplastes PCC 7420	NCBI_REP	2
+1200346.3	Alicyclobacillus hesperidum URH17-3-68	NCBI_REP	2
+1201288.3	Bacteriovorax sp. Seq25_V	NCBI_REP	2
+120956.4	Facklamia miroungae strain CCUG 42728	NORMAL	2
+1214604.4	Tumebacillus algifaecis strain THMBR28	NORMAL	2
+1220580.4	Granulicoccus phenolivorans NBRC 107789	SINGLE_SSU	2
+1228987.3	cyanobacterium endosymbiont of Epithemia turgida isolate EtSB Lake Yunoko ETSB Lake Yunoko	NCBI_REP	2
+123320.3	Okibacterium fritillariae strain VKM Ac-2059	SINGLE_SSU	2
+1235796.3	Firmicutes bacterium M10-2	NCBI_REP	2
+1235990.3	Halyomorpha halys symbiont	NORMAL	2
+1238182.3	Caenispirillum salinarum AK4	NCBI_REP	2
+1247963.7	Parvularcula oceani strain JLT2013	NORMAL	2
+1255658.4	Luteococcus japonicus LSP_Lj1 strain LSP_Lj1	NORMAL	2
+1256050.5	uncultured Porticoccus sp. strain 0.2_20180412_Bin_139_sub_1	NORMAL	2
+1261131.3	Candidatus Liberibacter americanus str. Sao Paulo	SHORT_SSU	2
+1276227.3	Spiroplasma chrysopicola DF-1	NCBI_REP	2
+1276246.3	Spiroplasma culicicola AES-1	NCBI_REP	2
+1276257.3	Spiroplasma sabaudiense Ar-1343	NCBI_REP	2
+1278306.3	Fusobacterium russii ATCC 25533	SHORT_SSU	2
+1278311.3	Acholeplasma axanthum ATCC 25176	NCBI_REP	2
+1280376.3	Spelaeicoccus albus strain DSM 26341	NORMAL	2
+1291052.5	Lactobacillus sharpeae JCM 1186 = DSM 20505	NCBI_REP	2
+1293041.6	Methanogenium cariaci JCM 10550	SINGLE_SSU	2
+1293586.5	Vulcanisaeta souniana JCM 11219	NORMAL	2
+1294262.3	Sulfolobus sp. JCM 16833	NCBI_REP	2
+129961.4	Spirulina major PCC 6313	NORMAL	2
+1304158.3	Salinisphaera halophila strain KSM-18	SINGLE_SSU	2
+1318466.3	Acholeplasma palmae J233	NCBI_REP	2
+1321778.3	Clostridiales bacterium oral taxon 876 str. F0540	NCBI_REP	2
+1329796.4	Risungbinella massiliensis strain GD1	NORMAL	2
+1330330.3	Kosmotoga pacifica strain SLHLJ1	NCBI_REP	2
+1341696.3	Rehaibacterium terrae strain DSM 25897	SINGLE_SSU	2
+1351585.4	Veillonellaceae bacterium ALE strain LUCI	SINGLE_SSU	2
+1357400.3	Helicobacter macacae MIT 99-5501	NCBI_REP	2
+1380391.4	Dongia sp. URHE0060	NCBI_REP	2
+1382303.3	Caulobacteraceae bacterium PMMR1	NCBI_REP	2
+1385975.3	Algisphaera agarilytica strain DSM 103725	SINGLE_SSU	2
+1387197.9	Candidatus Schmidhempelia bombi str. Bimp	NORMAL	2
+139.379	Borreliella burgdorferi strain S50_Assembly	SINGLE_SSU	2
+1390249.3	Firmicutes bacterium MLFW-2	SINGLE_SSU	2
+1397666.3	alpha proteobacterium RS24	NCBI_REP	2
+1401328.3	Candidatus Endolissoclinum faulkneri L5	NCBI_REP	2
+1408417.3	Acholeplasma modicum ATCC 29102	SHORT_SSU	2
+1408433.3	Crocinitomix catalasitica ATCC 23190	NCBI_REP	2
+1408455.3	Mycoplasma cloacale ATCC 35276	NCBI_REP	2
+1410576.3	uncultured Acidilobus sp. JCHS	NORMAL	2
+1410621.3	Lachnospiraceae bacterium AD3010	NCBI_REP	2
+1415779.3	Polycyclovorans algicola TG408	NCBI_REP	2
+1423783.4	Lactobacillus pantheris DSM 15945 = JCM 12539 = NBRC 106106	NORMAL	2
+1448132.3	Mycoplasma molare ATCC 27746	NCBI_REP	2
+1455061.4	Candidatus Magnetobacterium sp. MYR-1	NCBI_REP	2
+1461337.4	Aestuariispira insulae strain CECT 8488	NORMAL	2
+1463158.4	Thermomonas carbonis strain KCTC 42013	NORMAL	2
+1465490.12	Parafilimonas terrae strain DSM 28286	SINGLE_SSU	2
+1476194.3	Helicobacter sp. 11S02596-1	NORMAL	2
+1476195.3	Helicobacter sp. 11S02629-2	NORMAL	2
+1482074.3	Hartmannibacter diazotrophicus strain type strain: E19 strain E19T	NORMAL	2
+1492281.3	alpha proteobacterium Q-1	NCBI_REP	2
+1496996.3	Stackebrandtia endophytica strain DSM 45928	NORMAL	2
+1500547.3	uncultured Succiniclasticum sp. strain UMGS121	SINGLE_SSU	2
+1507522.3	Buchnera aphidicola (Macrosiphum euphorbiae) strain Meu	NORMAL	2
+1522315.4	Numidum massiliense strain mt3	NORMAL	2
+1531429.3	Coriobacteriaceae bacterium 68-1-3	NCBI_REP	2
+153494.3	Rarobacter incanus strain DSM 10596	NORMAL	2
+1537504.3	Porphyromonas sp. COT-108_OH1349	NCBI_REP	2
+1585974.3	Clostridiaceae bacterium GM1	NCBI_REP	2
+1591088.3	Helicobacter himalayensis strain YS1	NORMAL	2
+1592106.3	Terriglobus albidus strain ORNL	NORMAL	2
+1594731.4	Candidatus Westeberhardia cardiocondylae strain obscurior	SINGLE_SSU	2
+160660.9	Acidihalobacter prosperus strain V6	SINGLE_SSU	2
+1631346.7	Rubeoparvulum massiliense strain mt6	SINGLE_SSU	2
+1632858.6	Massilibacterium senegalense strain MGYG-HGUT-01511	NORMAL	2
+1641165.4	Halomicronema hongdechloris C2206 strain C2206	NORMAL	2
+1653476.10	Caldimicrobium thiodismutans strain TF1	SINGLE_SSU	2
+1653831.20	Blattabacterium cuenoti strain MEGALOsp	NORMAL	2
+1670455.8	Sulfodiicoccus acidiphilus strain HS-1	SINGLE_SSU	2
+1670830.3	Egicoccus halophilus strain EGI 80432	NORMAL	2
+1673428.3	Cuniculiplasma divulgatum strain PM4 (=JCM 30641; =VKM B-2940)	SINGLE_SSU	2
+1679444.20	Akkermansia glycaniphila strain GP37	NORMAL	2
+1689269.5	Gorillibacterium timonense strain SN4	SINGLE_SSU	2
+171285.3	Mycoplasma glycophilum strain NCTC10194	NORMAL	2
+1720083.4	Lactobacillus sp. HSLZ-75	NORMAL	2
+174633.173	Candidatus Kuenenia stuttgartiensis MH-21oct19-232	SINGLE_SSU	2
+1765684.3	Acidibacillus sulfuroxidans strain Y002	NORMAL	2
+1765737.5	Dissulfurirhabdus thermomarina strain SH388	SINGLE_SSU	2
+1766719.4	Caviibacter abscessus strain CCUG 39713	SINGLE_SSU	2
+1796636.8	Frisingicoccus caecimuris strain DSM 28559	SINGLE_SSU	2
+1806508.3	Candidatus Promineofilum breve	SINGLE_SSU	2
+1810504.3	Gammaproteobacteria bacterium TR3.2	SINGLE_SSU	2
+1812261.3	Jeotgalicoccus schoeneichii strain CCM 8667	NORMAL	2
+1834514.7	Frankia sp. BMG5.30 strain BMG5.30	NORMAL	2
+1869227.23	bacterium strain SAT1607	NORMAL	2
+1871336.8	Criibacterium bergeronii strain CCRI-24246	NORMAL	2
+1872664.5	Austwickia sp. strain Hirt_18-Q3-R61-65_BAT3C.202	NORMAL	2
+187272.10	Alkalilimnicola ehrlichii MLHE-1	NCBI_REP	2
+1885917.4	Chengkuizengella sediminis strain J15A17	SINGLE_SSU	2
+1891241.428	Betaproteobacteria bacterium strain Ega_18-Q3-R5-49_MAXAC.200	NORMAL	2
+1892854.3	Shimazuella sp. AN120528	SINGLE_SSU	2
+1898207.3493	Clostridiales bacterium strain MGYG-HGUT-01506	NORMAL	2
+1898207.3497	Clostridiales bacterium strain MGYG-HGUT-02424	NORMAL	2
+1898207.4801	Clostridiales bacterium nC33_bin.182.fa	NORMAL	2
+1909293.21	Acetobacteraceae bacterium strain 880	NORMAL	2
+1914471.3	Sulfuritortus calidifontis strain J1A	NORMAL	2
+191863.3	Chthoniobacter flavus strain DSM 22515	SINGLE_SSU	2
+1936021.6	Thermosulfuriphilus ammonigenes strain ST65	SINGLE_SSU	2
+1938817.3	Polynucleobacter sp. VK13 strain VK13	NORMAL	2
+1940790.5	Phycisphaerae bacterium L21-RPul-D3 strain L21-RPul-D3	NORMAL	2
+1944646.6	Phoenicibacter congonensis strain MGYG-HGUT-02419	NORMAL	2
+1946319.3	Chloracidobacterium sp. UBA4728	SINGLE_SSU	2
+1962180.3	Kineosporia sp. A 224 strain A 224	SINGLE_SSU	2
+1969565.3	Eubacterium sp. LMAG:57	NORMAL	2
+1970790.3	Lactobacillus timonensis strain Marseille-P3825	NORMAL	2
+1986146.3	Desulfobulbus sp. ORNL	NORMAL	2
+2002841.3	Lachnospiraceae bacterium Marseille-P3773	NORMAL	2
+2003188.3	Parolsenella catena strain JCM 31932	NORMAL	2
+2011012.3	Bacillus sp. FJAT-45348	NORMAL	2
+2014296.3	bacterium (Candidatus Stahlbacteria) CG23_combo_of_CG06-09_8_20_14_all_40_9	SINGLE_SSU	2
+2016596.3	Azoarcus sp. M9-3-2	NORMAL	2
+2021370.3	Sphingobacteriaceae bacterium strain SH-48	NORMAL	2
+2022747.3	Elstera sp. TH019	SINGLE_SSU	2
+2026721.30	Candidatus Thioglobus sp. strain TC_Bin1	SINGLE_SSU	2
+2026724.1155	Chloroflexi bacterium strain Kalu_18-Q3-R12-55_BAT3C.186	NORMAL	2
+2026728.69	Crocinitomicaceae bacterium strain Damh_18-Q3-R51-60_BAT3C.266	NORMAL	2
+2026786.103	Rhodospirillales bacterium strain Fred_18-Q3-R57-64_MAXAC.307	NORMAL	2
+2026800.39	Verrucomicrobiaceae bacterium strain Fred_18-Q3-R57-64_BATAC.459	NORMAL	2
+2030927.2519	Bacteroidales bacterium UW_DM_BACTE1_1	NORMAL	2
+2030927.896	Bacteroidales bacterium strain EsbW_18-Q3-R4-48_BAT3C.307	NORMAL	2
+2041842.3	Neobitarella massiliensis strain Marseille-P4047	SINGLE_SSU	2
+2044939.3696	Clostridia bacterium min17_bin59	NORMAL	2
+204536.4	Sulfurihydrogenibium azorense Az-Fu1	NCBI_REP	2
+2047767.8	Thermosulfurimonas marina strain SU872	SINGLE_SSU	2
+2053538.21	Candidatus Competibacteraceae bacterium strain Lyne_18-Q3-R50-59_BATAC.383_cln	NORMAL	2
+2058097.3	Candidatus Nitrosocaldus cavascurensis strain SCU2	SINGLE_SSU	2
+2060878.90	Solobacterium sp. UW_MP_BUL1_1	NORMAL	2
+206665.4	Desulfonauticus submarinus strain DSM 15269	NORMAL	2
+2079009.3	Candidatus Tokpelaia sp. JSC188	NORMAL	2
+2082189.3	Methanococcales archaeon HHB	NORMAL	2
+2083498.3	Ketobacter sp. strain BinD	SINGLE_SSU	2
+2099675.43	Cyclobacteriaceae bacterium strain ACE_BAC5	NORMAL	2
+2100090.3	Caulobacter sp. CCUG 60055	NORMAL	2
+2109645.3	Lactobacillus sp. Sy-1	NORMAL	2
+213224.12	Geothermobacter ehrlichii strain SS015	NORMAL	2
+2133960.4	Conexibacter sp. Seoho-28	NORMAL	2
+2162504.3	Prochlorococcus sp. AG-418-C09	NORMAL	2
+2163959.4	Candidatus Carbobacillus altaicus strain Bu53	SINGLE_SSU	2
+218139.3	Aeriscardovia aeriphila strain LMG 21773	NORMAL	2
+2202731.8	Kiritimatiellales bacterium strain F21	NORMAL	2
+2202734.119	Saprospiraceae bacterium strain OdNE_18-Q3-R46-58_BAT3C.195	NORMAL	2
+2202734.149	Saprospiraceae bacterium strain Lyne_18-Q3-R50-59_BATAC.473	NORMAL	2
+2202734.161	Saprospiraceae bacterium strain Ribe_18-Q3-R11-54_MAXAC.273	NORMAL	2
+2202734.98	Saprospiraceae bacterium strain Hade_18-Q3-R52-61_BAT3C.141	NORMAL	2
+2211450.3	Homoserinimonas sp. OAct 916	NORMAL	2
+224324.8	Aquifex aeolicus VF5	NCBI_REF	2
+2268189.4	Candidatus Scalindua sp. strain MohnsGC08_192	SINGLE_SSU	2
+2268202.7	Synergistetes bacterium strain J.5.4.2-T.3.5.2	NORMAL	2
+2301481.132	uncultured Muribaculaceae bacterium min17_bin67	NORMAL	2
+2303539.3	Lysobacter sp. WF-2 strain not collected	NORMAL	2
+2305987.3	Lentilitoribacter sp. Alg239-R112	SINGLE_SSU	2
+2306585.3	Amnibacterium sp. DD4a	SINGLE_SSU	2
+2316076.3	Helicobacter sp. L2	NORMAL	2
+2382161.3	Halocella sp. SP3-1	NORMAL	2
+244735.3	Klugiella xanthotipulae strain DSM 18031	NORMAL	2
+2478913.3	Marmoricola sp. 4Q3S-7	NORMAL	2
+2497860.3	Cellulosilyticum sp. WCF-2	NORMAL	2
+2498847.4	Quisquiliibacterium sp. CC-CFT501	SINGLE_SSU	2
+2507161.3	Sporanaerobacter sp. NJN-17	NORMAL	2
+2527989.3	Planctomycetes bacterium CA12	NORMAL	2
+254246.4	Aquicella lusitana strain SGT-39	NORMAL	2
+2545761.3	Flaviaesturariibacter sp. 17J68-15	NORMAL	2
+2562283.3	Sinimarinibacterium sp. CAU 1509	NORMAL	2
+2562704.15	Elusimicrobium sp. B40_60.fa	NORMAL	2
+2584524.3	Teredinibacter sp. ISS155	NORMAL	2
+2594267.3	Microlunatus speluncae strain SYSU K12189	NORMAL	2
+2602016.3	Rhodospirillaceae bacterium R5959	NORMAL	2
+2608089.5	Ekhidna sp. strain SP5BCY1	SINGLE_SSU	2
+2613922.3	Alkalilimnicola sp. S0819	NORMAL	2
+262719.5	Mycoplasma hyopneumoniae J	NCBI_REP	2
+263820.9	Picrophilus torridus DSM 9790	NCBI_REP	2
+2653855.3	Aquisphaera sp. JC650	SINGLE_SSU	2
+2662261.3	Raineyella sp. CBA3103	NORMAL	2
+2666341.3	Candidatus Methanofastidiosum sp. strain Ch133	SINGLE_SSU	2
+2675775.3	Enterobacteriaceae endosymbiont of Donacia clavipes strain DclaSym	SHORT_SSU	2
+2675778.3	Enterobacteriaceae endosymbiont of Donacia fulgens strain DfulgSym	NORMAL	2
+2675790.3	Enterobacteriaceae endosymbiont of Macroplea appendiculata strain MappSym	NORMAL	2
+2675798.4	Chlamydia sp. 17-3921 strain 17-3921_L98	NORMAL	2
+2683284.3	Rhodobacteraceae bacterium 9Alg 56	NORMAL	2
+2692125.3	Winkia sp. C64	NORMAL	2
+2698684.3	Sinimarinibacterium sp. NLF-5-8	NORMAL	2
+2699756.5	Syntrophorhabdus sp. strain Go_SlDig_bin_65	NORMAL	2
+2709429.4	Buchnera aphidicola (Periphyllus lyropictus) Pl-LLN	NORMAL	2
+2714936.3	Lysobacter sp. HDW10	NORMAL	2
+2721147.3	Candidatus Protoclostridium gallicola strain Chicken_24_mag_120	SINGLE_SSU	2
+273075.10	Thermoplasma acidophilum DSM 1728	NCBI_REP	2
+273121.8	Wolinella succinogenes DSM 1740	NCBI_REP	2
+2731925.3	Thermanaeromonas sp. C210	NORMAL	2
+2740164.3	Ectothiorhodospiraceae bacterium 2226	NORMAL	2
+2742683.4	Natranaerofaba carboxydovora ANCO1	NORMAL	2
+2744556.10	Candidatus Jidaibacter sp. CoA8_M11	SINGLE_SSU	2
+2751884.3	Endozoicomonas sp. SM1973	NORMAL	2
+2753746.3	Limibaculum sp. M0105	SINGLE_SSU	2
+2761580.3	Cryomorphaceae bacterium A20-9	NORMAL	2
+2762760.3	Pelagibius sp. NBU2595	SINGLE_SSU	2
+2771432.3	Hazenella sp. IB182353	SINGLE_SSU	2
+2782167.3	Microbacterium sp. A18JL200	NORMAL	2
+2794934.3	sulfur-oxidizing endosymbiont of Gigantopelta aegis strain Gae_SOB	NORMAL	2
+279832.4	Suttonella ornithocola strain NCTC13337	NORMAL	2
+2801339.3	Tumebacillus sp. ITR2	NORMAL	2
+2810512.3	Fulvivirga sp. S481	NORMAL	2
+2812648.3	Methylococcus sp. EFPC2	NORMAL	2
+2831996.30	Eubacteriales bacterium CE91-St46	NORMAL	2
+2839977.7	Candidatus Thiodiazotropha sp. (ex Lucina pensylvanica) strain LUC16009Ag_GrahamsHarborLucina	SINGLE_SSU	2
+2840751.4	Candidatus Coproplasma stercoripullorum BRZ_ML__bin100	SINGLE_SSU	2
+2840845.4	Candidatus Limadaptatus stercorigallinarum BRZ_NN__bin34	SINGLE_SSU	2
+2840882.4	Candidatus Onthoplasma faecipullorum BRZ_HV__bin6	SINGLE_SSU	2
+2841509.3	Butyricicoccus sp. MSJd-7	NORMAL	2
+2866311.3	Ruficoccus sp. ZRK36	SINGLE_SSU	2
+2866627.3	Hydrogenibacillus sp. N12	NORMAL	2
+2867963.5	Tunicatimonas sp. TK19036	SINGLE_SSU	2
+2901836.3	Alicyclobacillaceae bacterium MYW30-H2	NORMAL	2
+2903142.6	Rhabdothermincola sp. EGI L10124	SINGLE_SSU	2
+2907205.6	Larkinella sp. IE-0392	NORMAL	2
+2907994.3	Candidatus Thiovulum sp. 'imperiosus' 1320229_bin10	NORMAL	2
+2908648.6	Suttonella sp. R2A3	NORMAL	2
+2912236.3	Candidatus Magnetoovum sp. WYHC-5	SINGLE_SSU	2
+2918751.4	Aestuariirhabdus sp. Z083	SINGLE_SSU	2
+292459.5	Symbiobacterium thermophilum IAM 14863	NCBI_REP	2
+2932816.3	Anaerobiospirillum sp. NML120448	NORMAL	2
+2941510.3	Pumilibacter sp. CLA_AA_M08 Eubacteriales_fam_nov_CLA_AA_M08	SINGLE_SSU	2
+29553.8	Mycoplasma bovirhinis strain NCTC10118	NORMAL	2
+297314.1191	uncultured Lachnospiraceae bacterium min17_bin08	NORMAL	2
+304371.9	Methanocella paludicola SANAE	NCBI_REP	2
+314283.5	Reinekea blandensis MED297	NCBI_REP	2
+314285.4	Congregibacter litoralis KT71	NCBI_REP	2
+331618.3	Mycetocola reblochoni strain JCM 30549	NORMAL	2
+335543.9	Syntrophobacter fumaroxidans MPOB	NCBI_REP	2
+349307.15	Methanosaeta thermophila PT	NCBI_REP	2
+351607.8	Acidothermus cellulolyticus 11B	NCBI_REP	2
+374847.13	Candidatus Korarchaeum cryptofilum OPF8	NCBI_REP	2
+381431.3	Panacagrimonas perspica strain DSM 26377	SINGLE_SSU	2
+387631.5	Archaeoglobus sulfaticallidus PM70-1	NCBI_REP	2
+393921.5	Porphyromonas crevioricanis COT-253_OH2125	NCBI_REP	2
+39480.4	Andreesenia angusta strain DSM 1989	SINGLE_SSU	2
+399550.11	Staphylothermus marinus F1	NCBI_REP	2
+41675.7	Stygiolobus azoricus strain FC6	SINGLE_SSU	2
+419665.15	Methanococcus aeolicus Nankai-3	NCBI_REP	2
+42094.4	Ureaplasma diversum strain ATCC 49782	NCBI_REP	2
+42353.137	Nitrosomonas sp. JAMMSM_AOB_5	NORMAL	2
+424488.4	Cerasicoccus arenae strain KCTC 12870	SINGLE_SSU	2
+429009.3	Ammonifex degensii KC4	NCBI_REP	2
+449520.3	Campylobacter canadensis strain LMG 24001	NORMAL	2
+454146.3	Roseibacillus ishigakijimensis strain KCTC 12986	SINGLE_SSU	2
+454194.3	Pyrinomonas methylaliphatogenes K22	NCBI_REP	2
+455436.3	Glaciecola sp. HTCC2999	SHORT_SSU	2
+456827.3	Candidatus Cloacamonas acidaminovorans	NCBI_REP	2
+469383.5	Conexibacter woesei DSM 14684	NCBI_REP	2
+471821.5	uncultured Termite group 1 bacterium phylotype Rs-D17	NCBI_REP	2
+477974.6	Candidatus Desulforudis audaxviator MP104C	NCBI_REP	2
+488538.3	Candidatus Puniceispirillum marinum IMCC1322	NCBI_REP	2
+491923.4	Parvularcula lutaonensis strain KCTC 22245	NORMAL	2
+511051.3	Caldisericum exile AZM16c01	NCBI_REP	2
+51642.3	Nitrosococcus mobilis strain 1	NORMAL	2
+521045.3	Kosmotoga olearia TBF 19.5.1	NCBI_REP	2
+523701.3	Pleionea mediterranea strain DSM 25350	SINGLE_SSU	2
+525903.6	Thermanaerovibrio acidaminovorans DSM 6589	NCBI_REF	2
+526218.6	Sebaldella termitidis ATCC 33386	NCBI_REP	2
+52770.5	Actinomyces hordeovulneris strain OH1877	SINGLE_SSU	2
+54006.4	Peptoniphilus ivorii strain NCTC13079	NORMAL	2
+547188.13	Phycisphaera mikurensis strain DSM 103959	SINGLE_SSU	2
+554632.27	uncultured Ferrovum sp. strain AM-2014-D7_bin-474	NORMAL	2
+570952.8	Fodinicurvata sediminis DSM 21159	NORMAL	2
+571913.7	Luteipulveratus mongoliensis strain MN07-A0370	NORMAL	2
+595589.3	Hasllibacter halocynthiae strain DSM 29318	SINGLE_SSU	2
+59748.8	Candidatus Phytoplasma australiense	NCBI_REP	2
+631454.5	Phyllobacteriaceae bacterium AMV1	NCBI_REP	2
+635013.3	Thermincola potens JR	NCBI_REP	2
+639282.3	Deferribacter desulfuricans SSM1	NCBI_REP	2
+644383.5	Thermosporothrix hazakensis strain SK20-1	NORMAL	2
+659595.3	Chiayiivirga flava strain DSM 24163	NORMAL	2
+666510.18	Acidilobus saccharovorans 345-15	NCBI_REP	2
+673860.5	Aciduliprofundum sp. MAR08-339	NCBI_REP	2
+674079.3	Marisediminicola antarctica strain ZS314	NORMAL	2
+676208.3	Candidatus Rickettsiella viridis strain Ap-RA04	NORMAL	2
+679197.3	Segniliparus rugosus ATCC BAA-974	NCBI_REP	2
+679199.3	Alloprevotella rava F0323	NCBI_REP	2
+679926.6	Methanoplanus petrolearius DSM 11571	NCBI_REP	2
+680378.3	Natranaerovirga hydrolytica strain DSM 24176	SINGLE_SSU	2
+686624.3	Tessaracoccus oleiagri strain CGMCC 1.9159	NORMAL	2
+688867.3	Ohtaekwangia koreensis strain DSM 25262	NORMAL	2
+690850.3	Desulfovibrio africanus str. Walvis Bay	NCBI_REP	2
+69895.3	Tindallia magadiensis strain Z-7934	SINGLE_SSU	2
+699240.6	Clostridiales genomosp. BVAB1 strain Y2624	NORMAL	2
+71253.3	Arthrobacter rhombi strain B Ar 00.02	NORMAL	2
+714109.3	Phytomonospora endophytica strain YIM 65646	SINGLE_SSU	2
+717231.3	Flexistipes sinusarabici DSM 4947	NCBI_REP	2
+723921.4	Natroniella sulfidigena AHT3	SINGLE_SSU	2
+745014.4	gamma proteobacterium HIMB55	NCBI_REP	2
+74700.4	Entomoplasma freundtii strain ATCC 51999	NORMAL	2
+747365.3	Thermodesulfobium narugense DSM 14796	NCBI_REP	2
+748449.3	Halobacteroides halobius DSM 5150	NCBI_REP	2
+75385.5	Micropruina glycogenica strain 1	SINGLE_SSU	2
+754516.3	Mycoplasma sp. Mirounga ES2806-NAS	NORMAL	2
+760142.3	Hippea maritima DSM 10411	NCBI_REP	2
+763993.3	Pseudokineococcus lusitanus strain CECT 7306	SINGLE_SSU	2
+76633.3	Thermobacillus xylanilyticus strain XE	SINGLE_SSU	2
+796942.3	Stomatobaculum longum strain ACC2	NCBI_REP	2
+80850.9	Wolbachia endosymbiont of Litomosoides sigmodontis strain wLsig	NORMAL	2
+81460.5	Mesoplasma lactucae ATCC 49193 strain 831-C4	NORMAL	2
+84521.3	Dolosicoccus paucivorans strain DSM 15742	SINGLE_SSU	2
+856793.5	Micavibrio aeruginosavorus ARL-13	NCBI_REP	2
+86106.3	endosymbiont of Acanthamoeba sp. UWC8	NCBI_REP	2
+862422.3	Actinotalea fermentans ATCC 43279 = JCM 9966 = DSM 3133	NCBI_REP	2
+86660.3	Mycoplasma dispar strain ATCC 27140	NCBI_REP	2
+872965.10	Ardenticatena maritima strain 110S	SINGLE_SSU	2
+879212.3	Desulfobacter postgatei 2ac9	NCBI_REP	2
+879243.3	Porphyromonas asaccharolytica DSM 20707	NCBI_REP	2
+880073.4	Caldithrix abyssi DSM 13497	NCBI_REP	2
+883081.3	Alloiococcus otitis ATCC 51267	NCBI_REP	2
+883169.3	Turicella otitidis ATCC 51513	NCBI_REP	2
+886464.6	Plasticicumulans acidivorans strain DSM 23606	SINGLE_SSU	2
+888062.3	Dialister micraerophilus DSM 19965	NCBI_REP	2
+89093.3	Ignavigranum ruoffiae strain DSM 15695	NORMAL	2
+908337.3	Eremococcus coleocola ACS-139-V-Col8	NCBI_REP	2
+913107.6	Pelolinea submarina strain DSM 23923	SINGLE_SSU	2
+91464.3	Synechococcus sp. PCC 7335	NCBI_REP	2
+927658.4	Alkaliflexus imshenetskii DSM 15055	NCBI_REP	2
+933926.3	Sinobacterium caligoides strain DSM 100316	SINGLE_SSU	2
+937777.3	Deinococcus peraridilitoris DSM 19664	NCBI_REP	2
+938294.3	Anaerococcus sp. 9403502	SHORT_SSU	2
+944479.3	Hippea jasoniae strain Mar08-272r	SHORT_SSU	2
+945713.3	Ignavibacterium album JCM 16511	NCBI_REP	2
+960.5	Bacteriovorax stolpii strain AC01	NORMAL	2
+980251.5	Mariniblastus fucicola strain FC18	SINGLE_SSU	2
+984262.3	Saprospira grandis str. Lewin	NCBI_REP	2
+987056.3	Rhodoligotrophos appendicifer strain 120-1	SINGLE_SSU	2
+990316.16	Methanosaeta concilii GP6	NCBI_REP	2
+993689.15	Metallibacterium scheffleri strain DKE6	NORMAL	2
+997765.3	Mycoplasma ovipneumoniae SC01	NCBI_REP	2
+1002870.3	Gaiella occulta strain F2-233	SINGLE_SSU	1
+1003.8	Thermoflexibacter ruber strain GEY, DSM 9560	NORMAL	1
+1005090.4	Buchnera aphidicola str. Ak (Acyrthosiphon kondoi)	NCBI_REP	1
+1006006.8	Metallosphaera cuprina Ar-4	NCBI_REP	1
+1006576.10	Defluviitoga tunisiensis strain L3	NORMAL	1
+1008392.4	Chitinispirillum alkaliphilum strain ACht6-1	SINGLE_SSU	1
+1009370.3	Acetonema longum DSM 6540	NCBI_REP	1
+1010676.8	Candidatus Tremblaya phenacola strain PPER	SINGLE_SSU	1
+101383.4	Cryomorpha ignava strain QSSC 1-22	SINGLE_SSU	1
+1032480.4	Microlunatus phosphovorus NM-1	NCBI_REP	1
+1033810.11	Haloplasma contractile SSD-17B	SINGLE_SSU	1
+1048339.7	Sporichthya polymorpha DSM 43042	SINGLE_SSU	1
+1048830.3	Mycoplasma iowae 695	NCBI_REP	1
+1051139.6	Salinisphaera halophila YIM 95161	SINGLE_SSU	1
+1056495.6	Caldisphaera lagunensis DSM 15908	NCBI_REP	1
+1069.3	Rhodomicrobium vannielii strain R_RK_2	NORMAL	1
+1069080.9	Succinispira mobilis DSM 6222	NORMAL	1
+1069448.9	Nitriliruptor alkaliphilus DSM 45188	SINGLE_SSU	1
+1070130.4	Candidatus Gullanella endobia strain GEFVIR	SINGLE_SSU	1
+1075417.3	Catalinimonas alkaloidigena strain DSM 25186	SINGLE_SSU	1
+1082276.3	Hydrogenispora ethanolica strain LX-B	SINGLE_SSU	1
+1082479.3	Limimonas halophila strain DSM 25584	NORMAL	1
+1089455.3	Mobilicoccus pelagius NBRC 104925	NCBI_REP	1
+1089548.3	Thermicanus aegyptius DSM 12793	NCBI_REP	1
+1089550.3	Salisaeta longa DSM 21114	NCBI_REP	1
+1095777.3	Texcoconibacillus texcoconensis strain DSM 24696	SINGLE_SSU	1
+1096341.3	Fonticella tunisiensis strain DSM 24455	SINGLE_SSU	1
+1104576.4	Candidatus Iainarchaeum andersonii SCGC AAA011-E11	SINGLE_SSU	1
+1110509.7	Methanosaeta harundinacea 6Ac	NCBI_REP	1
+1120954.3	Aestuariimicrobium kwangyangense DSM 21549	NCBI_REP	1
+1120978.3	Allofustis seminis DSM 15817	NCBI_REP	1
+1120989.3	Anaerobranca californiensis DSM 14826	SINGLE_SSU	1
+1121019.4	Arthrobacter castelli DSM 16402	NCBI_REP	1
+1121020.3	Arthrobacter sanguinis DSM 21259	NCBI_REP	1
+1121025.4	Atopostipes suicloacalis DSM 15692	SINGLE_SSU	1
+1121103.3	Balneatrix alpica DSM 16621	SHORT_SSU	1
+1121105.4	Bavariicoccus seileri DSM 19936	SHORT_SSU	1
+1121118.3	Brackiella oedipodis DSM 13743	NCBI_REP	1
+1121266.3	Caminicella sporogenes DSM 14501	SINGLE_SSU	1
+1121307.3	Clostridium cylindrosporum DSM 605	SHORT_SSU	1
+1121331.3	Clostridium proteolyticum DSM 3090	NORMAL	1
+1121370.3	Corynebacterium ulceribovis DSM 45146	NCBI_REP	1
+1121388.4	Derxia gummosa DSM 723	SHORT_SSU	1
+1121423.4	Desulfotomaculum alkaliphilum DSM 12257	SHORT_SSU	1
+1121433.3	Desulfovermiculus halophilus DSM 18834	SHORT_SSU	1
+1121440.3	Desulfovibrio aminophilus DSM 12254	NCBI_REP	1
+1121453.3	Desulfovibrio inopinatus DSM 10711	SHORT_SSU	1
+1121476.3	Dethiosulfatibacter aminovorans DSM 17477	SHORT_SSU	1
+1121881.3	Ferrithrix thermotolerans DSM 19514 strain DSM 19514	SINGLE_SSU	1
+1121881.44	Ferrithrix thermotolerans DSM 19514 TH-08apr19-218	SINGLE_SSU	1
+1121902.6	Eisenibacter elegans DSM 3317	SINGLE_SSU	1
+1121903.5	Hugenholtzia roseola DSM 9546	SINGLE_SSU	1
+1121904.3	Flexithrix dorotheae DSM 6795	NCBI_REP	1
+1122176.3	Lewinella cohaerens DSM 23179	NCBI_REP	1
+1122184.3	Lutispora thermophila DSM 19022	SINGLE_SSU	1
+1122218.3	Meganema perideroedes DSM 15528	NCBI_REP	1
+112248.3	Seinonella peptonophila strain DSM 44666	SINGLE_SSU	1
+1122603.18	Nevskia ramosa DSM 11499	NORMAL	1
+1122930.3	Papillibacter cinnamivorans DSM 12816 strain DSM 12816	NORMAL	1
+1122999.3	Propionicicella superfundia DSM 22317	NCBI_REP	1
+1123029.11	Pseudoxanthobacter soli DSM 19599 MsE-30jul19-87	SINGLE_SSU	1
+1123073.3	Rudaea cellulosilytica DSM 22992	NCBI_REP	1
+1123241.3	Saxeibacter lacteus DSM 19367	NCBI_REP	1
+1123242.3	Schlesneria paludicola DSM 18645	NCBI_REP	1
+1123368.4	Thermithiobacillus tepidarius DSM 3134	NCBI_REP	1
+1123380.4	Thermosipho atlanticus DSM 15807	NORMAL	1
+1123382.5	Thermosyntropha lipolytica DSM 11003	SINGLE_SSU	1
+1123397.11	Thiohalospira halophila DSM 15071 strain HL3 strain HL 3	SINGLE_SSU	1
+1123399.3	Thiothrix disciformis DSM 14473	NCBI_REP	1
+1123402.3	Thorsellia anophelis DSM 18579	SINGLE_SSU	1
+1123403.4	Tissierella creatinophila DSM 6911	NORMAL	1
+1123508.9	Zavarzinella formosa DSM 19928 TH-08apr19-96	SINGLE_SSU	1
+1125966.3	Polycladomyces abyssicola strain JIR-001	NORMAL	1
+1128398.3	Clostridium acidurici 9a	NCBI_REP	1
+1128421.3	bacterium JKG1	NCBI_REP	1
+1129897.3	Nitrolancetus hollandicus Lb	SHORT_SSU	1
+1131266.4	Marine Group I thaumarchaeote SCGC AB-629-I23	NCBI_REP	1
+1134406.9	Ornatilinea apprima strain P3M-1	NORMAL	1
+114880.3	Mycoplasma columbinasale strain NCTC10184	NORMAL	1
+1150389.3	Flavobacteriaceae bacterium UJ101	NORMAL	1
+1150474.3	Mesoaciditoga lauensis cd-1655R = DSM 25116	NCBI_REP	1
+1156395.6	Dissulfuribacter thermophilus strain S69	SINGLE_SSU	1
+1158291.3	Thiomonas sp. FB-6	NCBI_REP	1
+1160895.4	Candidatus Acidianus copahuensis strain ALE1	NCBI_REP	1
+1163385.3	Peanut witches'-broom phytoplasma NTU2011	NCBI_REP	1
+1171543.3	Marinicella pacifica strain CGMCC 1.12181	SHORT_SSU	1
+1173020.3	Chamaesiphon minutus PCC 6605	NCBI_REP	1
+1173025.3	Geitlerinema sp. PCC 7407	NCBI_REP	1
+1173263.3	Synechococcus sp. PCC 7502	NCBI_REP	1
+1177216.3	Candidatus Profftia tarda strain PROFFT	SINGLE_SSU	1
+1178515.4	Paenibacillus swuensis strain DY6	NORMAL	1
+1179467.3	Hazenella coriacea strain DSM 45707	SINGLE_SSU	1
+118101.4	Buchnera aphidicola (Diuraphis noxia)	NORMAL	1
+1181271.5	Endobacter medicaginis strain CECT 8088	SINGLE_SSU	1
+118173.3	Pseudanabaena sp. PCC 6802	NCBI_REP	1
+1184251.4	Thermogladius cellulolyticus 1633	NCBI_REP	1
+1188229.3	Candidatus Gloeomargarita lithophora D10	SINGLE_SSU	1
+1188233.3	Mycoplasma auris 15026	NCBI_REP	1
+1188234.3	Mycoplasma alkalescens 14918	NCBI_REP	1
+118967.4	Anaerorhabdus furcosa strain ATCC 25662	NORMAL	1
+1191523.3	Melioribacter roseus P3M-2	NCBI_REP	1
+1194083.4	Tetrasphaera japonica T1-X7	NORMAL	1
+1203605.3	Propionibacterium sp. oral taxon 192 str. F0372	NCBI_REP	1
+1204719.3	Phocaeicola abscessus CCUG 55929	NCBI_REP	1
+1206085.4	Jatrophihabitans endophyticus strain DSM 45627	NORMAL	1
+1208919.3	Candidatus Kinetoplastibacterium desouzaii TCC079E	NCBI_REP	1
+1209778.3	Salinisphaera japonica YTM-1	SINGLE_SSU	1
+1211843.4	Candidatus Soleaferrea massiliensis AP7	NCBI_REP	1
+1215343.11	Liberibacter crescens BT-1	NCBI_REP	1
+1216932.3	Clostridium sp. M2/40	NCBI_REP	1
+1218492.5	Lactobacillus mellifer strain Bin4	SHORT_SSU	1
+1219585.3	Arcanobacterium sp. S3PF19	NCBI_REP	1
+1230734.3	Clostridiales bacterium S5-A14a	NCBI_REP	1
+1231063.3	Microbacterium sp. G3	NCBI_REP	1
+1234409.3	Catellicoccus marimammalium M35/04/3	NCBI_REP	1
+1241832.3	Buchnera aphidicola (Acyrthosiphon lactucae) strain Ala	NORMAL	1
+1241859.3	Buchnera aphidicola (Hyadaphis tataricae) strain Hta	NORMAL	1
+1241869.3	Buchnera aphidicola (Muscaphis stroyani) strain Mst	NORMAL	1
+1246530.3	Calderihabitans maritimus strain KKC1	SINGLE_SSU	1
+1246955.3	Mycoplasma cynos C142	NCBI_REP	1
+1247024.12	Arsenophonus endosymbiont clonal population	SINGLE_SSU	1
+1248727.3	endosymbiont of unidentified scaly snail isolate Monju	NCBI_REP	1
+1255656.3	Agrococcus casei LMG 22410 strain LMG 22410	NORMAL	1
+1256050.3	uncultured Porticoccus sp. strain FRAM18_bin294	NORMAL	1
+1258543.3	Buchnera aphidicola (Lipaphis pseudobrassicae) strain Lps	NORMAL	1
+1262554.3	Garicola koreensis strain DSM 28238	NORMAL	1
+1262583.3	Tamaricihabitans halophyticus strain DSM 45765	SINGLE_SSU	1
+1262791.3	Clostridium sp. CAG:288	NCBI_REP	1
+1262829.3	Clostridium sp. CAG:628	SHORT_SSU	1
+1265313.9	Pseudohaliea rubra DSM 19751	SINGLE_SSU	1
+1265507.3	Succinimonas amylolytica DSM 2873	NCBI_REP	1
+1266996.3	Mycoplasma orale ATCC 23714	NCBI_REP	1
+1274402.6	Candidatus Hepatobacter penaei strain NHPB	NCBI_REP	1
+1276258.3	Spiroplasma apis B31	NCBI_REP	1
+1277257.4	Candidatus Liberibacter africanus PTSAPSY	NCBI_REP	1
+1280390.5	Gorillibacterium massiliense strain G5	SINGLE_SSU	1
+1282883.4	Micromonospora polyrhachis strain DSM 45886	NORMAL	1
+1283300.3	Methylohalobius crimeensis 10Ki	NCBI_REP	1
+1286528.3	Neorickettsia helminthoeca str. Oregon	NCBI_REP	1
+128944.3	Aerococcus urinaehominis strain CCUG42038B	NORMAL	1
+1294296.4	Luteibaculum oceani strain JCM 18817	SINGLE_SSU	1
+1295382.3	Methylogaea oryzae strain E10	NORMAL	1
+1298851.4	Thermosulfidibacter takaii ABI70S6	SINGLE_SSU	1
+1302411.3	Candidatus Annandia adelgestsuga strain ENA	SINGLE_SSU	1
+1303579.3	Acidocella aromatica strain DSM 27026	NORMAL	1
+1304284.3	Clostridiaceae bacterium L21-TH-D2	SHORT_SSU	1
+1304884.3	Desulfitibacter alkalitolerans DSM 16504	NCBI_REP	1
+1304885.3	Desulforegula conservatrix Mb1Pa	SHORT_SSU	1
+1304888.3	Geovibrio thiophilus L21-Ace-BES	NCBI_REP	1
+1306947.3	candidate division TM6 bacterium JCVI TM6SC1	SINGLE_SSU	1
+1307759.4	Desulfovibrio sp. L21-Syr-AB	NCBI_REP	1
+1307761.3	Spirochaeta sp. L21-RPul-D2	NORMAL	1
+1307763.7	Kiritimatiella glycovorans strain L21-Fru-AB	SINGLE_SSU	1
+1307839.5	Salinivirga cyanobacteriivorans strain L21-Spi-D4	NORMAL	1
+1309793.3	Buchnera aphidicola (Pentalonia nigronervosa) strain Ba4	NORMAL	1
+1312852.3	Thermoanaerobaculum aquaticum strain MP-01	NCBI_REP	1
+1313304.3	candidate division TG3 bacterium ACht1	NCBI_REP	1
+1313421.4	Aureispira sp. CCB-QB1	NCBI_REP	1
+1314958.3	Parachlamydiaceae bacterium HS-T3	NCBI_REP	1
+1315998.3	Buchnera aphidicola (Thelaxes californica) strain Tca	NORMAL	1
+1317117.6	Oceanococcus atlanticus strain 22II-S10r2	SINGLE_SSU	1
+1318617.3	Candidatus Mycoplasma girerdii VCU_M1	NCBI_REP	1
+1321371.13	Holospora undulata HU1	SINGLE_SSU	1
+1323375.3	Anoxybacter fermentans strain DY22613	NORMAL	1
+1324935.3	Limisphaera ngatamarikiensis strain NGM72.4	SINGLE_SSU	1
+13276.5	Suttonella indologenes strain NCTC10717	NORMAL	1
+1331910.7	Thermogutta terrifontis strain R1	SINGLE_SSU	1
+1332188.3	Candidatus Saccharimonas aalborgensis	NCBI_REP	1
+133270.3	Hydrogenothermus marinus strain VM1	SINGLE_SSU	1
+1333523.5	Salinarchaeum sp. Harcht-Bsk1	NCBI_REP	1
+1336245.3	Carnimonas nigrificans ATCC BAA-78	SHORT_SSU	1
+1347891.3	Naumannella cuiyingiana strain DSM 103164	SINGLE_SSU	1
+1348613.3	Vallitalea pronyensis strain FatNI3	NORMAL	1
+1359168.3	Orientia chuto str. Fuller	NCBI_REP	1
+1379303.3	candidate division EM 19 bacterium JGI OTU-1	SINGLE_SSU	1
+1379305.3	candidate division NKB19 bacterium JGI OTU-1	SINGLE_SSU	1
+1379698.3	candidate division ZIXI bacterium RBG-1	NCBI_REP	1
+1382356.3	Thermomicrobiales bacterium KI4	SHORT_SSU	1
+1383028.3	candidate division OP8 bacterium JGI OTU-1	SINGLE_SSU	1
+1384638.4	Aridibacter famidurans mag.1	SINGLE_SSU	1
+1387353.3	Paludisphaera borealis strain PX4	NORMAL	1
+1392491.3	Ruminococcaceae bacterium AE2021	NCBI_REP	1
+1392493.3	Lachnospiraceae bacterium AC2031	NCBI_REP	1
+1392494.3	Lachnospiraceae bacterium AC2012	SHORT_SSU	1
+139438.5	Geovibrio thiophilus strain DSM 11263	NORMAL	1
+1394711.4	Candidatus Saccharibacteria bacterium RAAC3_TM7_1	NCBI_REP	1
+1399147.9	Holospora obtusa F1	SINGLE_SSU	1
+1400053.5	Bacteroidales bacterium CF	NCBI_REP	1
+1400387.3	Bythopirellula goksoyri strain Pr1d	SINGLE_SSU	1
+1401685.3	Candidatus Xenolissoclinum pacificiensis L6	SINGLE_SSU	1
+1403537.3	Fervidicella metallireducens AeB	NCBI_REP	1
+1408160.3	Thermotoga profunda AZM34c06	NCBI_REP	1
+1408322.3	Lachnospiraceae bacterium AC3007	SHORT_SSU	1
+1408415.3	Acholeplasma equifetale ATCC 29724	SHORT_SSU	1
+1408439.3	Fusobacterium perfoetens ATCC 29250	NCBI_REP	1
+1408442.3	Helicobacter pametensis ATCC 51478	NCBI_REP	1
+1408453.3	Mycoplasma alvi ATCC 29626	NCBI_REP	1
+1408454.3	Mycoplasma anseris ATCC 49234	NCBI_REP	1
+1408456.3	Mycoplasma collis ATCC 35278	NCBI_REP	1
+1408459.3	Mycoplasma elephantis ATCC 51980	NCBI_REP	1
+1408461.3	Mycoplasma felifaucium ATCC 43428	SHORT_SSU	1
+1408465.3	Mycoplasma lipofaciens ATCC 35015	NCBI_REP	1
+1408466.3	Mycoplasma opalescens ATCC 27921	NCBI_REP	1
+1408467.3	Mycoplasma pirum ATCC 25960	NCBI_REP	1
+1408468.3	Mycoplasma primatum ATCC 25948	NCBI_REP	1
+1408471.3	Mycoplasma testudinis ATCC 43263	NCBI_REP	1
+1410383.3	symbiont bacterium UwTKB of Urostylis westwoodii	NORMAL	1
+1410634.3	Propionibacteriaceae bacterium P6A17	NCBI_REP	1
+1410638.3	Ruminococcaceae bacterium AB4001	NCBI_REP	1
+1414854.3	Candidatus Nucleicultrix amoebiphila FS5 strain FS5	NORMAL	1
+1415657.3	endosymbiont of Llaveia axin axin	SINGLE_SSU	1
+1415780.3	Algiphilus aromaticivorans DG1253	NCBI_REP	1
+1423744.4	Lactobacillus floricola DSM 23037 = JCM 16512	NCBI_REP	1
+1427984.3	Candidatus Hepatoplasma crinochetorum Av	NCBI_REP	1
+1428644.3	Streptomyces gilvigriseus strain MUSC 26	NORMAL	1
+1433126.3	Rikenellaceae bacterium M3	NCBI_REP	1
+1437425.3	Criblamydia sequanensis CRIB-18	NCBI_REP	1
+1441386.9	Athalassotoga saccharophila strain NAS-01	NORMAL	1
+1444712.3	Chlamydia sp. 'Rubis'	NCBI_REP	1
+1446479.3	Arenimonas maotaiensis strain CGMCC 1.12726	NORMAL	1
+1446794.3	Frondihabitans sp. 762G35	NORMAL	1
+1448135.3	Mycoplasma leonicaptivi ATCC 49890	NCBI_REP	1
+1448929.4	Candidatus Fervidibacter sacchari PD1	SINGLE_SSU	1
+1450156.3	Defluviitalea raffinosedens strain 249c-K6	SINGLE_SSU	1
+1457365.3	Bacteroidetes bacterium Omega	NORMAL	1
+1469170.3	Longimonas halophila strain KCTC 42399	SINGLE_SSU	1
+1469502.3	Burkholderiales bacterium GJ-E10	NCBI_REP	1
+147047.3	Desulfovibrio mexicanus strain DSM 13116	NORMAL	1
+1471761.3	Novibacillus thermophilus strain SG-1	NORMAL	1
+1473586.4	Roseiarcus fermentans strain DSM 24875	SINGLE_SSU	1
+1482736.4	Acetoanaerobium pronyense strain DSM 27512	NORMAL	1
+1485545.4	Ghiorsea bivora strain TAG-1	NORMAL	1
+1494606.3	Sporohalobacter salinus strain DSM 26781	SINGLE_SSU	1
+1495045.7	Thermopetrobacter sp. TC1 strain TC-1	SINGLE_SSU	1
+1495769.5	Candidatus Evansia muelleri	SINGLE_SSU	1
+1505036.4	Halovulum dunhuangense strain RR4-56	SINGLE_SSU	1
+1505596.4	Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain 675	SINGLE_SSU	1
+1505597.4	Blochmannia endosymbiont of Camponotus (Colobopsis) obliquus strain 757	SINGLE_SSU	1
+1508390.3	Aureibacillus halotolerans strain DSM 28697	SINGLE_SSU	1
+1513793.14	Pseudobacteriovorax antillogorgiicola MiH-22jul19-201	SINGLE_SSU	1
+1514105.3	Erysipelothrix sp. LV19	NORMAL	1
+1519464.4	Chlorobium sp. GBChlB	SHORT_SSU	1
+1520829.4	Peptostreptococcaceae bacterium pGA-8	NORMAL	1
+1528.7	Eubacterium barkeri strain VPI 5359	NORMAL	1
+1528098.3	Rickettsiales bacterium Ac37b	NCBI_REP	1
+1532350.4	Metallosphaera tengchongensis strain Ric-A	NORMAL	1
+1537524.3	Thiogranum longum strain DSM 19610	SINGLE_SSU	1
+1537566.3	Balneicella halophila strain DSM 28579	SINGLE_SSU	1
+1539049.3	Dinghuibacter silviterrae strain DSM 100059	SINGLE_SSU	1
+1539066.3	Sulfuricurvum sp. PC08-66	SHORT_SSU	1
+1541959.3	Mollicutes bacterium HR1	NCBI_REP	1
+1541960.5	Candidatus Izimaplasma sp. HR2	NORMAL	1
+1548018.3	Helicobacter sanguini MIT 97-6194	NCBI_REP	1
+1550565.3	Methanoculleus taiwanensis strain CYW4	NORMAL	1
+1552.13	Clostridium estertheticum subsp. estertheticum strain DSM 8809	NORMAL	1
+1561003.5	bacterium 2013Arg42i strain 2013Ark11	NORMAL	1
+1561025.4	Persicobacter sp. CCB-QB2	NORMAL	1
+156889.10	Magnetococcus marinus MC-1	NCBI_REP	1
+1570016.3	Thioflexothrix psekupsii strain D3	NORMAL	1
+1572761.3	Micrococcoides hystricis strain TSL3	SINGLE_SSU	1
+1572762.3	Xylanibacillus composti strain K13	SINGLE_SSU	1
+157592.10	Sterolibacterium denitrificans strain Chol	SINGLE_SSU	1
+1576550.3	Candidatus Kinetoplastibacterium sorsogonicusi strain MF-08	NORMAL	1
+1579333.3	Limibacillus halophilus strain CECT 8803	SINGLE_SSU	1
+1579370.3	archaeon GW2011_AR10	NCBI_REP	1
+1579373.3	archaeon GW2011_AR15	NCBI_REP	1
+1579378.3	archaeon GW2011_AR20	NCBI_REP	1
+1582259.3	Soehngenia sp. W6	NORMAL	1
+1590651.3	Paenibacillus sp. VKM B-2647	NCBI_REP	1
+1592317.3	Desulfoplanes formicivorans strain Pf12B	SINGLE_SSU	1
+1594731.5	Candidatus Westeberhardia cardiocondylae Cmi	SINGLE_SSU	1
+1594731.7	Candidatus Westeberhardia cardiocondylae Cma	SINGLE_SSU	1
+1609232.3	Thermoproteus sp. AZ2	SHORT_SSU	1
+1609969.5	Candidatus Omnitrophus magneticus strain SKK-01	SINGLE_SSU	1
+1611323.5	Halofilum ochraceum strain XJ16	SINGLE_SSU	1
+1620215.5	Sulfuricaulis limicola strain HA5	SINGLE_SSU	1
+1621989.5	Candidatus Desulfofervidus auxilii strain HS1 strain HotSeep1	SINGLE_SSU	1
+1627895.3	Hypnocyclicus thermotrophus strain DSM 100055	SINGLE_SSU	1
+1629062.3	Antricoccus suffuscus strain DSM 100065	SINGLE_SSU	1
+1629334.6	Caedimonas varicaedens	SINGLE_SSU	1
+1629715.4	Peptococcaceae bacterium BRH_c8a	NORMAL	1
+1632864.5	Planctomyces sp. SH-PL14	NORMAL	1
+1639882.4	Longimicrobium terrae strain CB-286315	NORMAL	1
+1641851.3	Acidisphaera sp. L21	SINGLE_SSU	1
+1641861.3	Caulobacter sp. S45	NORMAL	1
+1641869.3	Methylocapsa sp. S129	NORMAL	1
+1651774.3	Candidatus Neptunochlamydia vexilliferae strain K9	SINGLE_SSU	1
+1653831.15	Blattabacterium cuenoti strain PARANAUcir	NORMAL	1
+1653831.24	Blattabacterium cuenoti strain MEDIASdel	NORMAL	1
+1653831.38	Blattabacterium cuenoti strain CARBpar	NORMAL	1
+1653831.42	Blattabacterium cuenoti strain ANAPome	NORMAL	1
+1653831.45	Blattabacterium cuenoti strain ALLACaus	NORMAL	1
+1653831.5	Blattabacterium cuenoti strain SHELFORDIsp	NORMAL	1
+1656892.3	Nakamurella sp. DB0629	NORMAL	1
+1662188.4	Candidatus Achromatium palustre	SINGLE_SSU	1
+1670831.3	Egibacter rhizosphaerae strain EGI 80759	SINGLE_SSU	1
+1671482.3	Acidithrix sp. C25 strain 1	NORMAL	1
+1671927.16	uncultured Acetatifactor sp. strain MGBC125142	SINGLE_SSU	1
+1675686.5	Sulfurifustis variabilis strain skN76	SINGLE_SSU	1
+1678840.5	Flexilinea flocculi strain TC1	NORMAL	1
+1690483.5	Bacteroidetes bacterium UKL13-3	NORMAL	1
+1690485.5	Betaproteobacteria bacterium UKL13-2	NORMAL	1
+1696036.11	Candidatus Finniella inopinata MsE-30apr19-54	SINGLE_SSU	1
+1696036.3	Candidatus Finniella inopinata strain HOLO01	SINGLE_SSU	1
+1704307.4	Candidatus Xiphinematobacter sp. Idaho Grape	SINGLE_SSU	1
+1714261.4	Thermocladium sp. ECH_B	SINGLE_SSU	1
+1719125.3	Candidatus Riesia sp. GBBU strain GBBU	NORMAL	1
+1719126.3	bacterium endosymbiont of Pedicinus badii strain PRUG	NORMAL	1
+1720317.3	Porphyromonadaceae bacterium FC4	NORMAL	1
+1725232.3	Candidatus Desulfovibrio trichonymphae strain Rs-N31	NORMAL	1
+1735326.3	Methanoculleus sp. SDB	NORMAL	1
+1736539.4	Angustibacter sp. Root456	SINGLE_SSU	1
+1737490.4	Cellvibrionaceae bacterium 017 strain 017	NORMAL	1
+174633.139	Candidatus Kuenenia stuttgartiensis LH-05nov19-139	SINGLE_SSU	1
+174633.168	Candidatus Kuenenia stuttgartiensis MsE-01oct19-186	SINGLE_SSU	1
+174633.172	Candidatus Kuenenia stuttgartiensis MoE-23oct19-1	SINGLE_SSU	1
+174633.184	Candidatus Kuenenia stuttgartiensis MiH-14oct19-120	SINGLE_SSU	1
+1747223.3	Acidisphaera sp. S103	SINGLE_SSU	1
+1748367.3	Nakamurella endophytica strain CGMCC 4.7308	NORMAL	1
+1748965.3	uncultured Desulfatiglans sp. strain IK1	SINGLE_SSU	1
+1749074.3	Mycoplasma sp. (ex Biomphalaria glabrata)	NCBI_REP	1
+1750597.3	Inmirania thermothiophila strain DSM 100275	SINGLE_SSU	1
+1750598.3	Dissulfurimicrobium hydrothermale Sh68	SINGLE_SSU	1
+1751046.3	Rhodocyclaceae bacterium SHINM1	NORMAL	1
+1754012.3	Breznakia blatticola strain DSM 28867	SINGLE_SSU	1
+1761012.6	Peptococcaceae bacterium DCMF	NORMAL	1
+176309.3	uncultured Methanocorpusculum sp. strain HGM00632	NORMAL	1
+1765967.4	Acidihalobacter ferrooxidans strain V8	SINGLE_SSU	1
+1766203.5	Clostridiales bacterium MCWD3	SINGLE_SSU	1
+1772216.9	uncultured Pseudohongiella sp. strain FRAM18_bin283	NORMAL	1
+1773489.15	Varunaivibrio sulfuroxidans strain DSM 101688	SINGLE_SSU	1
+177437.4	Desulfobacterium autotrophicum HRM2	NCBI_REP	1
+1776334.4	Hadesarchaea archaeon YNP_45	SINGLE_SSU	1
+1778264.4	Candidatus Mikella endobia strain MEPMAR	SINGLE_SSU	1
+1789227.3	Methanomicrobiaceae archaeon CYW5	NORMAL	1
+1792311.3	Clostridiales bacterium SK-Y3	NORMAL	1
+1792502.3	Puia dinghuensis strain CGMCC 1.15448	SINGLE_SSU	1
+1795816.3	Candidatus Syntrophonatronum acetioxidans strain MSAO_Bac1	SINGLE_SSU	1
+1796619.3	Irregularibacter muris DSM 28593	SINGLE_SSU	1
+1802984.3	Candidatus Fokinia solitaria strain Rio ETE_ALG 3VII	SINGLE_SSU	1
+1802984.7	Candidatus Fokinia solitaria ZE-03apr19-198	SINGLE_SSU	1
+1803916.3	Salibacter halophilus strain KCTC 52047	SINGLE_SSU	1
+1806891.3	Chlamydia sp. 2742-308	NORMAL	1
+1807133.3	Natronospira proteinivora BSker1	SINGLE_SSU	1
+1808959.3	Candidatus Pandoraea novymonadis strain E262	NORMAL	1
+1811682.3	Methanoregula sp. PtaU1.Bin051	NORMAL	1
+1811685.3	Methanosaeta sp. PtaB.Bin039	SHORT_SSU	1
+1811807.4	Sulfuriflexus mobilis strain aks1	SINGLE_SSU	1
+1812111.3	Wolbachia endosymbiont of Cruorifilaria tuberocauda strain 55YT	NORMAL	1
+1812112.8	Wolbachia endosymbiont of Dipetalonema caudispina strain 362YU	NORMAL	1
+1812858.3	Robinsoniella sp. MCWD5	SINGLE_SSU	1
+1817405.3	Abyssicoccus albus strain DSM 29158	SINGLE_SSU	1
+1817954.3	uncultured Candidatus Hydrogenedens sp. strain AG-422-L23	SINGLE_SSU	1
+1817954.8	uncultured Candidatus Hydrogenedens sp. strain AG-470-J09	SINGLE_SSU	1
+1819565.5	Loktanella marina strain CECT 8899	SINGLE_SSU	1
+1823759.3	Desulfuromonas sp. DDH964	NORMAL	1
+1839807.3	Cardiobacteriaceae bacterium B08008	SINGLE_SSU	1
+1840217.3	Candidatus Arthromitus sp. SFB-turkey	NORMAL	1
+1842532.3	Pelobacter sp. SFB93	NORMAL	1
+1848039.8	Methylobacillus sp. MM3	NORMAL	1
+1850348.3	Longibacter salinarum strain KCTC 52045	SINGLE_SSU	1
+1851148.3	Phycisphaerae bacterium SM-Chi-D1 strain SM-Chi-D1	NORMAL	1
+185139.5	Rubrobacter taiwanensis strain Yellowstone	NORMAL	1
+1852363.3	Clostridiales bacterium Marseille-P2846	NORMAL	1
+1852374.3	Ezakiella sp. Marseille-P2951	NORMAL	1
+1852383.3	Ruminococcaceae bacterium Marseille-P2935	NORMAL	1
+1852886.3	Firmicutes bacterium ADurb.Bin248	SHORT_SSU	1
+1852921.3	Tenericutes bacterium ADurb.BinA124	SHORT_SSU	1
+1853216.3	Oceanospirillales bacterium WDS2A16A	SINGLE_SSU	1
+1855339.3	Nitrosovibrio sp. Nv17	SINGLE_SSU	1
+1862668.5	Erysipelotrichaceae bacterium NYU-BL-A3	SINGLE_SSU	1
+186490.3	Candidatus Baumannia cicadellinicola strain BGSS	NORMAL	1
+1867258.4	Candidatus Methanomethylicus mesodigestum strain V2	SINGLE_SSU	1
+1867749.3	Acidithiobacillus sp. CJ-2	NORMAL	1
+1867774.3	Aliidongia dinghuensis strain CGMCC 1.15725	SINGLE_SSU	1
+1870984.37	Anaerococcus mediterraneensis GNH	NORMAL	1
+1870997.3	Mogibacterium sp. Marseille-P3115	NORMAL	1
+1871005.3	Anaerosalibacter sp. Marseille-P3206 strain Marseille-P3206	NORMAL	1
+1871018.3	Ruminococcus sp. Marseille-P3217	NORMAL	1
+1871072.25	Nocardioidaceae bacterium strain TYQ2	NORMAL	1
+1872090.16	Acetatifactor sp. strain RUG309	SINGLE_SSU	1
+1878935.3	Buchnera aphidicola (Cinara confinis)	NORMAL	1
+1879010.7329	Firmicutes bacterium strain Bu02	NORMAL	1
+1882752.29	Singulisphaera sp. GP187 AE-03may19-10	SINGLE_SSU	1
+1882752.42	Singulisphaera sp. GP187 AE-24oct19-175	SINGLE_SSU	1
+1884432.3	Salibacterium halotolerans strain S7	SINGLE_SSU	1
+1884656.4	Epulopiscium sp. Nuni2H_MBin001 strain Nuni2H_MBin001	NORMAL	1
+1888893.3	Parvibium lacunae strain KMB9	NORMAL	1
+1889241.3	Vagococcus humatus strain JCM 31581	NORMAL	1
+1889813.3	Anaerolineaceae bacterium oral taxon 439 strain W11661	NORMAL	1
+1891229.299	Pseudomonadales bacterium HK-STAS-PROT-174	NORMAL	1
+1891229.304	Pseudomonadales bacterium HK-STAS-PROT-165	NORMAL	1
+1891280.3	Sulfolobus sp. A20	NORMAL	1
+1892844.3	Hyphomicrobium sp. CS1BSMeth3	NORMAL	1
+1892865.3	Allostreptomyces psammosilenae strain DSM 42178	NORMAL	1
+1894989.3	Thermodesulfitimonas autotrophica strain DSM 102936	SINGLE_SSU	1
+1895716.3	Candidatus Amoebophilus sp. 36-38	SINGLE_SSU	1
+1898104.576	Bacteroidetes bacterium strain Lyne_18-Q3-R50-59_BAT3C.262	NORMAL	1
+1898104.636	Bacteroidetes bacterium strain OdNE_18-Q3-R46-58_MAXAC.086	NORMAL	1
+1898112.199	Rhodospirillaceae bacterium strain Skiv_18-Q3-R9-52_MAXAC.177	NORMAL	1
+1898203.3467	Lachnospiraceae bacterium UW_TS_LCO4_1	NORMAL	1
+1898207.3921	Clostridiales bacterium strain MT110	NORMAL	1
+1902245.3	Nakamurella sp. s14-144 strain S14-144	NORMAL	1
+1903181.3	Euryarchaeota archaeon HMET1	SINGLE_SSU	1
+1903261.3	Desulfovibrio sp. Marseille-P3199 strain Marseille-P3199	SINGLE_SSU	1
+1903720.435	Bacilli bacterium UW_MP_BACIL7_1	NORMAL	1
+1903720.442	Bacilli bacterium UW_DM_BACIL1_1	NORMAL	1
+1906166.3	Candidatus Caenarcanum bioreactoricola strain UASB_169	SINGLE_SSU	1
+1906605.3	Paenibacillaceae bacterium JTherm	SINGLE_SSU	1
+1911683.3	Tenericutes bacterium MZ-XQ	NORMAL	1
+1912795.3	Actinomyces sp. VUL4_3	NORMAL	1
+1913988.1735	Alphaproteobacteria bacterium HK-STAS-PROT-9	NORMAL	1
+1914338.3	Terrimonas sp. strain RI_572	NORMAL	1
+1914869.3	Rhizobiales bacterium IMCC20636	NORMAL	1
+1915519.3	Methanolinea sp. UBA275	NORMAL	1
+1915538.3	Methanomassiliicoccus sp. UBA386	NORMAL	1
+1915598.3	Nitrosopumilus sp. UBA527	NORMAL	1
+1917811.4	Tibeticola sediminis strain DSM 101684	SINGLE_SSU	1
+191863.59	Chthoniobacter flavus AH-24oct19-86	SINGLE_SSU	1
+1920419.3	Desulfobulbaceae bacterium DB1	NORMAL	1
+1922217.13	Candidatus Erwinia haradaeae strain ErCipiceae	NORMAL	1
+1922217.7	Candidatus Erwinia haradaeae strain ErCicurvipes	NORMAL	1
+1922217.8	Candidatus Erwinia haradaeae strain ErCikochiana	NORMAL	1
+1922226.3	Anderseniella sp. Alg231-50 strain Anderseniella sp. Alg231_50	SINGLE_SSU	1
+1926290.8	Cryobacterium sp. strain ACE_ACT10	NORMAL	1
+1929292.5	Nevskia sp. strain HOG36	NORMAL	1
+1930071.3	Methylomusa anaerophila strain MMFC1	NORMAL	1
+1930593.3	Vampirococcus sp. LiM	SINGLE_SSU	1
+1932692.91	Lentisphaerae bacterium strain zth2	NORMAL	1
+1932716.12	Ktedonobacter sp. strain SpSt-929	SINGLE_SSU	1
+1933035.3	Pseudoruegeria sp. SK021 strain SK021	SINGLE_SSU	1
+1935123.3	Candidatus Hydrothermae bacterium JdFR-72 strain JdFR-72	SINGLE_SSU	1
+1935129.3	Candidatus Hydrothermarchaeota archaeon JdFR-18 strain JdFR-18	SINGLE_SSU	1
+1935139.3	Euryarchaeota archaeon JdFR-21 strain JdFR-21	SHORT_SSU	1
+1936003.3	Phycisphaerae bacterium ST-NAGAB-D1 strain ST-NAGAB-D1	SINGLE_SSU	1
+1940288.31	Ferruginibacter sp. strain ACE_BAC16	SINGLE_SSU	1
+1945880.11	Nitrosovibrio sp. Nv4 TH-11nov19-59	SINGLE_SSU	1
+1945885.3	Micrococcales bacterium KH10	NORMAL	1
+1946752.3	Leptolinea sp. UBA4782	SINGLE_SSU	1
+1951056.4	Flavobacteriales bacterium UBA6770 strain FRAM18_bin114	NORMAL	1
+1951782.5	Flammeovirgaceae bacterium UBA4465 strain FRAM18_bin121	NORMAL	1
+195250.3	Synechococcus sp. PCC 7336	NCBI_REP	1
+195253.3	Synechococcus sp. PCC 6312	NCBI_REP	1
+1953413.3	bacterium UBP10_UBA7539	SINGLE_SSU	1
+1958892.5	Oceanococcus sp. strain MS8	SINGLE_SSU	1
+1960156.3	Abditibacterium utsteinense strain LMG 29911	SINGLE_SSU	1
+1963835.3	Rhodospirillales bacterium B29T1 strain B29T1	SINGLE_SSU	1
+1965230.3	Burkholderiales bacterium CNM695-12	SINGLE_SSU	1
+1965358.3	Tuberibacillus sp. Marseille-P3662 strain Marseille-P3662	NORMAL	1
+1969409.3	Microbacteriaceae bacterium EaCA-K	SINGLE_SSU	1
+1969806.3	Acidisphaera sp. G45-3	SINGLE_SSU	1
+1971488.3	endosymbiont of Pachyrhynchus infernalis strain NARPIN1	NORMAL	1
+1972068.3	Sulfurivermis fontis strain JG42	NORMAL	1
+1972134.3	endosymbiont of Sipalinus gigas strain NARSGI1	NORMAL	1
+1973259.5	Desulfurococcaceae archaeon NZ3(B) strain NZ3(B) strain NZ3(B) strain NZ3(B)	SINGLE_SSU	1
+1985113.140	uncultured Candidatus Actinomarina sp. strain AG-439-N06	SINGLE_SSU	1
+1992.4	Actinomadura echinospora strain DSM 43163	NORMAL	1
+2003555.3	Egibacter sp. strain T1Sed10_49	SINGLE_SSU	1
+2006184.12	Desulfamplus sp. strain nJC1bin9	SINGLE_SSU	1
+2006848.54	Opitutaceae bacterium strain Hirt_18-Q3-R61-65_BAT3C.235	NORMAL	1
+2008672.3	Flavobacteriaceae bacterium UR159	SINGLE_SSU	1
+2010829.3	Rhodanobacteraceae bacterium Dysh456	NORMAL	1
+2014781.3	Neglecta sp. Marseille-P3890	NORMAL	1
+2014784.7	Neisseriaceae bacterium strain HaMa	NORMAL	1
+2014871.3	Ktedonobacterales bacterium Uno3	NORMAL	1
+2014874.3	Dictyobacter sp. Uno17	SINGLE_SSU	1
+2016198.3	Coxiellaceae bacterium RA15029	SINGLE_SSU	1
+2016505.5	Parenemella sanctibonifatiensis NML 160184	SINGLE_SSU	1
+2016530.3	Bacteroidetes bacterium SPSPC-11	NORMAL	1
+201975.3	Planifilum fimeticola strain DSM 44946	SINGLE_SSU	1
+2020335.3	Candidatus Liberibacter ctenarytainae strain Oxford	NORMAL	1
+2021391.398	Flavobacteriales bacterium strain M30B58	NORMAL	1
+2024580.3	Plantactinospora sp. KBS50	NORMAL	1
+2024843.66	Nitrosopumilus sp. strain SI034_bin167	NORMAL	1
+2024890.22	Pedosphaera sp. strain Baikal-deep-G217	SINGLE_SSU	1
+2024890.5	Pedosphaera sp. strain EAC662	SINGLE_SSU	1
+2024963.9	Caldimicrobium sp. strain SpSt-122	SINGLE_SSU	1
+2026339.3	Rhodobacteraceae bacterium O448	SINGLE_SSU	1
+2026722.16	Cellvibrionales bacterium strain Fred_18-Q3-R57-64_BATAC.644	NORMAL	1
+2026724.900	Chloroflexi bacterium strain L227-S17	NORMAL	1
+2026735.213	Deltaproteobacteria bacterium strain AP2	NORMAL	1
+2026757.84	Leptospiraceae bacterium HK-STAS-SPIR-5	NORMAL	1
+2026762.7	Micrococcales bacterium strain RS404	NORMAL	1
+2026781.8	Candidatus Poribacteria bacterium strain NAT79	NORMAL	1
+2026786.100	Rhodospirillales bacterium strain Fred_18-Q3-R57-64_MAXAC.396_cln	NORMAL	1
+2029166.3	Sinobacteraceae bacterium GT1R17	SINGLE_SSU	1
+2029982.5	BD1-7 clade bacterium strain BC9_1	NORMAL	1
+2030800.124	Elusimicrobia bacterium strain Lyne_18-Q3-R50-59_MAXAC.215	NORMAL	1
+2030824.23	Phycisphaera sp. strain RI_382	SINGLE_SSU	1
+2030824.24	Phycisphaera sp. strain RI_212	SINGLE_SSU	1
+2030827.3	Candidatus Dependentiae bacterium strain NORP98	NORMAL	1
+2030927.2465	Bacteroidales bacterium nC27_bin.30.fa	NORMAL	1
+2030927.2516	Bacteroidales bacterium UW_MP_BACTE7_1	NORMAL	1
+2033133.3	Methyloligella sp. DHS20C07	SINGLE_SSU	1
+2036206.3	Aerococcaceae bacterium ZY16052	NORMAL	1
+2038371.3	Imperialibacter sp. EC-SDR9 strain IMPR6	SINGLE_SSU	1
+203907.6	Candidatus Blochmannia floridanus	SINGLE_SSU	1
+2040290.3	Helcococcus sp. Marseille-P4590	SINGLE_SSU	1
+2041841.3	Parvimonas sp. Marseille-P4678	SINGLE_SSU	1
+2043164.24	Candidatus Sulfopaludibacter sp. SbA3 MaH-09apr19-49	SINGLE_SSU	1
+2044729.3	Candidatus Nephrothrix sp. EaCA	SINGLE_SSU	1
+2044936.128	Bacteroidia bacterium strain M30B35	NORMAL	1
+2044939.1136	Clostridia bacterium strain zrk5	NORMAL	1
+2044944.53	Sphingobacteriales bacterium strain Hirt_18-Q3-R61-65_BAT3C.134	NORMAL	1
+204669.11	Candidatus Koribacter versatilis Ellin345	NCBI_REP	1
+2049035.8	Mogibacterium sp. strain 15WH	NORMAL	1
+2052165.14	Holophagaceae bacterium strain Viby_18-Q3-R106-67_BAT3C.260	NORMAL	1
+2053306.72	Ignavibacteria bacterium strain H1_BAC2	NORMAL	1
+2053509.37	Candidatus Atribacteria bacterium strain RT761	NORMAL	1
+2053582.7	Neisseriales bacterium strain Fred_18-Q3-R57-64_MAXAC.425_cln	NORMAL	1
+2053608.6	Ruminiclostridium sp. strain MnB_11	NORMAL	1
+2053614.6	Smithella sp. strain SpSt-775	NORMAL	1
+2053689.37	Thermotogae bacterium HK-STAS-THER-3	NORMAL	1
+2066024.3	Candidatus Cytomitobacter primus strain 1604LC	SINGLE_SSU	1
+2067065.3	Aquella oligotrophica DSM 100970	NORMAL	1
+2073117.45	Anaerolineales bacterium strain H2_CFX3	NORMAL	1
+2078660.3	Vallitalea sp. S15	NORMAL	1
+2079007.3	Candidatus Tokpelaia sp. JSC161	NORMAL	1
+2079008.3	Candidatus Tokpelaia sp. JSC085	NORMAL	1
+2080239.3	Ornatilinea sp. strain SM3-B12.1	NORMAL	1
+2086585.3	Christensenella sp. Marseille-P3954	NORMAL	1
+2093367.3	Desulfarculus sp. strain SURF_10 strain not applicable	NORMAL	1
+209880.29	Allisonella histaminiformans SUG15	SINGLE_SSU	1
+2099375.3	Chloracidobacterium sp. strain H3_ACI1	SINGLE_SSU	1
+2099665.9	Ardenticatenia bacterium strain EsbW_18-Q3-R4-48_MAXAC.090	NORMAL	1
+2108365.3	Oceanotoga sp. sy52	NORMAL	1
+2109911.10	Candidatus Amulumruptor caecigallinarius NALB_7821a_14	SINGLE_SSU	1
+2115978.3	Candidatus Phycorickettsia trachydisci strain CCALA 838	SINGLE_SSU	1
+2139.4	Spiroplasma clarkii strain CN-5	NORMAL	1
+214888.3	Entomoplasma luminosum strain PIMN-1	NORMAL	1
+215578.3	Entomoplasma somnilux strain PYAN-1	NORMAL	1
+216.15	Helicobacter muridarum strain NCTC12714	NORMAL	1
+2161677.4	Kordiimonas pumila strain N18	NORMAL	1
+2162132.3	Prochlorococcus sp. AG-363-O06	NORMAL	1
+2162266.3	Prochlorococcus sp. AG-409-B05	NORMAL	1
+2162481.3	Prochlorococcus sp. AG-409-G20	NORMAL	1
+2164074.3	Nakamurella sp. 12Sc4-1	NORMAL	1
+216942.3	Spiroplasma litorale strain TN-1	NCBI_REP	1
+216946.3	Spiroplasma turonicum strain Tab4c	NCBI_REP	1
+2170265.3	Candidatus Similichlamydia laticola strain Hat2	SINGLE_SSU	1
+2173034.3	Clostridiales bacterium 70B-A	NORMAL	1
+2173854.3	Buchnera aphidicola (Melanaphis sacchari) strain LSU	NORMAL	1
+2182787.3	Salinisphaeraceae bacterium OUC007	SINGLE_SSU	1
+2200854.3	Opitutae bacterium TARA_B100001123	SINGLE_SSU	1
+220137.81	uncultured Mollicutes bacterium min17_bin64	NORMAL	1
+2202734.225	Saprospiraceae bacterium strain ACE_BAC21	NORMAL	1
+2202734.73	Saprospiraceae bacterium strain Bjer_18-Q3-R1-45_MAXAC.214	NORMAL	1
+2202734.84	Saprospiraceae bacterium strain Hjor_18-Q3-R7-51_BATAC.116	NORMAL	1
+2202734.96	Saprospiraceae bacterium strain Hade_18-Q3-R52-61_BAT3C.470	NORMAL	1
+2218525.3	Candidatus Termititenax persephonae strain NkOx7-02	SINGLE_SSU	1
+2219043.3	Armatimonadia bacterium AX-7	SINGLE_SSU	1
+222136.3	Helicobacter sp. MIT 01-6242	NORMAL	1
+222819.3	[Phormidium] sp. ETS-05	NORMAL	1
+2231116.12	Tenericutes bacterium strain zrk6	NORMAL	1
+2231116.13	Tenericutes bacterium strain zrk4	NORMAL	1
+2231116.14	Tenericutes bacterium strain zrk7	NORMAL	1
+2231116.15	Tenericutes bacterium strain zrk2	NORMAL	1
+224915.9	Buchnera aphidicola str. Bp (Baizongia pistaciae)	NCBI_REP	1
+2250252.3	uncultured bacterium clone BY	SINGLE_SSU	1
+2268143.5	Methanolinea sp. strain EsbE_18-Q3-R3-47_BAT3C.270	NORMAL	1
+2268201.8	Synergistales bacterium strain DFE_SYN	NORMAL	1
+2282143.12	Candidatus Caldatribacterium sp. AfrMine_MM5_36_81	SINGLE_SSU	1
+2283318.3	Moraxellaceae bacterium HYN0046	NORMAL	1
+228908.8	Nanoarchaeum equitans Kin4-M	NCBI_REP	1
+2293253.3	Virgibacillus sp. LJ137	NORMAL	1
+229919.9	Anaerolinea thermolimosa strain IMO-1	NORMAL	1
+229921.16	Levilinea saccharolytica strain KIBI-1	SINGLE_SSU	1
+2303331.3	Solimonas sp. K1W22B-7	NORMAL	1
+2304601.3	Cardinium endosymbiont of Culicoides punctatus strain cCpun	SINGLE_SSU	1
+2305226.3	Acidipila sp. EB88	NORMAL	1
+2305248.3	Chromatiales bacterium KTK01	SINGLE_SSU	1
+2315861.3	Atopobacter sp. AH10	SINGLE_SSU	1
+2316383.3	Thermoanaerobacterales bacterium SK-G1	NORMAL	1
+2321229.3	Salinisphaera sp. Q1T1-3	SINGLE_SSU	1
+2339232.3	Frankiales bacterium YIM 75000	SINGLE_SSU	1
+2340.3	Solemya velum gill symbiont WH	NCBI_REP	1
+234267.13	Candidatus Solibacter usitatus Ellin6076	NCBI_REP	1
+2358428.3	'Fragaria x ananassa' phyllody phytoplasma strain StrPh-Cl	NORMAL	1
+2364794.3	Actinomycetaceae bacterium Marseille-P6182	NORMAL	1
+236753.3	Fastidiosipila sanguinis strain CCUG 47711	NORMAL	1
+241368.3	Desulfovibrio ferrophilus strain IS5	NORMAL	1
+242600.3	Ichthyobacterium seriolicida strain JBKA-6	SINGLE_SSU	1
+243272.4	Mycoplasma arthritidis 158L3-1	NCBI_REP	1
+244328.196	uncultured Clostridia bacterium min17_bin18	NORMAL	1
+244328.198	uncultured Clostridia bacterium min17_bin68	NORMAL	1
+244328.199	uncultured Clostridia bacterium min17_bin58	NORMAL	1
+244328.201	uncultured Clostridia bacterium min17_bin53	NORMAL	1
+244328.203	uncultured Clostridia bacterium min17_bin09	NORMAL	1
+244581.5	Candidatus Caedibacter acanthamoebae	NCBI_REP	1
+244830.3	Anaerospora hongkongensis strain DSM 15969	SINGLE_SSU	1
+247481.57	Candidatus Cardinium hertigii strain cHgTN10	SINGLE_SSU	1
+247481.59	Candidatus Cardinium hertigii strain Pp_1	SINGLE_SSU	1
+247639.3	marine gamma proteobacterium HTCC2080	NCBI_REP	1
+2480626.3	Actinobacteria bacterium 15TR583 strain 15Tr583	SINGLE_SSU	1
+2483112.3	Lysobacter sp. 4284/11	NORMAL	1
+2485925.1702	Oscillospiraceae bacterium nC33_bin.3.fa	NORMAL	1
+2491047.3	Fretibacterium sp. OH1220_COT-178	SINGLE_SSU	1
+2491049.3	Leucobacter sp. OH1287	NORMAL	1
+2491050.3	Leucobacter sp. OH2974_COT-288	NORMAL	1
+2491083.3	Candidatus Methanoliparum thermophilum strain NM1a	SINGLE_SSU	1
+2491085.3	Candidatus Methanolliviera hydrocarbonicum strain NM1b	SINGLE_SSU	1
+2495426.3	Candidatus Methanosuratus sp. strain Ch88	SINGLE_SSU	1
+2496273.3	Clostridiales bacterium SYSU GA17129	SINGLE_SSU	1
+2496557.3	Paenibacillus spiritus strain MER_111	NORMAL	1
+2499145.3	Rhodococcus sp. X156	NORMAL	1
+2500179.3	Rhodospirillaceae bacterium Gri0909	SINGLE_SSU	1
+2502183.3	Telmatospirillum sp. J64-1	SINGLE_SSU	1
+2507553.3	Aphanocapsa feldmannii 277cV	SINGLE_SSU	1
+2508949.3	Candidatus Borkfalki ceftriaxensis strain HDS1380	SINGLE_SSU	1
+251051.4	Caldibacillus thermolactis DSM 23332	SINGLE_SSU	1
+2511025.3	Polymorphobacter sp. DJ1R-1	SINGLE_SSU	1
+2511069.3	Synechococcus sp. RSCCF101	NORMAL	1
+251538.3	Candidatus Blochmannia ocreatus C-006	SINGLE_SSU	1
+2518989.3	Halieaceae bacterium IMCC3088	NORMAL	1
+2527980.3	Planctomycetes bacterium Pan189	NORMAL	1
+2527983.3	Planctomycetes bacterium Pan44	NORMAL	1
+2527995.3	Planctomycetes bacterium Mal52	NORMAL	1
+2528007.3	Planctomycetes bacterium Pla110	NORMAL	1
+2528026.3	Planctomycetes bacterium Mal4	NORMAL	1
+2528027.3	Planctomycetes bacterium V22	NORMAL	1
+2528828.3	bacterium (Candidatus Stahlbacteria) strain E44_bin36	SINGLE_SSU	1
+2528828.5	bacterium (Candidatus Stahlbacteria) strain E29_bin14	SINGLE_SSU	1
+252967.3	Spirochaeta perfilievii strain P	NORMAL	1
+254247.3	Aquicella siphonis strain SGT-108	NORMAL	1
+2545760.3	Paenibacillus sp. 18JY21-1	NORMAL	1
+255719.3	Buchnera aphidicola (Chaitophorus populeti) strain CpopBac	NORMAL	1
+2558174.3	Candidatus Hydrogenosomobacter endosymbioticus 200920	SINGLE_SSU	1
+2562294.3	Soehngenia sp. 1933P	SINGLE_SSU	1
+2562705.86	Akkermansiaceae bacterium strain FRAM18_bin339	NORMAL	1
+2565777.3	Isachenkonia alkalipeptolytica strain Z-1701	SINGLE_SSU	1
+2569760.3	Terrabacteria group bacterium ANGP1 strain NP_1	NORMAL	1
+2570586.3	Candidatus Bandiella numerosa Ewo1	SINGLE_SSU	1
+2576307.3	Caloramator sp. E03	NORMAL	1
+2576308.3	Nakamurella sp. N5BH11	NORMAL	1
+2579976.3	Firmicutes bacterium CS-1	SINGLE_SSU	1
+2586642.3	Desulfobotulus sp. PAR22N	NORMAL	1
+2591009.3	Rhodospirillaceae bacterium R148	SINGLE_SSU	1
+2593301.3	Reinekea sp. SSH23	NORMAL	1
+2593652.3	Bacillaceae bacterium R1DC41	NORMAL	1
+2593672.3	Arcobacter sp. FWKO B	NORMAL	1
+2597224.3	Candidatus Acidulodesulfobacterium acidiphilum strain AP4	SINGLE_SSU	1
+2601575.3	Candidatus Cytomitobacter indipagum strain 1605	SINGLE_SSU	1
+2601646.3	Candidatus Sneabacter namystus strain 1621	SINGLE_SSU	1
+2601677.3	Chloroflexi bacterium 3753O	SINGLE_SSU	1
+2603660.3	Planctomycetales bacterium 10988	NORMAL	1
+2604328.3	Rhizobiales bacterium SYSU G02060	SINGLE_SSU	1
+2606450.3	Alicyclobacillus sp. TC	NORMAL	1
+2606906.3	Thermoanaerobacteraceae bacterium A05MB	SINGLE_SSU	1
+2607812.3	Symploca sp. SIO2E9	SINGLE_SSU	1
+2608984.3	Candidatus Nitrosymbiomonas proteolyticus strain 317325-2	SINGLE_SSU	1
+2608986.3	Candidatus Denitrolinea symbiosum strain 317325-4	SINGLE_SSU	1
+261317.3	Buchnera aphidicola (Cinara tujafilina)	NCBI_REP	1
+2613842.3	Wenzhouxiangella sp. W260	SINGLE_SSU	1
+2614228.11	Desulfuromusa sp. D100SM.bin.1	SINGLE_SSU	1
+2614248.5	Ardenticatenales bacterium strain Aved_18-Q3-R54-62_BATAC.767	NORMAL	1
+2650924.3	Aestuariivirga litoralis strain Ju07	SINGLE_SSU	1
+2654184.5	Candidatus Hydrogenedens sp. strain RI_113	SINGLE_SSU	1
+2654547.3	Pseudactinotalea sp. HY158	NORMAL	1
+2665156.5	Candidatus Mycosynbacter amalyticus JR1	SINGLE_SSU	1
+2665158.3	Nakamurella sp. YIM 132087	NORMAL	1
+2665646.3	Alicyclobacillus sp. SO9	NORMAL	1
+2665650.3	Candidatus Udaeobacter sp. strain AEW3	SINGLE_SSU	1
+2670412.5	Candidatus Thalassarchaeum sp. strain BS30m-G33	SINGLE_SSU	1
+2675781.3	Enterobacteriaceae endosymbiont of Donacia provostii strain DprovSym	NORMAL	1
+2675787.3	Enterobacteriaceae endosymbiont of Donacia tomentosa strain DtomSym	NORMAL	1
+267748.5	Mycoplasma mobile 163K	NCBI_REP	1
+2681555.3	Fodinicola sp. GKU 173	NORMAL	1
+2681987.3	Blochmannia endosymbiont of Colobopsis nipponica strain CNIPBac	SINGLE_SSU	1
+2683717.3	Erysipelothrix sp. 165301687	NORMAL	1
+2683967.3	Mycoplasma sp. NEAQ87857	NORMAL	1
+2686094.3	Caulobacteraceae bacterium 0127_4	SINGLE_SSU	1
+2697043.3	Kiritimatiellaeota bacterium S-5007	NORMAL	1
+2698.4	Heliobacterium chlorum strain DSM 3682	SINGLE_SSU	1
+2704250.3	Candidatus Roseilinea sp. NK_OTU-006	SINGLE_SSU	1
+2704465.3	Rhodocytophaga sp. 172606-1	NORMAL	1
+2707344.3	Firmicutes bacterium R50 strain R501	NORMAL	1
+2709382.3	Caulobacter sp. 17J65-9	NORMAL	1
+2713569.3	Wenzhouxiangella sp. XN24	SINGLE_SSU	1
+2714958.4	Candidatus Aurora vandensis strain LV9	SINGLE_SSU	1
+2715251.3	Candidatus Paceibacter sp. strain MAG_10	SINGLE_SSU	1
+2715251.4	Candidatus Paceibacter sp. strain bin98o	SINGLE_SSU	1
+2715251.55	Candidatus Paceibacter sp. KUB_Bin06	SINGLE_SSU	1
+2715679.3	Nitrospiraceae bacterium T55J	NORMAL	1
+2717288.3	Victivallis sp. Marseille-Q1083	NORMAL	1
+2717365.3	Ktedonobacteria bacterium brp13	NORMAL	1
+2717857.6	Vampirovibrio sp. DET50b	NORMAL	1
+2720780.3	Candidatus Adamsella avium strain Chicken_20_mag_183	SINGLE_SSU	1
+2721128.3	Candidatus Heteroclostridium caecigallinarum strain Chicken_24_mag_188	SINGLE_SSU	1
+2721137.3	Candidatus Neochristensenella gallicola strain Chicken_24_mag_190	SINGLE_SSU	1
+2721153.3	Candidatus Roslinia caecavium strain Chicken_8_mag_97	SINGLE_SSU	1
+2722752.3	Iamia sp. SCSIO 61187	SINGLE_SSU	1
+2726117.3	Mycoplasma sp. C264-NAS	NORMAL	1
+272633.4	Mycoplasma penetrans HF-2	NCBI_REP	1
+272635.4	Mycoplasma pulmonis UAB CTIP	NCBI_REP	1
+2729629.3	Sulfobacillus sp. DSM 109850	NORMAL	1
+273116.8	Thermoplasma volcanium GSS1	NCBI_REP	1
+2731377.3	Clostridiales bacterium LB2	NORMAL	1
+2732487.3	Nitrosomonadales bacterium Swamp67	NORMAL	1
+2737536.3	Micropruina sp. strain SSC1	SINGLE_SSU	1
+2737536.6	Micropruina sp. strain Hjor_18-Q3-R7-51_MAXAC.115	SINGLE_SSU	1
+2740163.4	Desulfobulbaceae bacterium PPLL	NORMAL	1
+2740515.3	Hydrogenimonas urashimensis strain SSM-sur55	NORMAL	1
+2741701.3	Candidatus Paracaedibacteraceae bacterium 'Lake Konstanz'	NORMAL	1
+2742195.3	Mycoplasma sp. OR1901	NORMAL	1
+2742824.3	Schlegelella sp. ID0723	NORMAL	1
+2743772.3	Effusibacillus sp. skT53	NORMAL	1
+2746921.3	Puniceicoccaceae bacterium Marseille-Q1082	NORMAL	1
+2749086.3	Hyphobacterium sp. CCMP332	NORMAL	1
+2751313.3	Koleobacter methoxysyntrophicus strain NRmbB1	NORMAL	1
+2755323.3	thermophilic bacterium 2918	SINGLE_SSU	1
+2756263.3	Liberibacter sp. Z1	NORMAL	1
+2758572.3	Schaalia sp. JY-X169	NORMAL	1
+2759660.3	Bartonella sp. HY038	NORMAL	1
+2767591.3	Spirulina major CCY15215	NORMAL	1
+2770581.3	Rickettsiales endosymbiont of Paramecium tredecaurelia strain WO2	SINGLE_SSU	1
+2771352.3	Pelobacter sp. M08fum	NORMAL	1
+2771369.3	Alicyclobacillaceae bacterium TP075	NORMAL	1
+2773236.3	Limnochordaceae bacterium strain Bu05	NORMAL	1
+2773677.3	Aestuariimicrobium sp. YIM S02566	NORMAL	1
+2774334.3	Geminocystis sp. M7585_C2015_104	SINGLE_SSU	1
+2779161.4	Kouleothrix sp. strain Ribe_18-Q3-R11-54_MAXAC.235	NORMAL	1
+2779445.3	Clostridium sp. 'deep sea'	NORMAL	1
+2787751.4	Desulfovibrionaceae bacterium LT0009	NORMAL	1
+2791014.3	Malacoplasma sp. MAG2	SINGLE_SSU	1
+2793070.3	Adhaeribacter sp. BT258	NORMAL	1
+2793259.3	Candidatus Roseilinea mizusawaensis strain AA3_104	SINGLE_SSU	1
+2796927.3	Gelria sp. Kuro-4	NORMAL	1
+2799335.3	Paenibacillus sp. YIM B00362 strain YIM B00362 = KCTC 43272	NORMAL	1
+2799636.3	Catonella sp. Marseille-Q4567	NORMAL	1
+2802285.4	Candidatus Hepatincola sp. Av	NORMAL	1
+2803911.3	Nakamurella sp. YIM 132084	NORMAL	1
+2811108.3	Glycomycetaceae bacterium DSM 106290	NORMAL	1
+2812560.3	Conexibacter sp. SYSU D00693	NORMAL	1
+2812562.3	Herbiconiux sp. SYSU D00978	NORMAL	1
+2812953.3	Natronogracilivirgula saccharolytica strain Z-1702	SINGLE_SSU	1
+2814656.3	Thermosipho sp. FR-w03	NORMAL	1
+2816908.3	Sedimentibacter sp. zth1	NORMAL	1
+2817381.3	Patulibacter sp. SYSU D01012	SINGLE_SSU	1
+28181.21	Magnetovibrio blakemorei strain MV-1	SINGLE_SSU	1
+2819277.7	Candidatus Syntrophosphaera sp. strain KA04	SINGLE_SSU	1
+28195.3	Thermonema lapsum strain DSM 5718	SINGLE_SSU	1
+2820884.3	Nocardiopsaceae bacterium VN6-2	NORMAL	1
+2823693.3	Caulobacter sp. S6	NORMAL	1
+2828656.4	Spirochaetales bacterium F1F22	NORMAL	1
+2829083.3	Alphaproteobacteria bacterium SO-S41	NORMAL	1
+2835533.4	Variovorax sp. PCZ-1	NORMAL	1
+2838508.4	Candidatus Borkfalkia faecavium BRZ_GB__bin7	SINGLE_SSU	1
+2838603.4	Candidatus Gallimonas intestinavium BRZ_GC__bin31	SINGLE_SSU	1
+2840180.3	Campylobacter sp. 19-13652	NORMAL	1
+2840666.3	Candidatus Alectryobacillus merdavium BRZ_BR__bin152	SINGLE_SSU	1
+2840719.4	Candidatus Caccopulliclostridium gallistercoris BRZ_A__bin6	SINGLE_SSU	1
+2840752.4	Candidatus Coprosoma intestinipullorum BRZ_ID__bin100	SINGLE_SSU	1
+2840783.3	Candidatus Enterocola intestinipullorum BRZ_EK__bin20	SINGLE_SSU	1
+2840784.4	Candidatus Enteromonas pullicola BRZ_PK__bin25	SINGLE_SSU	1
+2840821.3	Candidatus Fimimonas gallinarum strain CHK121-14286	SINGLE_SSU	1
+2840870.3	Candidatus Merdivicinus intestinigallinarum strain ChiBcec18-2170	SINGLE_SSU	1
+2840932.3	Candidatus Scatoplasma merdavium BRZ_KK__bin21	SINGLE_SSU	1
+2841522.3	Virgibacillus sp. MSJ-26	NORMAL	1
+2841523.3	Acetivibrio sp. MSJd-27	SINGLE_SSU	1
+2849779.3	Aquihabitans sp. G128	SINGLE_SSU	1
+2851010.3	Leucobacter sp. NC76-1	NORMAL	1
+2864873.3	Ornithinimicrobium sp. Arc0846-15	NORMAL	1
+2866714.3	Oscillochloris sp. ZM17-4	SINGLE_SSU	1
+2881234.10	Rhodobacteraceae bacterium 960558	NORMAL	1
+2910770.4	Brachybacterium sp. JHP9	NORMAL	1
+2923363.4	Bombilactobacillus sp. SG4_A1	NORMAL	1
+29343.3	"[Clostridium] cellulosi strain DG5"	NCBI_REP	1
+2934315.3	Clostridium sp. M3/9	NORMAL	1
+2937800.4	Conexibacter sp. S30A1	NORMAL	1
+2937801.4	Conexibacter sp. DBS9H8	NORMAL	1
+293826.6	Alkaliphilus metalliredigens QYMF	NCBI_REP	1
+2941513.3	Anaerocaecibacter sp. CLA_AA_M11 Eubacteriales_fam_nov_CLA_AA_M11	SINGLE_SSU	1
+2942213.4	Sansalvadorimonas sp. 2012CJ34-2	SINGLE_SSU	1
+2942475.3	Alicyclobacillus sp. SP_1	NORMAL	1
+295108.7	Candidatus Berkiella aquae strain HT99	SINGLE_SSU	1
+29523.365	Bacteroides sp. cpbc052018	NORMAL	1
+29539.6	Thermoleophilum album strain ATCC 35263	SINGLE_SSU	1
+295596.4	Candidatus Hepatoplasma crinochetorum strain Ps	NORMAL	1
+297536.3	Oryzihumus leptocrescens strain DSM 18082	NORMAL	1
+311458.9	Candidatus Caldiarchaeum subterraneum	NCBI_REP	1
+313606.3	Microscilla marina ATCC 23134	NCBI_REP	1
+314260.8	Parvularcula bermudensis HTCC2503	NCBI_REP	1
+314278.4	Nitrococcus mobilis Nb-231	SHORT_SSU	1
+314607.3	beta proteobacterium KB13	NCBI_REP	1
+322095.118	Porphyromonas somerae CE91-St14	NORMAL	1
+33074.3	Zymobacter palmae strain IAM14233	NORMAL	1
+330779.12	Sulfolobus acidocaldarius DSM 639	NCBI_REP	1
+331113.3	Simkania negevensis Z	NCBI_REP	1
+332175.3	Desulfosalsimonas propionicica strain DSM 17721	SINGLE_SSU	1
+332614.23	uncultured Pseudomonadales bacterium FRAM_RAS_EGC1617_bin32	NORMAL	1
+336810.89	Candidatus Sulcia muelleri strain OLIH	SINGLE_SSU	1
+338645.5	Candidatus Contubernalis alkalaceticum Z-7904	NORMAL	1
+33923.3	Mycoplasma felis strain Myco-2	NORMAL	1
+34034.14	uncultured delta proteobacterium strain 86	NORMAL	1
+34097.9	Brevinema andersonii strain ATCC 43811	SINGLE_SSU	1
+351160.9	Methanocella arvoryzae MRE50	NCBI_REP	1
+353851.11	Mycoplasma sp. Ms02	NORMAL	1
+35773.3	Candidatus Phytoplasma luffae strain NCHU2019	NORMAL	1
+360412.5	Longilinea arvoryzae strain KOME-1	NORMAL	1
+364032.3	Sulfurivirga caldicuralii strain DSM 17737	SINGLE_SSU	1
+36835.4	[Clostridium] colinum DSM 6011	NORMAL	1
+36842.3	Maledivibacter halophilus strain M1	SINGLE_SSU	1
+36849.5	Oxobacter pfennigii strain DSM 3222	SINGLE_SSU	1
+36868.4	Wigglesworthia glossinidia endosymbiont of Glossina morsitans	NCBI_REP	1
+36870.6	Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis	NCBI_REP	1
+369822.10	Rickettsia conorii subsp. raoultii BIME	NORMAL	1
+370038.4	Desulfovibrio marinus strain CS1	NORMAL	1
+372461.17	Buchnera aphidicola BCc	NCBI_REP	1
+373903.5	Halothermothrix orenii H 168	NCBI_REP	1
+374463.5	Baumannia cicadellinicola str. Hc (Homalodisca coagulata)	NORMAL	1
+376489.5	Halotalea alkalilenta strain IHB B 13600	NORMAL	1
+37692.4	Candidatus Phytoplasma mali strain AT	NCBI_REP	1
+38080.3	Nitrosospira sp. strain SZUA-177	NORMAL	1
+381751.3	Thermocrinis minervae strain DSM 19557	NORMAL	1
+388746.3	Puniceicoccus vermicola strain JCM14086	SINGLE_SSU	1
+391615.3	gamma proteobacterium HTCC5015	SHORT_SSU	1
+395493.3	Beggiatoa alba B18LD	NCBI_REP	1
+397948.10	Caldivirga maquilingensis IC-167	NCBI_REP	1
+39841.4	Thermodesulforhabdus norvegica strain DSM 9990	SINGLE_SSU	1
+398512.9	Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933	NORMAL	1
+398773.6	Methylohalomonas lacus HMT 1	SINGLE_SSU	1
+399579.5	Thermogymnomonas acidicola strain JCM 13583	SINGLE_SSU	1
+402171.3	Lapillicoccus jejuensis strain DSM 18607	NORMAL	1
+405555.3	Haloactinospora alba strain DSM 45015	NORMAL	1
+40754.3	Thioploca ingrica	NCBI_REP	1
+412056.6	uncultured Verrucomicrobiae bacterium FRAM_RAS_EGC1617_bin38	NORMAL	1
+414004.10	Cenarchaeum symbiosum A	NCBI_REP	1
+414046.3	Natronocella acetinitrilica ANL 6-2	SINGLE_SSU	1
+415426.13	Hyperthermus butylicus DSM 5456	NCBI_REP	1
+418701.3	Litoricola lipolytica strain IMCC 1097	NORMAL	1
+42256.3	Rubrobacter radiotolerans strain RSPS-4	NCBI_REP	1
+436114.4	Sulfurihydrogenibium sp. YO3AOP1	NCBI_REP	1
+437022.7	Candidatus Berkiella cookevillensis strain CC99	SINGLE_SSU	1
+445932.6	Elusimicrobium minutum Pei191	NCBI_REP	1
+446470.6	Stackebrandtia nassauensis DSM 44728	NCBI_REP	1
+447679.3	Ekhidna lutea strain DSM 19307	SINGLE_SSU	1
+452471.5	Candidatus Amoebophilus asiaticus 5a2	SINGLE_SSU	1
+453591.15	Ignicoccus hospitalis KIN4/I	NCBI_REP	1
+45361.3	Mycoplasma conjunctivae strain HRC/581	NCBI_REP	1
+45498.8	Helicobacter cholecystus strain NCTC13205	NORMAL	1
+455253.7	Methylonatrum kenyense AMT 1	SINGLE_SSU	1
+456442.19	Methanoregula boonei 6A8	NCBI_REP	1
+45656.4	Desulfonema limicola strain 5ac10	NORMAL	1
+457570.14	Natranaerobius thermophilus JW/NM-WN-LF	NCBI_REP	1
+459.19	Legionella sp. strain MCMED-G38	NORMAL	1
+46223.5	Thermoflavimicrobium dichotomicum strain DSM 44778	SINGLE_SSU	1
+465721.9	Steroidobacter denitrificans strain DSM 18526	SINGLE_SSU	1
+46610.9	Geobacter sp. strain GAC1	NORMAL	1
+469812.4	Candidatus Clavichlamydia salmonicola strain ET	SINGLE_SSU	1
+471853.5	Beutenbergia cavernae DSM 12333	NCBI_REP	1
+472834.3	Candidatus Purcelliella pentastirinorum strain OLIH	SINGLE_SSU	1
+474960.7	Hydrogenoanaerobacterium saccharovorans strain An564	SINGLE_SSU	1
+476281.3	Candidatus Ishikawaella capsulata Mpkobe	NORMAL	1
+479431.6	Nakamurella multipartita DSM 44233	NCBI_REP	1
+479434.6	Sphaerobacter thermophilus DSM 20745	SHORT_SSU	1
+48003.7	Mycoplasma pullorum strain B359_6	NORMAL	1
+483423.4	Estrella lausannensis strain CRIB-30	SINGLE_SSU	1
+48467.60	Prosthecobacter debontii TH-08apr19-107	SINGLE_SSU	1
+485915.5	Desulfohalobium retbaense DSM 5692	NCBI_REP	1
+485916.5	Desulfotomaculum acetoxidans DSM 771	NCBI_REP	1
+490188.4	Hydrocarboniphaga daqingensis strain CGMCC 1.7049	NORMAL	1
+495820.6	Spirobacillus cienkowskii strain binning01	SINGLE_SSU	1
+499177.3	Clostridium sticklandii DSM 519	NCBI_REP	1
+499555.4	Dietzia timorensis strain ID05-A0528	NORMAL	1
+502393.3	Gemella asaccharolytica strain KA00071	NORMAL	1
+511435.3	Candidatus Azobacteroides pseudotrichonymphae	NORMAL	1
+511995.9	Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2	NCBI_REP	1
+512564.3	Mycoplasma crocodyli MP145	NCBI_REP	1
+512762.3	Kineococcus xinjiangensis strain DSM 22857	NORMAL	1
+51515.8	Dehalobacterium formicoaceticum strain DMC	NORMAL	1
+515440.3	Oceanotoga teriensis strain DSM 24906	SINGLE_SSU	1
+517418.5	Chloroherpeton thalassium ATCC 35110	NCBI_REP	1
+517424.3	Salsuginibacillus halophilus strain CGMCC 1.07653	SINGLE_SSU	1
+520767.10	Thermovenabulum gondwanense strain R270	SINGLE_SSU	1
+521011.8	Methanosphaerula palustris E1-9c	NCBI_REP	1
+521158.3	Deinobacterium chartae strain DSM 21458	SINGLE_SSU	1
+522772.6	Denitrovibrio acetiphilus DSM 12809	NCBI_REP	1
+523846.9	Methanothermus fervidus DSM 2088	NCBI_REP	1
+523847.9	Sulfolobus metallicus DSM 6482 = JCM 9184	NORMAL	1
+525904.6	Thermobaculum terrenum ATCC BAA-798	NCBI_REP	1
+525909.11	Acidimicrobium ferrooxidans DSM 10331	NCBI_REP	1
+530564.3	Pirellula staleyi DSM 6068	NCBI_REP	1
+53371.4	Pilimelia anulata strain JCM 3090	SINGLE_SSU	1
+53422.5	Thermobrachium celere strain A9	SINGLE_SSU	1
+546269.5	Filifactor alocis ATCC 35896	NORMAL	1
+547055.3	Methanolinea mesophila strain DSM 23604	NORMAL	1
+547188.18	Phycisphaera mikurensis SulCav_PC08_64_54_21	SINGLE_SSU	1
+553981.3	Chromatiaceae bacterium RW strain NSCAC1	NORMAL	1
+555950.3	uncultured Balneola sp. strain AG-896-M03	NORMAL	1
+564710.3	Vagococcus acidifermentans strain LMG 24798	NORMAL	1
+568817.3	Serratia symbiotica str. 'Cinara cedri'	NORMAL	1
+569599.3	Umboniibacter marinipuniceus strain DSM 25080	SINGLE_SSU	1
+572544.3	Ilyobacter polytropus DSM 2926	NCBI_REP	1
+573061.5	Clostridium cellulovorans 743B	NCBI_REP	1
+575540.3	Isosphaera pallida ATCC 43644	NCBI_REP	1
+575590.3	Bacteroidetes oral taxon 274 str. F0058	NCBI_REP	1
+57664.3	Desulfuromonas thiophila strain DSM 8987	NORMAL	1
+580340.6	Thermovirga lienii DSM 17291	NCBI_REP	1
+582515.4	Rubidibacter lacunae KORDI 51-2	NCBI_REP	1
+583356.9	Ignisphaera aggregans DSM 17230	NCBI_REP	1
+584708.3	Aminomonas paucivorans DSM 12260	NCBI_REP	1
+589865.4	Desulfurivibrio alkaliphilus AHT2	NCBI_REP	1
+591372.3	Agaricicola taiwanensis strain CCM 7684	SINGLE_SSU	1
+592031.3	Eubacterium saphenum ATCC 49989	NCBI_REP	1
+592834.66	uncultured Opitutales bacterium REFINED_METABAT215_TOP10_CONTIGS_1500_ASSEMBLY_K 77_MERGED__Hadza_MoBio_hadza-I-L_P_8_2357.43	NORMAL	1
+598644.3	Labedaea rhizosphaerae strain DSM 45361	SINGLE_SSU	1
+61169.14	Alicyclobacillus sp. HOT.MB2.91	NORMAL	1
+61635.6	Acholeplasma brassicae strain 0502	NCBI_REP	1
+634113.3	Arsenophonus symbiont of Lipoptena fortisetosa strain CB	SINGLE_SSU	1
+638303.3	Thermocrinis albus DSM 14484	NCBI_REP	1
+643648.3	Syntrophothermus lipocalidus DSM 12680	NCBI_REP	1
+644282.4	Desulfarculus baarsii DSM 2075	NCBI_REP	1
+644295.10	Methanohalobium evestigatum Z-7303	NCBI_REP	1
+649638.3	Truepera radiovictrix DSM 17093	NCBI_REP	1
+64971.3	Pseudospirillum japonicum strain DSM 7165	SINGLE_SSU	1
+654363.3	Campylobacter troglodytis strain MIT 05-9149A	NORMAL	1
+655015.3	Methylocystis bryophila strain S285	NORMAL	1
+656914.3	Desulfonispora thiosulfatigenes DSM 11270 strain DSM 11270	NORMAL	1
+658266.3	uncultured Anaeroplasmataceae bacterium strain MGBC104323	NORMAL	1
+661478.3	Fimbriimonas ginsengisoli Gsoil 348	NCBI_REP	1
+666964.4	Azoarcus taiwanensis strain NSC3	NORMAL	1
+667306.4	Aciditerrimonas ferrireducens MV1	SINGLE_SSU	1
+671065.12	Metallosphaera yellowstonensis MK1	NCBI_REP	1
+671145.3	Halomarina oriensis strain SPP-AMP-1	SINGLE_SSU	1
+673862.3	delta proteobacterium BABL1	SINGLE_SSU	1
+674972.3	Microaerobacter geothermalis DSM 22679	SINGLE_SSU	1
+679200.3	Johnsonella ignava ATCC 51276	NCBI_REP	1
+684719.3	alpha proteobacterium HIMB114	NCBI_REP	1
+690879.6	Terrimicrobium sacchariphilum strain NM-5	SINGLE_SSU	1
+694429.7	Pyrolobus fumarii 1A	NCBI_REP	1
+696127.4	Candidatus Midichloria mitochondrii IricVA	NCBI_REP	1
+69666.3	Caulobacter mirabilis strain FWC 38	NORMAL	1
+696763.3	Thermasporomyces composti strain DSM 22891	NORMAL	1
+697281.3	Mahella australiensis 50-1 BON	NCBI_REP	1
+69896.6	Candidatus Phytoplasma solani strain SA-1	NORMAL	1
+700015.3	Coriobacterium glomerans PW2	NCBI_REP	1
+70125.100	Nitrospira sp. strain K_DeepCast_250m_m1_045	SINGLE_SSU	1
+70125.88	Nitrospira sp. strain BS150m-G55	SINGLE_SSU	1
+706587.4	Desulfomonile tiedjei DSM 6799	NCBI_REP	1
+707003.271	uncultured Oscillospiraceae bacterium min17_bin45	NORMAL	1
+707003.272	uncultured Oscillospiraceae bacterium min17_bin82	NORMAL	1
+707003.275	uncultured Oscillospiraceae bacterium min17_bin21	NORMAL	1
+712991.3	Lachnospiraceae bacterium oral taxon 500 strain W11650	NORMAL	1
+716817.4	Rubricoccus marinus strain SG-29	SINGLE_SSU	1
+743966.3	Mycoplasma bovoculi M165/69	NCBI_REP	1
+744979.4	Ahrensia sp. R2A130	NCBI_REP	1
+744985.3	alpha proteobacterium HIMB59	NCBI_REP	1
+745714.4	Oceanibacterium hippocampi strain CECT 7691	SINGLE_SSU	1
+751994.3	gamma proteobacterium HIMB30	NCBI_REP	1
+754517.3	Mycoplasma sp. Phocoena C-264-GEN	NORMAL	1
+759412.3	Natranaerobius trueperi strain DSM 18760	NORMAL	1
+768198.3	Acidiphilium iwatense KCTC 23505	NORMAL	1
+768670.3	Calditerrivibrio nitroreducens DSM 19672	NCBI_REP	1
+794903.4	Opitutaceae bacterium TAV5	NCBI_REP	1
+795955.3	Nesterenkonia sp. F	NCBI_REP	1
+81857.4	Lactobacillus selangorensis strain DSM 13344	NCBI_REP	1
+82654.3	Pseudanabaena sp. PCC 7367	NCBI_REP	1
+83401.4	Roseospirillum parvum strain 930I	SINGLE_SSU	1
+83406.3	gamma proteobacterium HdN1	NCBI_REP	1
+859654.3	Candidatus Blochmannia vafer str. BVAF	SINGLE_SSU	1
+861532.3	Ammoniphilus resinae strain DSM 24738	SINGLE_SSU	1
+863522.6	Bryocella elongata strain DSM 22489	SINGLE_SSU	1
+869210.3	Marinithermus hydrothermalis DSM 14884	NCBI_REP	1
+869212.3	Turneriella parva DSM 21527	NCBI_REP	1
+869279.7	Thermanaerothrix daxensis strain GNS-1	SINGLE_SSU	1
+871664.7	Blautia stercoris strain 3_YM_SP_D4_24.mj	NORMAL	1
+877411.3	Ruminococcus sp. NK3A76	NCBI_REP	1
+877414.3	Clostridiales bacterium NK3B98	SHORT_SSU	1
+877466.43	Thermoflexus hugenholtzii JAD2 MoH-23oct19-89	SINGLE_SSU	1
+877466.45	Thermoflexus hugenholtzii JAD2 TH-11nov19-21	SINGLE_SSU	1
+880071.3	Flexibacter litoralis DSM 6794	NCBI_REP	1
+880072.3	Desulfobacca acetoxidans DSM 11109	NCBI_REP	1
+882090.7	Methanolinea tarda NOBI-1	NCBI_REP	1
+883112.3	Facklamia ignava CCUG 37419	NCBI_REP	1
+89524.3	Rubrimonas cliftonensis strain DSM 15345	SINGLE_SSU	1
+9.55	Buchnera aphidicola strain BCifornacula	NORMAL	1
+90241.3	Moraxella lincolnii strain CCUG 9405	NORMAL	1
+909663.3	Syntrophorhabdus aromaticivorans UI	NCBI_REP	1
+909943.3	SAR116 cluster alpha proteobacterium HIMB100	NCBI_REP	1
+911205.3	Eilatimonas milleporae strain DSM 25217	SINGLE_SSU	1
+913338.3	actinobacterium SCGC AAA027-L06	NCBI_REP	1
+91750.1138	uncultured Alphaproteobacteria bacterium min17_bin31	NORMAL	1
+91844.29	Candidatus Portiera aleyrodidarum strain SiSi	SINGLE_SSU	1
+92404.3	Mycoplasma gypis strain B1T1	NORMAL	1
+92487.3	Thiothrix eikelboomii strain ATCC 49788	NORMAL	1
+926562.3	Owenweeksia hongkongensis DSM 17368	NCBI_REP	1
+926569.3	Anaerolinea thermophila UNI-1	NCBI_REP	1
+926692.3	Halonatronum saccharophilum DSM 13868	NCBI_REP	1
+927664.3	Flexibacter flexilis DSM 6793	SINGLE_SSU	1
+932004.8	uncultured Marinoscillum sp. strain AG-343-C10	SINGLE_SSU	1
+933063.3	Dichotomicrobium thermohalophilum strain DSM 5002	SINGLE_SSU	1
+933262.13	Desulfosarcina sp. BuS5	SINGLE_SSU	1
+933801.14	Acidianus hospitalis W1	NCBI_REP	1
+935948.5	Caldanaerobius polysaccharolyticus DSM 13641	NCBI_REP	1
+937775.13	Methanoplanus limicola DSM 2279	SINGLE_SSU	1
+939857.3	SAR406 cluster bacterium SCGC AAA298-D23	NCBI_REP	1
+940295.6	Ignicoccus islandicus DSM 13165 strain DSM 13166	NORMAL	1
+945747.3	Lusitaniella coriacea LEGE 07157	SINGLE_SSU	1
+946483.6	Candidatus Symbiobacter mobilis CR	NORMAL	1
+947515.3	gamma proteobacterium BW-2	NORMAL	1
+947516.3	gamma proteobacterium SS-5	NORMAL	1
+949.3	Anaplasma platys strain S3	NORMAL	1
+957042.16	Fuchsiella alkaliacetigena Z-7100	SINGLE_SSU	1
+96561.5	Desulfococcus oleovorans Hxd3	SHORT_SSU	1
+977794.5	Actinocrinis puniceicyclus strain DSM 45618	SINGLE_SSU	1
+979970.3	Acetobacteroides hydrogenigenes strain RL-C	SINGLE_SSU	1
+981385.3	Thermotomaculum hydrothermale strain AC55	NORMAL	1
+985867.6	Candidatus Odyssella thessalonicensis L13	NCBI_REP	1
+98804.3	Buchnera aphidicola (Tuberolachnus salignus)	NORMAL	1
+990373.3	Humitalea rosea strain DSM 24525	SINGLE_SSU	1
+993414.3	Naumannella halotolerans strain DSM 24323	SINGLE_SSU	1
+999894.9	Thermosulfurimonas dismutans strain S95	SINGLE_SSU	1
